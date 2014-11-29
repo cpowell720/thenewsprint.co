@@ -68,7 +68,7 @@ $(function() {
     var postURL = postURLs[index];
 		
     $.get(postURL, function(data) {
-      $(data).find(".post").appendTo(".posts");
+      $(data).find(".date-section").appendTo(".posts");
       callback();
     });
   }
