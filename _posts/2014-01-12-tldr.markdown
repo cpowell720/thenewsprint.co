@@ -1,0 +1,21 @@
+---
+layout: post
+title: TL;DR
+date: '2014-01-12 17:33:22'
+---
+
+<p>Seth Godin:</p>
+
+<hr />
+
+<blockquote>
+  <p><em>Judging by length is foolish. TL;DR shows self-contempt, because you're ignoring the useful in exchange for the short or the amusing. The media has responded to our demand by giving us a rising tide of ever shorter, ever more amusing wastes of time. Short lowers the bar, but it also makes it hard to deliver much.</em></p>
+</blockquote>
+
+<hr />
+
+<p>Too long; didn't read. It's a disease. It's an excuse.</p>
+
+<p>Although I live in a town of fairly conservative-minded people, I am surprised to say that my classmates are fairly unaware of Twitter. Twitter is the perfection of short bursts of information and status updates. It's the polar opposite of TL;DR. But I know very few people locally who are on Twitter.</p>
+
+<p>Does this strike an accord solely with that conservatism? Or, is it becase the evolution of widely read online content has not yet reached the 140 character extreme?</p>

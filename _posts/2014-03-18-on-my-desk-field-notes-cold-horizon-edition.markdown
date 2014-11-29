@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Field Notes: Cold Horizon'
+date: '2014-03-18 03:04:51'
+---
+
+<img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/03/icyglacier.jpg" /><p data-preserve-html-node="true">My Field Notes collection is growing, albeit slowly. Despite writing out a <a data-preserve-html-node="true" href="http://www.thenewsprint.co//a-guide-to-collecting-field-notes-colors">lengthy guide</a> on collecting Colors editions, I never suspected <a data-preserve-html-node="true" href="http://www.ebay.ca/itm/161237098804?ssPageName=STRK:MEWAX:IT&amp;_trksid=p3984.m1438.l2649"><em data-preserve-html-node="true">the cost</em></a> involved in acquiring these books. Luckily, the <a data-preserve-html-node="true" href="http://fieldnotesbrand.com/shop/">Field Notes online store</a> still has a few editions available.</p><p data-preserve-html-node="true">I grabbed two <a data-preserve-html-node="true" href="http://fieldnotesbrand.com/colors/coldhorizon/">Cold Horizon</a> three packs and kept one under wraps in case I need to make a trade in the future. In the meantime, I began snapping some photos of the opened three pack and I wrote down my initial impressions of my latest acquisition.</p><h2 data-preserve-html-node="true">Cold Horizon</h2><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/03/coldhorizon.jpg" /><p data-preserve-html-node="true">Unlike the <a data-preserve-html-node="true" href="http://www.thenewsprint.co//on-my-desk-field-notes-drink-local-edition">Drink Local edition</a>, Cold Horizon comes in a single three pack. As the Winter 2013 representative, Cold Horizon is printed in shades of blue-green, blue and grey-blue. The three colours flow from one book to the next and become reminiscent of a mighty, shimmering glacier when seen side by side. My personal favourite is the blue-grey book.</p>
+
+<p data-preserve-html-node="true">Cold Horizon is printed on an Appleton Utopian One 120#C Gloss paper which is very reflective. Not only are the covers reflective, they also pick up fingerprints like my iPhone screen. When snapping photos of the three pack, I found myself wiping off the fingerprints before every shot.</p><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/03/highglossreflection.jpg" /><p data-preserve-html-node="true">Like all other Field Notes books, Cold Horizon is bound by three staples. However, unlike Drink Local, Cold Horizon staples are silver and brilliantly blend into the high gloss finish of the cover. </p>
+
+<p data-preserve-html-node="true">Most importantly, the innard paper is the same Finch Opaque Smooth paper found in many other Field Notes books. The paper is dyed with light green, light blue and cool gray inks and the full grid is printed in a light gray ink that is easy on the eyes. In my experience, I find this standard paper to be more sturdy than kraft versions. I don’t know if the ink has caused the paper to be more rigid, but the paper feels more durable to the touch. </p><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/03/coldhorizoninnards.jpg" />
+<p data-preserve-html-node="true">The Cold Horizon innards are my favourite innards yet. The paper is slightly more sturdy and is coloured brilliantly to fit the glacier-smooth experience. My blue-inked <a data-preserve-html-node="true" href="http://thewirecutter.com/reviews/the-best-pen/">Jetstream</a> fits marvelously on the blue/green/gray paper.</p>
+
+<p data-preserve-html-node="true">Akin to Drink Local, the covers are printed on a Bright White paper. This white paper shows through in places of wear and tear. Looking at my specific books, the tops and bottoms show white wear and this is especially prevalent on the spine. On the inside, however, the glossy white makes my inner-documentation easily visible and as charming as ever. I love the way the inside-cover ink shimmers in different blues, greens and grays. </p>
+
+<p data-preserve-html-node="true">Although I’m a little late to the Winter Colors edition party, I can heartily say that the cool blues, greens and grays are fading away both physically and metaphorically. Field Notes Brand is set to announce the Spring 2014 Colors <a data-preserve-html-node="true" href="http://fieldnotesbrand.com/2014/03/17/adding-your-address-to-the-email-list-doesnt-mean-youre-smarter-than-everyone-else-or-better-looking-either/">very shortly</a> and I’m excited to see what they have in the pipeline. Having said that, Cold Horizon wholly encapsulated the winter we have had here in Southern Manitoba. They stand as a reminder of a brutally frigid winter, yet remain as beautiful as the glaciers they represent. </p>
+
+<p data-preserve-html-node="true">I’m looking forward to seeing what the spring will have in store for us.</p>
+<h2 id="update">Update</h2>
+
+<p>I just noticed I made a minor mistake in regards to the innards of the Cold Horizon edition. </p>
+
+<p>Originally I viewed the inside pages in standard sunlight and overlooked the change in colour from book to book. After reviewing the innards a second time, there is a slight variation between blues, greens and grays to create a unique colour for each of the three books. The full grid ink is the same throughout the edition, but the background hue changes ever so slightly. </p>
+
+<p>My initial conclusion remains the same, however: every Cold Horizon innard colour is relaxing on the eyes and are a nice variation from the "Bright White" found in the kraft versions.</p>
+
+<p>Sorry for the lapse. </p>

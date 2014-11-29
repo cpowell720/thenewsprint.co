@@ -1,0 +1,68 @@
+---
+layout: post
+title: 'Field Notes: Expedition'
+date: '2014-04-07 14:35:40'
+---
+
+<img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/04/img15.jpg" /><p data-preserve-html-node="true">I&#8217;ve been waiting a long time to write this review. I would have hammered out a review within a week if Expedition even remotely resembled the rest of the Field Notes Colors editions.</p>
+
+<p data-preserve-html-node="true">But Expedition doesn&#8217;t. It&#8217;s completely different. It&#8217;s a niche product within a niche product line. And for its purpose, it&#8217;s pretty damn sweet. Beyond that purpose, one might question Expedition&#8217;s place within the Colors line. </p>
+
+<p data-preserve-html-node="true">I think Expedition is the oddball child of <a data-preserve-html-node="true" href="http://fieldnotesbrand.com">Field Notes Brand</a>. When in its environment, it stands out from the crowd with a stroke of genius. But it falls utterly flat when outside its environment. </p>
+
+<p data-preserve-html-node="true">For some equally odd reason, I have a conflicted love for Expedition. I love its intended purpose. I love its striking colour. And I love its potential. But only when my ink has finished drying.</p>
+
+<h2 data-preserve-html-node="true">Expedition</h2><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/04/img14.jpg" /><p data-preserve-html-node="true">The <a data-preserve-html-node="true" href="http://fieldnotesbrand.com/colors/">17th Colors Limited Edition</a> by Field Notes Brand is the <a data-preserve-html-node="true" href="http://fieldnotesbrand.com/colors/expedition/">Expedition Edition</a>. Expedition marks a major extension of the Field Notes Colors product line and its basic utility is different than all prior editions. The entire memo book is made of a synthetic paper that is waterproof and tear-resistant. The front and back cover colours have been chosen carefully to align with the change in utility and the innard &#8220;paper&#8221; is incredibly durable. I highly recommend you watch a few of the <a data-preserve-html-node="true" href="http://fieldnotesbrand.com/colors/expedition/">durability testing videos</a> on the Field Notes Brand website.</p>
+
+<p data-preserve-html-node="true">Expedition&#8217;s front cover is printed on Yupo waterproof and tear-resistant 74#C &#8220;Bright White&#8221; paper in a very striking &#8220;High-Visibility Orange&#8221;. The back cover is made of the same material and printed in a &#8220;Low-Visibility Black&#8221;. Both front and back covers have been coated with a clear varnish that adds to the aesthetic appeal.</p><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/04/img13.jpg" /><p data-preserve-html-node="true">That clear varnish helps bring a glare when seen in the right light and a little easter egg has been hidden in the printing of the covers. The Expedition Edition was created with Antarctic Explorer <a data-preserve-html-node="true" href="http://bensaunders.com">Ben Saunders</a> in mind. Ben used Expedition to outline the retracing of <a data-preserve-html-node="true" href="http://en.wikipedia.org/wiki/Robert_Falcon_Scott">Captain Scott&#8217;s 1795-mile journey</a> to the South Pole. Incredibly, Ben made this trek on foot. The beautiful Antarctic map found in the glare of Expedition&#8217;s front and back covers are a tribute to Ben&#8217;s incredible journey.</p>
+
+<p data-preserve-html-node="true">Jim Coudal consistently <a data-preserve-html-node="true" href="http://5by5.tv/cmdspace/57">talks about</a> the themes of each Field Notes Color release. Expedition&#8217;s theme is immediately clear (both physically and metaphorically) because of the &#8220;High-Visibility Orange&#8221; front cover. The orange makes an immediate first impression and, I would argue, the right first impression. What does the bright orange colour signify in your mind? For me, bright oranges relate to extreme as baby blues and baby pinks relate to babies. They are a direct correlation. This is perhaps the most perfectly executed colour I have in my Colors collection — it just screams &#8220;extreme&#8221;.</p><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/04/img12.jpg" /><p data-preserve-html-node="true">The inside covers are printed on the same &#8220;High-Visibility Orange&#8221; found on the front cover. I&#8217;m fairly indifferent with this design choice. Blue ink dries distinctively darker on the inside covers and the added thickness to the Yupo covers makes writing inside documentation slightly more difficult. And, much to the chagrin of many Americans, the inside back cover ruler is printed in the Metric system. </p>
+
+<p data-preserve-html-node="true">Of much more importance is the innard &#8220;paper&#8221;. I use quotation marks because Yupo waterproof and tear-resistant synthetic 57#T &#8220;White&#8221; isn&#8217;t actually paper. <a data-preserve-html-node="true" href="http://yupousa.com">Yupo</a> is completely artificial and reaps the benefits of an artificial writing medium. In terms of ruling, the Yupo is printed with an application of &#8220;Cartographer&#8217;s Gray&#8221; to yield my favourite dot grid. </p><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/04/img11.jpg" /><p data-preserve-html-node="true">Now, normal paper is porous. Pores allow for standard fountain inks, gel inks and ballpoint inks to dye the paper&#8217;s fibres. I don&#8217;t know as much as I would like to know about paper and how fibres are dyed, but I knew immediately upon touching Expedition&#8217;s Yupo that it was different. Yupo is nonporous. This allows for its waterproof utility but also renders water-based inks, like fountain and gel inks, completely useless. Head on over to Brad Dowdy&#8217;s <a data-preserve-html-node="true" href="http://www.penaddict.com/blog/2012/12/20/what-is-the-best-pen-for-the-field-notes-expedition-edition">Expedition Pen Tests</a> to see how different types of pens hold up. Brad concludes that ballpoint inks and pencils are the best bet for proper writing in an Expedition book. I only have ballpoints kicking around my house so I tend to agree with him. </p>
+
+<p data-preserve-html-node="true">After determining a ballpoint pen of choice, the actual writing experience in Expedition is completely unique. Writing is <em data-preserve-html-node="true">super</em> smooth. Like butter smooth. Actually, it&#8217;s like writing <em data-preserve-html-node="true">in</em> butter. Ink flows perfectly onto the Yupo and I love the unique feeling. You&#8217;ll have to try for yourself though.</p>
+
+<p data-preserve-html-node="true">Another side effect of that nonporous Yupo is the necessary drying time. I find I need to leave my book open for a good five to ten minutes before my <a data-preserve-html-node="true" href="http://www.amazon.ca/gp/product/B0013CQCTW/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B0013CQCTW&linkCode=as2&tag=thenews037-20">Jetstream&#8217;s</a> scribblings have properly dried. This certainly defeats one of the main purposes of extremely durable paper. Many would (correctly) assume Expedition to be the go-to outdoor memo book. When outdoors, most people need a book to quickly scribble some notes and immediately return the book to their back pocket. Because of these drying times, I returned to my book with ink on both sides of a spread. This is downright annoying, even in the best situations.<a data-preserve-html-node="true" href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
+
+<p data-preserve-html-node="true">The Yupo paper&#8217;s unique characteristics aren&#8217;t all negative though. With a Fisher Space Pen<a data-preserve-html-node="true" href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a> — which can be used upside-down, underwater and in zero-gravity — Expedition can be written on in entirely different environments than any other memo book. Farmers can jot down notes in a torrential downpour thanks to this pen/paper combination. I think that&#8217;s pretty cool.</p><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/04/img10.jpg" /><p data-preserve-html-node="true">On the same note, and despite the waterproof Yupo paper, Expedition books aren&#8217;t 100% immune to the side effects of water. I tested the waterproof paper by running some water over a few pages with dried ballpoint ink. The Yupo papers tended to stick together because of the water and I had to dry each individual page. I woke up the next morning to find two of the pages stuck together and an ink-dyeing of the opposite page in the spread. In effect, there was some &#8220;ghosting&#8221; when it dried while adhered to another page. The ink is still completely legible and there is no noticeable loss in colour. This isn&#8217;t a deal-breaker whatsoever, but the waterproofness of the Yupo is still prone to some symptoms of water.</p>
+
+<p data-preserve-html-node="true">The tear-resistant aspect of Yupo&#8217;s durability is best described by watching the video on Field Notes Brand&#8217;s website. If you don&#8217;t have the time, the video shows yupo paper holding six bricks before ripping. I&#8217;m not entirely sure about where and when tearing-immunity is of the essence. I&#8217;ve never once worried about my kraft and Pitch Black books tearing. Again, having said that, I&#8217;m not the general use-case. This tear-resistant Yupo is still pretty impressive.</p>
+
+<p data-preserve-html-node="true">Expedition&#8217;s bellyband is made of the same Yupo as the innard paper. It&#8217;s nice to see a bellyband which can be put to good use; once opened, the bellyband is a great resource for testing your ballpoint pens and for testing the tensile strength of Yupo. Ripping the bellyband is, needless to say, quite difficult.</p>
+
+<h2 data-preserve-html-node="true">Verdict</h2>
+
+<p data-preserve-html-node="true">Coming to a final verdict on Expedition has been difficult. I&#8217;ve read a bunch of reviews and people seem to either love or hate Expedition. Like the general consensus, I&#8217;m completely conflicted. </p>
+
+<p data-preserve-html-node="true">For one, I love the &#8220;High-Visibility Orange&#8221; color.</p>
+
+<p data-preserve-html-node="true">For two, I love the Yupo writing experience. </p>
+
+<p data-preserve-html-node="true">But for three, I hate the necessary drying time.</p>
+
+<p data-preserve-html-node="true">I don&#8217;t matter in this case though. Expedition isn&#8217;t made for people like me. And once I realized this, deciphering my feelings of Expedition was a piece of cake. </p>
+
+<p data-preserve-html-node="true">Expedition was designed for extreme use-cases. Expedition is meant for the outdoors. It&#8217;s meant to be battered and bruised. It&#8217;s meant to be drowned underwater. It&#8217;s meant to be frozen. Expedition&#8217;s target market is far smaller than any other Color edition ever released and the very fact it has turned into a product beyond its Colors Limited Edition timeframe echoes this. </p>
+
+<p data-preserve-html-node="true">It makes perfect sense for Expedition to be its own product line as well. For those individuals who need a memo book with such durability (and you know who you are), Expedition fills a fairly large hole in the market. From a business point of view, I&#8217;m very glad to see Field Notes Brand keep Expedition on the shelf indefinitely.</p>
+
+<p data-preserve-html-node="true">I don&#8217;t believe Expedition was ever designed for your back pocket. Rather, I believe it was designed for your utility belt or your essentials kit. </p>
+
+<p data-preserve-html-node="true">That&#8217;s why I love Expedition. I can take it anywhere and never worry about my notes. But it&#8217;s also why I hate Expedition. I&#8217;m never in a dire scenario and in need of its durable advantages. And that drying time really hinders its usefulness to me. </p>
+
+<p data-preserve-html-node="true">Feel how you may about Expedition. In the end, just remember: Expedition was probably not designed with you in mind. Unless, of course, you are reading this in the Antarctic or you are holding your breath underwater — in which case, The Newsprint has probably set a new world record for blogging. </p>
+
+<div data-preserve-html-node="true" class="footnotes">
+<hr data-preserve-html-node="true" />
+<ol data-preserve-html-node="true">
+
+<li data-preserve-html-node="true" id="fn:1">
+<p data-preserve-html-node="true">As Manitoban weather has finally decided to warm up, I didn&#8217;t get a chance to test ballpoint ink drying times in the dead cold of winter. Dry cold may help speed up drying times but I would need someone to confirm this for me. <a data-preserve-html-node="true" href="#fnref:1" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+<li data-preserve-html-node="true" id="fn:2">
+<p data-preserve-html-node="true">There is a reason Field Notes Brand so heavily markets the <a data-preserve-html-node="true" href="http://www.spacepen.com">Fisher Space Pen</a> for use with Expedition. The Space Pen is a ballpoint pen that is immune to many of the shortfalls of standard ballpoints. I have one on the way but couldn&#8217;t hold back this review just to test the pen. I will test its capabilities in Expedition once I get it and I will make sure to let you know the results. <a data-preserve-html-node="true" href="#fnref:2" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+</ol>
+</div>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Gravity
+date: '2014-11-03 23:36:14'
+link: https://www.youtube.com/watch?v=E43-CfukEgs
+---
+
+What absolutely blows my mind about this video is the fact that this science was discovered in *the late 1500s*. We continue to test these theories over 400 years later. 
+
+Talk about making an impact on the world.
+
+[(Via Kottke)](http://kottke.org/14/11/galileo-still-right-about-gravity)

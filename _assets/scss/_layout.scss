@@ -1,0 +1,117 @@
+.wrapper {
+	margin: 0 auto;
+	clear: both;
+	@include outer-container;
+	@include row();
+	@include media($tablet) {
+		padding: 0 1rem;
+	}
+}
+
+.content {
+	@include outer-container;
+	margin: 0 auto 2rem;
+	padding-top: 4rem;
+	display: block;
+	clear: left;
+	@include media($mini) {
+		padding-top: 2rem;
+	}
+}
+
+header {
+	margin-top: 6rem;
+	@include span-columns(8);
+	@include row();
+	@include media($mini) {
+		margin-top: 3rem;
+	}
+	ul {
+		list-style: none;
+	}
+	ul li {
+		display: inline-block;
+	}
+	.wrapper {
+		border-bottom: 1px dotted $red;
+		padding-bottom: 1rem;
+		@include media($mini) {
+			border-bottom: none;
+		}
+	}
+}
+
+.site-title {
+	@include span-columns(4);
+	@include inline-block;
+	@include media($mobile) {
+		@include span-columns(4);
+		@include row();
+	}
+}
+
+.site-nav {
+	@include span-columns(4);
+	@include inline-block;
+	text-align: right;
+	@include media($mobile) {
+		@include span-columns(4);
+		@include row();
+		text-align: left;
+	}
+}
+
+.post-header {
+	margin: 0 0 2rem;
+	@include outer-container;
+	@include row();
+	clear: left;
+}
+
+.post-content {
+	@include outer-container;
+	@include row();
+	clear: left;
+}
+
+.post-preview {
+	margin-bottom: 1rem; 
+}
+.permalink a {
+    font-size: 1.5rem;
+    color: $red;
+    margin-left: 0.5rem;
+    border-bottom: none;
+}
+
+.infinite-spinner {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  background-color: #333;
+  margin: 60px auto;
+  
+  -webkit-animation: scaleout 1.0s infinite ease-in-out;
+  animation: scaleout 1.0s infinite ease-in-out;
+}
+
+@-webkit-keyframes scaleout {
+  0% { -webkit-transform: scale(0.0) }
+  100% {
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
+}
+
+@keyframes scaleout {
+  0% {
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 100% {
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
+}
+

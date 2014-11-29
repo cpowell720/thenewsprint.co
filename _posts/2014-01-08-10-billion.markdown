@@ -1,0 +1,15 @@
+---
+layout: post
+title: "$10 Billion"
+date: '2014-01-08 01:17:24'
+---
+
+<p>That's the dollar value customers spent on the Apple App Store this year. And Apple takes a 30% cut of that number.</p>
+
+<p>I can't stress the impact of that revenue statistic enough. Apple is making $3 billion by creating an online store for third-party developers. Yes, Apple makes its own apps and sells them on its own App Store. However, generally speaking, the majority of that revenue comes from sales of third party software created by third party developers.</p>
+
+<p>Apple is making money, more or less, on someone else's dime.</p>
+
+<p>Apple encompasses many different business models and employs many different business strategies. But I think Apple's ecosystem is one of the best revenue structures ever conceived. It is, in ways, a self-fulfilling model. The App Store represents "Build it and they will come" in a literal sense. </p>
+
+<p>30% may be an exorbitant percentage or it may be a low percentage. Whatever you're opinion, Apple has scored big with the App Store.</p>

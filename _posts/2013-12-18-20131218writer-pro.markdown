@@ -1,0 +1,15 @@
+---
+layout: post
+title: Writer Pro
+date: '2013-12-18 23:29:29'
+---
+
+<p>I've spent the last few months buying, researching and experimenting with applications, both on iOS and OS X, that can take an idea or a snippet of text and transform it into a publishable piece.  I've struggled to find a sufficient note-taking application for OS X that mimics the functionality of Drafts on iOS. Therefore, most of my workflow consists of iOS apps chained together with the help of Drafts and Launch Center Pro.</p>
+
+<p>So, when I say that Writer Pro seems to be the <em>exact</em> product that I've been looking for, you can rest assured that I've researched countless other options. While difficult to say without actually having used it, Writer Pro looks great and has seemingly eliminated the need for other apps that only complete one portion of a workflow.</p>
+
+<p>Writer Pro houses a note-taking app, a writing app, an editing app and a reading app all in one. In fact, if the fabulous Writer Pro video is to be believed, writers shouldn't have to leave Writer Pro during the writing process.</p>
+
+<p>I'm interested to see a few things before truly diving into Writer Pro. First, I am curious about the level of integration Writer Pro will have with launch and note-taking applications like Drafts and Launch Center Pro. Second, <a href="http://omz-software.com/editorial/">Editorial</a> is nearly <em>perfect</em> in terms of a text-editor for iOS and I wonder how Writer pro will stack up next to Editorial. And third, I am excited to see the debate about the pricing of Writer Pro. At $20 for both the OS X and iOS versions, you can bet many potential buyers will be turned off by the price. </p>
+
+<p>However, in regards to the Mac, Writer Pro potentially fills a <em>huge</em> void in my writing workflow. I can't wait to see what it's like tomorrow.</p>

@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'On'
+date: '2014-06-03 04:17:35'
+---
+
+Apple's WWDC 2014 keynote had but one theme: reaffirmation.
+
+If you thought Apple's email department was trashing your customer support emails, think again.
+
+If you thought Apple wasn't reading the most popular tech blogs, think again.
+
+If you thought Apple was a hardware company that was failing to create a seamless cloud experience, think again.
+
+And if you thought Craig Federighi's humour was going to die, you can also think again.
+
+The ball was in Apple's court today. iOS 7's miserable storm and iCloud's incomplete hull were patched, torn down and recreated into a gold-plated ship — a ship that Apple can sail well into the future.
+
+The title of this article is a direct ripoff of [Marco's article](http://www.marco.org/2013/10/24/off) from back in October 2013. In it, Marco decidedly stated Apple's entire keynote felt slightly off kilter. I think he was right.
+
+But the exact opposite took place today. Apple's directors [had a confidence](http://www.loopinsight.com/2014/06/02/thoughts-on-the-wwdc-keynote/) about them. They walked across the stage with vigour and excitement. They knew they had hit a home run. Tim Cook has consistently touted Apple's product pipeline for 2014 and I'm sure he sits in vindication as he reads this evening's tech headlines.
+
+Apple was turned on this morning. And they didn't announce a single piece of hardware.
+
+From the moment Craig Federighi slid off stage and the OS X Yosemite intro video ran, Apple's audience was on a joy ride. Each new announcement was seemingly more impressive than the last. 
+
+And each announcement proved Apple's health. They aren't dying. They aren't even faltering. Apple skated so far beyond where the puck will be that some may think they are playing a whole new game.
+
+The Apple I fell in love with a few years ago — which is a short while in comparison to the diehards in Moscone West — is still here. They never left. 
+
+I don't have any out-of-the-gate favourite features and I'm not one for tech analysis. I think Continuity features will change how I work and I'm looking forward to the Extensability implementation by developers in the future. But I don't really care.
+
+Apple knew they were standing at the plate with a runner on this morning. They knew what pitch was coming. And they knew they were patient enough to work deep into the count.
+
+They didn't just get on base. They cleared the bases. 
+
+Developers are at the plate now. They've seen the pitches and they know how to move the team further into the future. Developers have been given the tools they were asking for. Now it's their turn to change the world.
+
+"Hey Siri, it's time for bed."
+
+The future has arrived.
