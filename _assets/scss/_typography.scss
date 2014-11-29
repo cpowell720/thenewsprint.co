@@ -7,28 +7,16 @@ body {
 }
 
 h1 {
-	font-family: 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif;
-	font-size: 3rem;
+	font-size: 2rem;
+	line-height: 2.25rem;
 }
 
 h2 {
-	font-family: 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif;
-	font-size: 2.5rem;
-}
-
-h3 {
-	font-size: 1.75rem;
-	line-height: 2.5rem;
-	font-weight: 600;
-}
-
-h4 {
-	font-size: 1rem;
+	font-size: 1.5rem;
 	line-height: 1.75rem;
 }
 
 blockquote {
-	font-family: 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif;
 	border-left: 5px solid $red;
 	padding-left: 1rem;
 }
@@ -47,6 +35,10 @@ p {
 	margin: 1rem 0;
 }
 
+ul {
+	margin-left: 1rem;
+}
+
 .site-title a {
 	font-size: 2rem;
 	line-height: 1rem;
@@ -60,31 +52,41 @@ p {
 	}
 }
 
-.site-nav li {
-	font-family: 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif; 
-	font-variant: small-caps;
-	font-size: 1rem;
-	line-height: 1rem;
-	margin-right: $baseline;
-	&:last-of-type {
-		margin-right: 0;
-	}
-	a {
-		color: $black;
-		text-decoration: none;
-	}
-	a:hover {
-		color: $red;
+.site-nav ul {
+	margin-left: 0;
+	li {
+		font-family: 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif; 
+		font-variant: small-caps;
+		font-size: 1rem;
+		line-height: 1rem;
+		margin-right: $baseline;
+			&:last-of-type {
+				margin-right: 0;
+			}
+			a {
+				color: $black;
+				text-decoration: none;
+			}
+			a:hover {
+				color: $red;
+			}
 	}
 }
 
 .date {
-	margin: 3rem 0 1rem;
+	margin: 3rem 0 0.5rem;
 	font-size: 0.75rem;
+	text-transform: uppercase;
+}
+
+.post-preview_title {
+	font-size: 1rem;
+	line-height: 1.75rem;
 }
 
 .date-section:first-of-type .date {
-	margin: 0 0 1rem
+	margin: 0 0 1rem;
+	clear: both;
 }
 
 .pagination {
