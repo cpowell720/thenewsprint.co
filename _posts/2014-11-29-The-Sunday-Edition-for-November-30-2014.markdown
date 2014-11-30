@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Sunday Edition for November 30, 2014
-date: 2014-11-29 22:59
+date: 2014-11-39 08:59
 ---
 
 So it was -35 celsius last night with a mind-numbing wind chill. Looks like we're in for a long six months of hard winter. 
