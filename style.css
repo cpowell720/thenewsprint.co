@@ -74,6 +74,10 @@ ul, ol {
 li {
   line-height: 1.75rem; }
 
+hr {
+  border: 0;
+  border-bottom: 1px dashed #AF181B; }
+
 .site-title a {
   font-size: 2rem;
   line-height: 1rem;
@@ -97,7 +101,8 @@ li {
       margin-right: 0; }
     .site-nav ul li a {
       color: #262626;
-      text-decoration: none; }
+      text-decoration: none;
+      border-bottom: 0; }
     .site-nav ul li a:hover {
       color: #AF181B; }
     @media screen and (max-width: 480px)  {
