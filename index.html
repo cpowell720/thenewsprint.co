@@ -3,7 +3,7 @@ layout: home
 ---
 
 <section class="date-section">
-  <h1 class="date">Sponsored</h1>
+  <h2 class="date">Sponsored</h2>
 
   <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1698&serve=CVYD42E&placement=thenewsprint" id="_carbonads_js"></script>
 
@@ -12,7 +12,7 @@ layout: home
 
 {% for post in site.categories.featured limit:1 %}
   <section class="date-section">
-    <h1 class="date">Featured</h1>
+    <h2 class="date">Featured</h2>
 
     <article class="post-preview">
       <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -26,7 +26,7 @@ layout: home
     <section class="date-section">
     {% capture currentdate %}{{post.date | date: "%A, %B %d, %Y"}}{% endcapture %}
     {% if currentdate != thedate %}
-      <h1 class="date">{{ currentdate }}</h1>
+      <h2 class="date">{{ currentdate }}</h2>
       {% capture thedate %}{{currentdate}}{% endcapture %} 
     {% endif %}
       <article class="post-preview">

@@ -52,6 +52,17 @@ module.exports = function(grunt) {
             },
           },
         },
+        cssmin: {
+          my_target: {
+            files: [{
+              expand: true,
+              cwd: '',
+              src: ['*.css', '!*.min.css'],
+              dest: '',
+              ext: '.min.css'
+            }]
+          }
+        },
 
     });
 
@@ -61,6 +72,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-sass');
     grunt.loadNpmTasks('grunt-contrib-connect');
     grunt.loadNpmTasks('grunt-shell');
+    grunt.loadNpmTasks('grunt-contrib-cssmin');
 
     // 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
     grunt.registerTask('default', ['sass','shell','connect','watch']);

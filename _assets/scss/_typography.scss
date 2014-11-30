@@ -7,13 +7,21 @@ body {
 }
 
 h1 {
-	font-size: 2rem;
-	line-height: 2.25rem;
+	font-size: 1.5rem;
+	line-height: 1.75rem;
+	font-weight: 400;
 }
 
 h2 {
-	font-size: 1.5rem;
-	line-height: 1.75rem;
+	font-size: 1.25rem;
+	line-height: 1.5rem;
+}
+
+h3 {
+	font-size: 0.875rem;
+	line-height: 1rem;
+	text-transform: uppercase;
+	font-weight: 600;
 }
 
 blockquote {
@@ -35,8 +43,8 @@ p {
 	margin: 1rem 0;
 }
 
-ul {
-	margin-left: 1rem;
+ul, ol {
+	margin: 1rem 0 1rem 1rem;
 }
 
 .site-title a {
@@ -53,7 +61,7 @@ ul {
 }
 
 .site-nav ul {
-	margin-left: 0;
+	margin: 0;
 	li {
 		font-family: 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif; 
 		font-variant: small-caps;
@@ -77,18 +85,31 @@ ul {
 }
 
 .date {
-	margin: 3rem 0 0.5rem;
+	margin: 6rem 0 0.5rem;
 	font-size: 0.75rem;
 	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.meta-date {
+	font-size: 0.75rem;
+	margin-top: 0.5rem;
+	text-transform: uppercase
 }
 
 .post-title {
 	font-size: 1rem;
 	line-height: 1.75rem;
+	font-weight: 600;
 }
 
 .date-section:first-of-type .date {
 	margin: 0 0 1rem;
+	clear: both;
+}
+
+.date-section:nth-of-type(2) .date {
+	margin: 1 0 0.5rem;
 	clear: both;
 }
 
