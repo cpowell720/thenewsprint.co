@@ -8,8 +8,6 @@ Below is a list of work that can be found on The Newsprint.
 
 Each section is organized in reverse-chronological order.
 
----
-
 ### Notebooks
 * [Baron Fig Confidant](http://www.thenewsprint.co/2014/08/01/baron-fig-confidant/)
 * [Moleskine Large Volant](http://www.thenewsprint.co/2014/07/09/moleskine-large-soft-cover-volant-notebook/) 

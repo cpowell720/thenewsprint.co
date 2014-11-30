@@ -4,11 +4,9 @@ title: Colophon
 permalink: /colophon/
 ---
 
-# Colophon
-
 The Newsprint was founded and is written by Josh Ginter. The Newsprint is a web-column where I collect things. I have many interests and I really want talk about and photograph all of them.
 
-## Tools
+### Tools
 
 The Newsprint is written primarily on a MacBook Pro.
 
@@ -16,10 +14,10 @@ The Newsprint is photographed with an Olympus OM-D E-M10 accompanied by Panasoni
 
 The Newsprint is managed on the Ghost platform and uses the Readium 2.0 theme by Sven Read.
 
-## Contact
+### Contact
 
 Feel free to send me an email (josh@thenewsprint.co) any time. I'll get back to you as soon as possible.
 
-## Affiliate Link Policy
+### Affiliate Link Policy
 
 Many of the links used here on The Newsprint are affiliate links. I promise to use them for products that I use or want to promote. If the product isn't something I thoroughly recommend, I won't use an affiliate link. Plain and simple.
