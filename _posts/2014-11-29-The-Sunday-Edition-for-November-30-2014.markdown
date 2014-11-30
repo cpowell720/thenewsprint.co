@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Sunday Edition for November 30, 2014
+title: The Sunday Edition
 date: 2014-11-30 8:59
 ---
 
