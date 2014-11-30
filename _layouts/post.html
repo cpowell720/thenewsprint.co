@@ -4,7 +4,7 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h4 class="post-title">{% if page.link %}<a href="{{ page.link }}">{{ page.title }}</a>{% else %}{{ page.title }}{% endif %}{% if page.link %}<span class="permalink"><a href="{{ page.url | prepend: site.url }}">&#9679;</a></span>{% endif %}</h4>
+    <h1 class="post-title">{% if page.link %}<a href="{{ page.link }}">{{ page.title }}</a>{% else %}{{ page.title }}{% endif %}{% if page.link %}<span class="permalink"><a href="{{ page.url | prepend: site.url }}">&#9679;</a></span>{% endif %}</h1>
     <span class="meta-date">{{ page.date | date: "%B %-d, %Y" | upcase }}</span>
     {% if post.author %}<span class="meta-author">{{ post.author }}</span>{% endif %}
   </header>

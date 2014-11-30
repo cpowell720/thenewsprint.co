@@ -1,27 +1,33 @@
 body {
 	font-family: 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif;
 	color: $black;
-	font-size: 0.875rem;
-	line-height: 1.5em;
+	font-size: $base-font-size;
+	line-height: $base-line-height;
 	font-weight: 400;
 }
 
 h1 {
-	font-size: 1.5rem;
-	line-height: 1.75rem;
+	font-size: $h1-font-size;
+	line-height: $h1-line-height;
 	font-weight: 400;
+	margin-bottom: $h1-margin-bottom;
+	margin-top: $h1-margin-top;
 }
 
 h2 {
-	font-size: 1.25rem;
-	line-height: 1.5rem;
+	font-size: $h2-font-size;
+	line-height: $h2-line-height;
+	margin-bottom: $h2-margin-bottom;
+	margin-top: $h2-margin-top;
 }
 
 h3 {
-	font-size: 0.875rem;
-	line-height: 1rem;
+	font-size: $h3-font-size;
+	line-height: $h3-line-height;
 	text-transform: uppercase;
 	font-weight: 600;
+	margin-bottom: $h3-margin-bottom;
+	margin-top: $h3-margin-top;
 }
 
 blockquote {
@@ -105,6 +111,8 @@ li {
 	font-size: 1rem;
 	line-height: 1.75rem;
 	font-weight: 600;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 .date-section:first-of-type .date {

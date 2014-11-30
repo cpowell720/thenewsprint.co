@@ -29,23 +29,29 @@ body {
   font-family: 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif;
   color: #262626;
   font-size: 0.875rem;
-  line-height: 1.5em;
+  line-height: 1.5rem;
   font-weight: 400; }
 
 h1 {
-  font-size: 1.5rem;
-  line-height: 1.75rem;
-  font-weight: 400; }
+  font-size: 1.375rem;
+  line-height: 2.5rem;
+  font-weight: 400;
+  margin-bottom: 1.25rem;
+  margin-top: 2.5rem; }
 
 h2 {
-  font-size: 1.25rem;
-  line-height: 1.5rem; }
+  font-size: 1.125rem;
+  line-height: 1.25rem;
+  margin-bottom: 1.25rem;
+  margin-top: 1.25rem; }
 
 h3 {
   font-size: 0.875rem;
-  line-height: 1rem;
+  line-height: 1.25rem;
   text-transform: uppercase;
-  font-weight: 600; }
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  margin-top: 1.25rem; }
 
 blockquote {
   border-left: 5px solid #AF181B;
@@ -112,7 +118,9 @@ li {
 .post-title {
   font-size: 1rem;
   line-height: 1.75rem;
-  font-weight: 600; }
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0; }
 
 .date-section:first-of-type .date {
   margin: 0 0 1rem;
