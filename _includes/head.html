@@ -1,15 +1,35 @@
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} - The Newsprint{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="The Newsprint">
+    <meta name="twitter:description" content="by Josh Ginter">
+    <meta name="twitter:site" content="http://thenewsprint.co">
+    <meta name="twitter:creator" content="@thenewsprint">
+    <meta name="google-site-verification" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="The Newsprint">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta name="generator" content="Jekyll 2.4.0" />
 
     <link rel="stylesheet" href="{{ "/style.css" | prepend: site.base_url }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="next" href="{{ site.url }}/page2/" />
+    <link rel="alternate" type="application/rss+xml" title="Latest Newsprint Feed" href="http://feed.thenewsprint.co/thenewsprint">
 
-    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6989492/618024/css/fonts.css" />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6989492/618024/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="/js/bigfoot-custom.min.css" />
+
         
 </head>

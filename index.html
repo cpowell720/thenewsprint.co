@@ -9,8 +9,8 @@ layout: home
 
 </section>
 
-
 {% for post in site.categories.featured limit:1 %}
+  {% unless page.url contains 'page' %}
   <section class="date-section">
     <h2 class="date">Featured</h2>
 
@@ -19,6 +19,7 @@ layout: home
       {{ post.excerpt | strip_html }}
     </article>
   </section>
+  {% endunless %}
 {% endfor %}
 
 {% for post in paginator.posts %}
