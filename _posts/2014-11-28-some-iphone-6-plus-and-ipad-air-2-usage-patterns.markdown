@@ -2,6 +2,7 @@
 layout: post
 title: Some Further Thoughts on the iPhone 6 Plus and iPad Air 2
 date: '2014-11-28 17:50:03'
+categories: featured
 ---
 
 I've been asked about the iPhone 6 Plus more than any other product I've written about. Some people love it. Some people [really dislike it.](http://rickstawarz.com/blog/2014/11/returning-the-iphone-6-plus) At the end of the day, my original conclusion still stands:
