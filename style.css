@@ -93,7 +93,7 @@ ul, ol {
       color: #AF181B; }
     @media screen and (max-width: 480px)  {
       .site-nav ul li {
-        line-height: 2rem; } }
+        line-height: 3rem; } }
 
 .date {
   margin: 6rem 0 0.5rem;
@@ -116,7 +116,11 @@ ul, ol {
   clear: both; }
 
 .date-section:nth-of-type(2) .date {
-  margin: 1 0 0.5rem;
+  margin: 2rem 0 0.5rem;
+  clear: both; }
+
+.date-section:nth-of-type(3) .date {
+  margin: 3rem 0 0.5rem;
   clear: both; }
 
 .pagination {

@@ -79,7 +79,7 @@ ul, ol {
 			color: $red;
 		}
 		@include media($mobile) {
-			line-height: 2rem;
+			line-height: 3rem;
 		}
 	}
 }
@@ -109,7 +109,12 @@ ul, ol {
 }
 
 .date-section:nth-of-type(2) .date {
-	margin: 1 0 0.5rem;
+	margin: 2rem 0 0.5rem;
+	clear: both;
+}
+
+.date-section:nth-of-type(3) .date {
+	margin: 3rem 0 0.5rem;
 	clear: both;
 }
 
