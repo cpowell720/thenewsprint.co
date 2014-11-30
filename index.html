@@ -15,7 +15,7 @@ layout: home
     <h1 class="date">Featured</h1>
 
     <article class="post-preview">
-      <h2 class="post-preview_title"><a href="{{ post.url }}">{{ post.title }}</a></h2 class="post-preview_title">
+      <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt | strip_html }}
     </article>
   </section>
@@ -30,7 +30,7 @@ layout: home
       {% capture thedate %}{{currentdate}}{% endcapture %} 
     {% endif %}
       <article class="post-preview">
-        <h2 class="post-preview_title"><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="permalink"><a href="{{ post.url | prepend: site.url }}">&#9679;</a></span>{% endif %}</h2 class="post-preview_title">
+        <h2 class="post-title"><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="permalink"><a href="{{ post.url | prepend: site.url }}">&#9679;</a></span>{% endif %}</h2>
         {% if post.link %}{{ post.content }}{% else %}{{ post.excerpt | strip_html }}{% endif %}
       </article>
     </section>

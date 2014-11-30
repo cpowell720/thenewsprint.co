@@ -125,7 +125,7 @@ header {
 	padding: 2em 0; 
 	$border-box-sizing: true;
 	@include media($mobile) {
-		padding: 2em 2em 2em 0;
+		padding: 1.5em 1.5em 1.5em 0;
 	}
 }
 
@@ -133,6 +133,9 @@ header {
 	display: block;
 	height: 100%;
 	width: 60%;
+	@include media($mini) {
+		width: 75%;
+	}
 	@include media($mobile) {
 		width: 100%;
 	}
@@ -153,7 +156,8 @@ a.carbon-img {
 a.carbon-text {
 	display: inline;
 	width: auto;
-	font-size: 0.75em;
+	font-size: 0.75rem;
+	line-height: 0.75rem;
 }
 
 a.carbon-poweredby {
@@ -165,4 +169,7 @@ a.carbon-poweredby {
 	text-transform: uppercase;
 	font-weight: 600;
 	border-bottom: none;
+	@include media($mobile) {
+		left: 130px;
+	}
 }

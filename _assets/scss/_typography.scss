@@ -60,16 +60,19 @@ ul {
 		font-size: 1rem;
 		line-height: 1rem;
 		margin-right: $baseline;
-			&:last-of-type {
-				margin-right: 0;
-			}
-			a {
-				color: $black;
-				text-decoration: none;
-			}
-			a:hover {
-				color: $red;
-			}
+		&:last-of-type {
+			margin-right: 0;
+		}
+		a {
+			color: $black;
+			text-decoration: none;
+		}
+		a:hover {
+			color: $red;
+		}
+		@include media($mobile) {
+			line-height: 2rem;
+		}
 	}
 }
 
@@ -79,7 +82,7 @@ ul {
 	text-transform: uppercase;
 }
 
-.post-preview_title {
+.post-title {
 	font-size: 1rem;
 	line-height: 1.75rem;
 }
