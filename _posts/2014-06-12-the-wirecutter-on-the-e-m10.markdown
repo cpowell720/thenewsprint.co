@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: link
 title: The Wirecutter on the E-M10
 date: '2014-06-12 14:17:46'
+link: http://thewirecutter.com/reviews/best-mirrorless-camera-under-1000/
 ---
 
 Apparently I [made the right choice](http://thewirecutter.com/reviews/best-mirrorless-camera-under-1000/).
