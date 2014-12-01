@@ -6,7 +6,7 @@ date: '2014-07-01 12:31:28'
 
 Here we are, back again with another homescreen. I think it's been a slow month in terms of app releases and updates, and my homescreen is proof. I only have a few changes heading into July. 
 
-![](/media/images/2014/Jun/Homescreen-July-2014-1.png)
+![](http://static.thenewsprint.co/media/2014/Jun/Homescreen-July-2014-1.png)
 
 *If you want to compare to last month, check out the [link here](http://www.thenewsprint.co/2014/06/01/homescreen-june-2014/).*
 
@@ -39,7 +39,7 @@ I still await a(n) URL scheme for Vesper. I don't know if it will ever come, but
 
 Lastly, I have really come around on the value of Tumblr's social network. There's so much great content roaming around Tumblr's timelines and I can't help but want to be a part of it. So I've started a Tumblr for The Newsprint and I've ushered Tumblr's nifty iOS app onto my homescreen. If you want to check out The Newsprint's Tumblr, you can [check it out here](http://thenewsprintco.tumblr.com).
 
-![](/media/images/2014/Jun/P6290244.jpg)
+![](http://static.thenewsprint.co/media/2014/Jun/P6290244.jpg)
 
 Here's to hoping for a bigger-screened phone in our hands sometime this summer.
 

@@ -18,11 +18,11 @@ So, with that said, I wanted to say hello — a true hello — for the first tim
 
 ### Introduction
 
-![](/media/images/2014/10/JoshJaclyn-283.jpg)
+![](http://static.thenewsprint.co/media/2014/10/JoshJaclyn-283.jpg)
 
 Hello everyone! My name is Josh Ginter. I'm 23 years old and live in the small city of Winkler, Manitoba, Canada. I stand somewhere around the six foot mark and weigh nothing more than I did the day I started high school. I come from a family of six and have lived my entire life in Southern Manitoba.
 
-![](/media/images/2014/10/JoshJaclyn-332.jpg)
+![](http://static.thenewsprint.co/media/2014/10/JoshJaclyn-332.jpg)
 
 In the summer of 2013, I married my beautiful wife Jaclyn. We met very shortly after high school and dated for four years before taking the plunge. We married at a very young age, which is completely normal in the unique part of the world where we live. I wouldn't trade married life for anything — this last year and a half has been the most awesome time period of my life by far.
 
@@ -40,11 +40,11 @@ As is probably clear, I enjoy writing and photography. I have always loved the i
 
 My interests float around depending on the season I find myself in. I love golfing in the summer even though I am a terrible golfer. There's nothing better than riding around on a golf cart on a beautiful summer morning and smashing a ball into the water. It often reminds me that life must be really good to hit dimpled round objects into a lake from time to time.
 
-![](/media/images/2014/10/July-4th-Orioles-19.jpg)
+![](http://static.thenewsprint.co/media/2014/10/July-4th-Orioles-19.jpg)
 
 I also love baseball in the summer. As a kid, I played lots of baseball and travelled to almost every province in Canada to play the game. I once got a chance to play in front of Team Canada's scouts for the national junior team. Evidently, I was never called to play, but one of my friends from my hometown had the chance to play on the national team. He was and is an incredible pitcher and I'm glad he always pitched on my team — I faced him once and he struck me out easily.
 
-![](/media/images/2014/10/Photo-158-2.jpg)
+![](http://static.thenewsprint.co/media/2014/10/Photo-158-2.jpg)
 
 Summer is also a great time to travel and, when finances allow, I love gallivanting around the world. I've been to Europe twice since I graduated high school in 2009 and I've been to New York twice with Jaclyn. Although Paris stinks and Parisians are unfriendly hosts, I adore the history of the city. Paris is my favourite European city that I've visited, but I haven't visited enough of them to claim it's the *best* city. Hopefully another trip is just around the corner.
 
@@ -62,7 +62,7 @@ I've listed *stuff* about me, but I have yet to truly dig into who I am. Maybe I
 
 * I played Bill Sykes in an eighth grade Oliver Twist play. If I was actually as brutal a man as Sykes, I wouldn't be writing these tidbits. Interestingly enough, I can still recite most of the "My Name" solo.
 
-![](/media/images/2014/10/OTFE166-1.jpg)
+![](http://static.thenewsprint.co/media/2014/10/OTFE166-1.jpg)
 
 * I'm a firm believer that human beings are not naturally bad at heart. I believe we make decisions to protect ourselves and the ones we love. Deep down, we just want people to be happy with us and to love us. I could be wrong about this, but I've found it's easier to live thinking this way.
 

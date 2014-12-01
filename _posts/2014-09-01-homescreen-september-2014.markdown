@@ -5,12 +5,12 @@ date: '2014-09-01 13:35:43'
 ---
 
 
-![](/media/images/2014/Aug/P8310396.jpg)
+![](http://static.thenewsprint.co/media/2014/Aug/P8310396.jpg)
 
 After August's [month of change](http://www.thenewsprint.co/2014/07/31/homescreen-august-2014/), my iPhone homescreen looks very much like it did 31 days ago.
 
-![](/media/images/2014/Aug/P8310405.jpg)
-![](/media/images/2014/Aug/Homescreen-September-iPhone.png)
+![](http://static.thenewsprint.co/media/2014/Aug/P8310405.jpg)
+![](http://static.thenewsprint.co/media/2014/Aug/Homescreen-September-iPhone.png)
 
 You can check out August's homescreen [here.](http://www.thenewsprint.co/2014/07/31/homescreen-august-2014/)
 
@@ -49,8 +49,8 @@ I dropped Drafts off my homescreen as I've switched over to [Vesper full time.](
 
 Lastly, I dropped Instapaper off my iPhone homescreen in favour of Pushpin. I'm trying a new workflow where I save all links straight to Pinboard and delete anything I don't want to archive in the long run. I'm not certain of what I think of this workflow just yet and I'll try to report on it at the beginning of October.
 
-![](/media/images/2014/Aug/P8310414.jpg)
-![](/media/images/2014/Sep/Homescreen-iPad.jpg)
+![](http://static.thenewsprint.co/media/2014/Aug/P8310414.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/Homescreen-iPad.jpg)
 
 And, since I currently find my iPad to be my most used computer, I figured it would be appropriate to include my iPad's homescreen heading into the school year.
 

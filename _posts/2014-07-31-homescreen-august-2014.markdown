@@ -11,7 +11,7 @@ I'm trying out a few different organizational ideas on my iPhone's homescreen in
 
 I have, however, found myself hunting and pecking more often than I would like. But change is fun.
 
-![](/media/images/2014/Jul/Homescreen-August-2014.png)
+![](http://static.thenewsprint.co/media/2014/Jul/Homescreen-August-2014.png)
 
 Pretty different [than 31 days prior.](http://www.thenewsprint.co/2014/07/01/homescreen-july-2014/)
 
@@ -58,7 +58,7 @@ Why *three* writing apps? Well, I'm not sure. I very rarely take notes in Drafts
 
 I have a fear of letting go of these writing apps though. In effect, it was this genre that inspired the purchase of countless apps and the use of the iPhone for more than just Twitter and RSS. By purging my homescreen of a text editor, I will have turned over a new leaf. Perhaps I'm not ready for that yet. 
 
-![](/media/images/2014/Jul/P7300773-2.jpg)
+![](http://static.thenewsprint.co/media/2014/Jul/P7300773-2.jpg)
 
 Writing about my homescreen over the last few months has really enlightened the psychological aspect of my iPhone. Often, I'll keep a well designed app on my homescreen because it exemplifies the delightfulness of the iPhone itself. The iPhone is still the most beautiful and the most breathtaking smartphone on the market. From time to time, these little apps remind me of the giddiness the iPhone can conjure.
 

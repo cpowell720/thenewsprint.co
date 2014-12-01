@@ -4,7 +4,7 @@ title: Olympus OM-D E-M10
 date: '2014-09-24 13:18:35'
 ---
 
-![](/media/images/2014/Sep/IMG_0648.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0648.jpg)
 
 ---
 
@@ -16,7 +16,7 @@ date: '2014-09-24 13:18:35'
 
 ### Introduction
 
-![](/media/images/2014/Sep/IMG_0608.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0608.jpg)
 
 Buying a camera today presents many challenges, not the least of which revolves around the technical nature of the hobby. It's not entirely fair to assume that the average person doesn't care about technical specifications, but I'm going to assume anyway. 
 
@@ -30,7 +30,7 @@ We wanted a small and light camera that we could easily carry anywhere. We wante
 
 I was utterly amazed at the difficulty in finding an online review that documented the *real* aspects of buying and owning a camera. Every review talked about f-stops, ISO settings and RAW capabilities. All I wanted was a camera that could take pretty great photos on the spot without having to fiddle with four dials in the process.
 
-![](/media/images/2014/Sep/IMG_0646.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0646.jpg)
 
 I had to read and listen to the work of a technology writer who had found himself in the same shoes just a few months prior. Shawn Blanc's review of the [Olympus PEN E-PL5](http://shawnblanc.net/2013/04/camera-review-olympus-e-pl5/) and his discussion of the [Olympus OM-D E-M10](http://weeklybriefly.net/photo-mojo/) on his podcast led me to my purchase. Shawn documented the *real* aspects of purchasing a camera and his insight inspired my approach to this review.
 
@@ -39,7 +39,7 @@ I had to read and listen to the work of a technology writer who had found himsel
 <p>With that said, I believe one of the best cameras and systems to buy right now is the <a href="http://www.amazon.com/gp/product/B00HPQ0A16/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00HPQ0A16&amp;linkCode=as2&amp;tag=thenews02-20&amp;linkId=UYLLHKBSYUZ7UCLM">Micro Four-Thirds Olympus OM-D E-M10.</a> The E-M10 is small and light, fast and nimble, and tons of fun to shoot with. There are loads of lenses to purchase and they&#8217;re all pretty cheap too. And the image quality is nothing short of breathtaking. If you&#8217;re looking for a camera within the same parameters as my wife and I six months ago, you shouldn&#8217;t look any further than the E-M10.</p>
 
 ### Design and Build
-![](/media/images/2014/Sep/IMG_0609-1.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0609-1.jpg)
 
 The first characteristic my wife and I were looking for was the ability to take a camera wherever without feeling like we were carrying an anchor around our necks. I purchased a Nikon D5100 and Nikkor 18-200mm travel lens a couple years back and we abhorred having to carry that camera around. Cameras have to be readily available when inspiration strikes and, if your camera is sitting on the shelf in the hotel room, it's not going to do a very good job.
 
@@ -47,7 +47,7 @@ The Olympus OM-D E-M10 is incredibly small and light. With a pancake lens, the e
 
 The body is made of plastic and metal and is not weatherproof. I don't have any issues with the build quality — I treat the E-M10 the same way I treat all my devices: carefully, gently and with a sense of caution. If you're looking for a camera to take into the middle of a volcano, I suggest you look elsewhere.
 
-![](/media/images/2014/Sep/IMG_0611.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0611.jpg)
 
 Despite the E-M10's simplistic approach, there are a few dials and buttons available if you want to customize some settings. The two dials can be customized to your preference of adjustments and they spin with a satisfying amount of tension. There are times where I have spun the front dial accidentally, but it's nothing too annoying.
 
@@ -55,11 +55,11 @@ The top of the camera also sports a few "Fn" buttons which can be customized for
 
 These buttons are relatively small and won't be a pleasure to use for large fingered folks. All the buttons on the back of the E-M10 click nicely but they are awkwardly small. Most annoyingly, the on/off switch is in the weirdest place imagineable. I don't understand the premise behind this decision, but after six months of use, muscle memory kicks in when I want to fire up the E-M10.
 
-![](/media/images/2014/Sep/IMG_0613.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0613.jpg)
 
 The back of the E-M10 sports a large swivel touchscreen. I have little use for a touchscreen except for the ability to quickly choose a focus point in the frame. If the E-M10's autofocus continuously chooses the wrong focus point, the touchscreen allows for a really quick focus adjustment. 
 
-![](/media/images/2014/Sep/IMG_0617.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0617.jpg)
 
 Other than the focus benefit, the touchscreen is less than ideal in general use. The wifi button in the top left corner of the screen is incredibly small and difficult to press. Controlling the Super Control Panel  (which would be *awesome* if the touchscreen was better) is an exercise in extreme patience. And the entire menu system is controlled by the physical buttons on the back of the camera instead of by touch. I feel the touchscreen is one of the poorest features of the E-M10 and I'm glad Olympus provided ways to navigate the camera without the touchscreen.
 
@@ -67,18 +67,18 @@ One of the biggest selling features of the E-M10 over the recently announced [Ol
 
 To save battery, the electronic viewfinder shuts off when your eye (or any body part, for that matter) are away from the viewfinder's sensor. I like the thought behind saving battery power, but in practice, I have found the viewfinder's sensor to be extremely sensitive. Placing my finger a full three inches away from the sensor causes the electronic viewfinder to power up and the back touchscreen to power down. I personally find this sensitivity to be too great, yet I have no idea as to whether less sensitivity would answer my call. For now, I live with it.
 
-![](/media/images/2014/Sep/IMG_0641.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0641.jpg)
 
 Lastly, the E-M10 comes with a standard battery charger and neckstrap. I have no use for the neckstrap whatsoever. After seeing [Leica's strap implementation](http://en.leica-camera.com/Photography/Leica-T/Leica-T-Camera-System), I doubt I will ever use a neckstrap on the E-M10. The camera is small enough to hold in my hand or to carry in a small bag, so the only strap I see myself going with is a small wrist strap. [Gordy's Wrist Straps](http://www.gordyscamerastraps.com) look great and are cheap, so I wouldn't be surprised to see myself ordering one of those in the near future.
 
 ### Ergonomics and Grip
-![](/media/images/2014/Sep/IMG_0615.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0615.jpg)
 
 Without a doubt, my infatuation with the E-M10 stems from its great ergonomics. There is one caveat to the E-M10's ergonomics though: the aftermarket grip *must* be attached. The [Olympus E-M10 grip](http://www.amazon.com/gp/product/B00HWMOZ8M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HWMOZ8M&linkCode=as2&tag=thenews02-20&linkId=WOI4YQXDZ6B4R2OU) prices in at about $55 and is essential for anyone with average sized hands or larger.
 
 Without the grip, the E-M10 is thin, light and surprisingly small. With the [Panasonic Lumix 20mm pancake lens](http://www.amazon.com/gp/product/B00DJS830Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DJS830Y&linkCode=as2&tag=thenews02-20&linkId=KUXUHTVQF7RFBHZR) attached, the entire system is thinner and lighter than the Canon 5D Mark II body on its own. The overall footprint of the E-M10 is incredibly small as well and won't take up much space in your bag.
 
-![](/media/images/2014/Sep/IMG_0644.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0644.jpg)
 
 <p>The E-M10 body is lined with a faux-leather grip that becomes slightly slippery if you have sweaty hands. The faux-leather looks and feels alright, but I&#8217;m not a fan of the nostalgic camera design these days.<a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a> </p>
 
@@ -86,22 +86,22 @@ The dials and buttons all find nice spots on your right hand and fingertips and 
 
 But unless you have smaller than average sized hands, I don't think you'll be shooting one-handed with the E-M10 without the grip. The size of the camera body and the positioning of the dials and buttons force your hand into a very uncomfortable shooting position. My wife — who has small hands — has found the gripless E-M10 to be comfortable for shooting and treats the E-M10 much like a point-and-shoot. I, on the other hand, nearly dropped the camera the first time I held it up to chest height without a grip.
 
-![](/media/images/2014/Sep/IMG_0622.jpg)
-![](/media/images/2014/Sep/IMG_0620.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0622.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0620.jpg)
 
 Throw that Olympus grip onto the body, though, and we're talking. 
 
-![](/media/images/2014/Sep/IMG_0616.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0616.jpg)
 
 <p>The after-market Olympus E-M10 grip is not a battery grip and has been designed solely to improve the ergonomics of the camera. It adds about 3/4&quot; to the bottom of the camera body and a full inch around the grip section on the right side of the camera body. The grip is entirely black and looks a bit funny on silver E-M10 camera bodies.<a href="#fn:3" id="fnref:3" title="see footnote" class="footnote">[3]</a> Although the aesthetic nature of the E-M10 may be marred by the after-market grip, I find the grip to perfectly fit into my average to slightly smaller-than-average hands.</p>
 
-![](/media/images/2014/Sep/IMG_0651.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0651.jpg)
 
 Olympus also worked to properly design the grip on the bottom of the camera body. Instead of needing to unscrew the grip every time you need to remove the SD card or the battery pack, Olympus put in a clicking mechanism that allows the grip to easily slide off and reveals the battery pack/SD card hatch for quick access. Putting the grip back onto the E-M10 is also a breeze and does so with a satisfying click. 
 
-![](/media/images/2014/Sep/IMG_0626.jpg)
-![](/media/images/2014/Sep/IMG_0627.jpg)
-![](/media/images/2014/Sep/IMG_0638.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0626.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0627.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0638.jpg)
 
 Despite my dissatisfaction with a gripless E-M10, the grip may not be for everyone. My wife immediately removes the grip when it's her turn to take the camera for a spin. For smaller hands, I can see why she decides to ditch the grip. The E-M10 is light and leaving the grip behind only makes the entire system that much lighter. If you have average sized hands, I recommend purchasing the extra grip at the time of your E-M10 purchase.
 
@@ -109,15 +109,15 @@ Despite my dissatisfaction with a gripless E-M10, the grip may not be for everyo
 
 As mentioned in the introduction above, the Olympus OM-D E-M10 is a Micro Four Thirds camera. This Micro Four Thirds sensor is approximately half the size of a full frame sensor which, to my level of expertise, really means nothing. I believe one needs to have experience and a true purpose for a full frame sensor before the differences truly become noticeable.
 
-![](/media/images/2014/Sep/IMG_0630.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0630.jpg)
 
 I witnessed Josiah use a full frame (35mm) camera to snap photos of the E-M10 body and I found the improvements in depth of field and frame size to be fairly impressive. The blown out backgrounds shot with his 5D Mark II and 100mm Macro lens are beautiful, but I just don't see $2000 worth of improvements in full frame photographs. I promised I wouldn't talk too specifically about technical specifications, so I'll end with saying that the Micro Four Thirds sensor size does not greatly inhibit the features full frame cameras are known for excelling in. If you're buying a camera to have top-of-the-line bokeh, you probably looked past *any* Micro Four Thirds camera long ago. If you're looking for a small and light camera that can take pretty great portrait shots with decent bokeh, the E-M10 is a great choice.
 
-![](/media/images/2014/Sep/IMG_0624.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0624.jpg)
 
 Of course, blown out backgrounds and shallow depth of field are more features of the lenses you strap onto the front of your camera body than they are features of the body itself. The E-M10 can be purchased as a kit and comes with a 14-42mm kit lens. The lens is made of plastic and feels like plastic — I would stray away from rough-housing the kit lens as much as possible. The kit lens retracts into the lens body as seen in the photo above and extends when in its shooting mode. At f/3.5-5.6, you're not looking at the fastest lens on the market, but you've certainly got a capable piece of glass when you need a zoom.
 
-![](/media/images/2014/Sep/IMG_0629.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0629.jpg)
 
 After three weeks of solely using the kit lens, I plunged deeper into the pocketbook and purchased the famous [Panasonic Lumix 20mm f/1.7 pancake lens](http://www.amazon.com/gp/product/B00DJS830Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DJS830Y&linkCode=as2&tag=thenews02-20&linkId=KUXUHTVQF7RFBHZR). As you've seen in all the product photos, the 20mm pancake lens (40mm in full-frame lingo) is hard to beat in terms of speed and size. The f/1.7 aperture (f/3.4 in full-frame lingo) is fantastic for low light shooting and provides some great — although somewhat hazy — blown out backgrounds. 
 
@@ -137,48 +137,48 @@ Below are some of my favourite — and hopefully best — photographs I've shot 
 
 ---
 
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P6240032.jpg)
-![Olympus OM-D E-M10 + Olympus M.Zuiko Digital ED 14-42mm F3.5-5.6 II R — Edited](/media/images/2014/Sep/P6050147-2.jpg)
-![Olympus OM-D E-M10 + Olympus M.Zuiko Digital ED 14-42mm F3.5-5.6 II R — Unedited](/media/images/2014/Sep/P6150097.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P6240032.jpg)
+![Olympus OM-D E-M10 + Olympus M.Zuiko Digital ED 14-42mm F3.5-5.6 II R — Edited](http://static.thenewsprint.co/media/2014/Sep/P6050147-2.jpg)
+![Olympus OM-D E-M10 + Olympus M.Zuiko Digital ED 14-42mm F3.5-5.6 II R — Unedited](http://static.thenewsprint.co/media/2014/Sep/P6150097.jpg)
 
 When browsing through my photo library, I was very surprised to find this photo unedited and shot with the kit lens. The bokeh in the background is hazy, but I was pleasantly reassured that a Micro Four Thirds sensor was still capable of blowing out backgrounds at f/3.5.
 
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P6180185.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P6180205.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Unedited](/media/images/2014/Sep/P6280182.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P6240205.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P7010002.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P6180185.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P6180205.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Unedited](http://static.thenewsprint.co/media/2014/Sep/P6280182.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P6240205.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P7010002.jpg)
 
 This photo of my niece was shot in low light with high levels of contrast. I was amazed at how sharp and how true this image turned out despite the low light. I can't say enough about that 20mm lens.
 
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P7040109.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P7120049.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P7190383.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P7040109.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P7120049.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P7190383.jpg)
 
 The E-M10 has Manual Priority, Shutter Speed Priority, Aperture Priority and Program shooting modes. I generally keep the E-M10 in Aperture Priority and fire away.
 
 The above image, however, was shot in Shutter Speed Priority because I wanted to show the quick movement of people flowing through Grand Central in New York City. I always thought these kinds of photos were only possible with high-end DSLRs. I couldn't be happier to experiment with different shooting modes when the situation arises.
 
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P7190466.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P7190466.jpg)
 
 I had to remain truthful when declaring whether I edited these photos or not. The above photo was indeed edited, but the level of retouching is so minimal you'd be hardpressed to tell the original from the edited version. Again, the 20mm f/1.7 Lumix lens is so great in low light and is the ultimate everyday and travel lens.
 
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P7210817.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P8050091.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P8050114.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P7210817.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P8050091.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P8050114.jpg)
 
 Beauty is generally in the eye of the beholder and this image is my favourite image to date. It has been retouched to a fairly extensive level, but sometimes that retouching works out great. I love this image and I love the story it tells. If I can snap a photo like this once every six months, I'll be a very happy photographer.
 
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Unedited](/media/images/2014/Sep/P8300256.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Unedited](/media/images/2014/Sep/P8300268.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Unedited](http://static.thenewsprint.co/media/2014/Sep/P8300256.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Unedited](http://static.thenewsprint.co/media/2014/Sep/P8300268.jpg)
 
 Once more, this image was shot in a basement with two incandescent lights on the wall behind and to the side of my youngest niece. This image is unedited and only cropped for the sake of framing. 
 
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P8310373.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P6210167.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P7200514.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P8170141.jpg)
-![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](/media/images/2014/Sep/P9210155.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P8310373.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P6210167.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P7200514.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P8170141.jpg)
+![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P9210155.jpg)
 
 ### Conclusion
 
@@ -188,7 +188,7 @@ For my wife and I, the best camera system is the one that is small enough and ch
 
 The Olympus OM-D E-M10 isn't a perfect camera and has some weaknesses as well, specifically the lack of weatherproofing, the placement of the on/off switch, the poor quality neckstrap and the sensitivity of the electronic viewfinder. Considering the number of dollars I spent to obtain the E-M10, I'm blown away by how little I dislike.
 
-![](/media/images/2014/Sep/IMG_0653.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/IMG_0653.jpg)
 
 In contrast, the E-M10 can create drop-dead gorgeous images without needing to blink. Almost all the photos above were shot with the same wide-open aperture and were tweaked slightly in Lightroom. Feeling like an artist is extremely addicting and the E-M10 is 100% responsible for introducing my newfound artistic addiction.
 

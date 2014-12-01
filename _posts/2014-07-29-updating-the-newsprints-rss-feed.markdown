@@ -12,4 +12,4 @@ If you're not sure of how to unsubscribe from The Newsprint's old feed and subsc
 
 Thanks again for making the update to the new RSS feed. And thanks again Josiah for your continued help.
 
-![](/media/images/2014/Jul/reeder-howto.gif)
+![](http://static.thenewsprint.co/media/2014/Jul/reeder-howto.gif)

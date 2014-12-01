@@ -18,7 +18,7 @@ date: '2014-05-12 14:00:00'
 
 <h2 id="begin">Begin</h2>
 
-![](/media/images/2014/May/1399691054764.png)
+![](http://static.thenewsprint.co/media/2014/May/1399691054764.png)
 
 <p>In his introductory post, Ben Brooks described Begin as a digital scrap of paper:</p>
 
@@ -36,44 +36,44 @@ date: '2014-05-12 14:00:00'
 
 <p>Begin is an iPhone version of your paper breakfast napkin. Your most urgent tasks are put in the list and anything not completed today can be pushed to tomorrow. It’s a simple structure that I think fulfills the idea Ben and Kyle set out with.</p>
 
-![](/media/images/2014/May/1399691032864.png)
+![](http://static.thenewsprint.co/media/2014/May/1399691032864.png)
 
 <p>Begin can be viewed in both a full-screen and non-full-screen theme. I personally like the minimal full-screen view. </p>
 
-![](/media/images/2014/May/1399829884915.png)
+![](http://static.thenewsprint.co/media/2014/May/1399829884915.png)
 
 <p>You create a task by pulling down from the top of the screen and you can quickly create a list by tapping the “+” button as you go. I love how each new task is set <em>below</em> the rest of the list. Although a very simple feature, I believe your most urgent tasks come to mind first and are in need of inhabiting the topmost part of your list. Tasks that aren’t as important generally come to mind later and should be placed at the bottom of the list. It’s surprising how small this feature seems, but apps like <a href="https://itunes.apple.com/us/app/clear-tasks-reminders-to-do/id493136154?mt=8&amp;uo=4&amp;at=1l3v5At">Clear</a> don’t get this right.</p>
 
-![](/media/images/2014/May/1399691290796.png)
+![](http://static.thenewsprint.co/media/2014/May/1399691290796.png)
 
 <p>Swiping an item from the left marks the item as completed and a swipe from the right shoots the item down to your “Tomorrow” section. Once an item is marked as done, you can swipe from the right to send the item to the trash. I understand the design choice here and it’s a great idea, however I find myself wanting to delete items more often than pushing them to tomorrow. As a result, I need to swipe from the left to mark the item as done before swiping the completed item from the right to send it to the trash. It’s an extra step that gets in the way of my personal workflow.</p>
 
 <p>Once an item is set to tomorrow, you can again swipe from the left to complete the item or swipe from the right to bring the item back into your “Today” list. Again, flip-flopping tasks via swipe gestures is the most efficient way of handling task lists and Begin knocks it out of the park.</p>
 
-![](/media/images/2014/May/1399691312898.png)
+![](http://static.thenewsprint.co/media/2014/May/1399691312898.png)
 
 <p>As already stated, Begin divides your tasks into three depositories: Today, Tomorrow and Uncompleted. This structure gets rid of due dates and forces you to focus on your most urgent tasks. Powerful task managers often forget the need to promote urgency for your most important tasks. Right from the start, I’ve felt Begin places urgency on today’s tasks better than any other task manager, including power-user apps like Omnifocus. </p>
 
-![](/media/images/2014/May/1399691078902.png)
+![](http://static.thenewsprint.co/media/2014/May/1399691078902.png)
 
 <p>On the other hand, I don’t like how the “Uncompleted” tray is hidden from view. When the clock strikes 12, all your tasks in the “Today” depository flop over to the unseen “Uncompleted” depository. If Begin becomes habitual for you, swiping from the bottom to find your uncompleted tray will be simple. But for me, forgetting to look at my uncompleted tray results in the duplication of mundane tasks. It’s a small hiccup in an otherwise perfect today/tomorrow task structure, but it’s a hiccup none the less.</p><p>Via in-app purchases, Begin offers multiple fonts and themes for your customized pleasure. Like always, my font is set to Avenir Next and my theme of choice is Solarized Light. Solarized Light is just plain gorgeous and is potentially the best theme I have found on the App Store.</p>
 
-![](/media/images/2014/May/Begin-Screenshot-8.png)
+![](http://static.thenewsprint.co/media/2014/May/Begin-Screenshot-8.png)
 
-![](/media/images/2014/May/Begin-Screenshot-9.png)
+![](http://static.thenewsprint.co/media/2014/May/Begin-Screenshot-9.png)
 
-![](/media/images/2014/May/Begin-Screenshot-10.png)
+![](http://static.thenewsprint.co/media/2014/May/Begin-Screenshot-10.png)
 
 <p>Begin also offers fairly extensive URL scheme support, of which I’m not fully versed. However, creating multiple tasks from a text file in <a href="https://itunes.apple.com/us/app/drafts-quickly-capture-notes/id502385074?mt=8&amp;uo=4&amp;at=1l3v5At">Drafts</a> or <a href="https://itunes.apple.com/us/app/scratch-your-quick-input-notepad/id533320655?mt=8&amp;uo=4&amp;at=1l3v5At">Scratch</a> is extremely simple and allows for workflow customization akin to Clear, <a href="https://itunes.apple.com/us/app/fantastical-2-for-iphone-calendar/id718043190?mt=8&amp;uo=4&amp;at=1l3v5At">Fantastical</a> and Omnifocus. As I’ll get to, I think this URL support is of the utmost importance when determining where Begin can fit in your workflow.</p>
 
-![](/media/images/2014/May/Begin-Screenshot-11.png)
+![](http://static.thenewsprint.co/media/2014/May/Begin-Screenshot-11.png)
 
-![](/media/images/2014/May/Begin-Screenshot-12.png)
+![](http://static.thenewsprint.co/media/2014/May/Begin-Screenshot-12.png)
 
 <p>The last important feature I must touch on is Begin’s implementation of reminders. Found within the settings screen, Begin can remind you of your uncompleted tasks twice each day at your time of choice. This is a neat way to check your digital scrap paper twice a day to see where you are at.</p><p>But as a result, Begin’s reminder implementation is the only reason I don’t use it as part of my workflow. Like Ben’s co-worker, I love to begin my day by scratching out a list of the things I need to get done in the next 24 hours. These items may be events with a specific due time (like lunch with a client) or tasks that need to be completed by the end of the day. Individual items in Begin can not be set to have specific reminders. Clear, for example, can have a list of items where some items have reminders and some don’t. I know that an app like Fantastical can give me reminders with due times, events with due times and to-do lists without reminders, but Fantastical doesn’t do as elegant a job as Begin. If I could ask for anything to change in Begin, it would be for specific reminders for individual items. I don’t know the best way of implementing this, but it would put Begin back on my home screen in a heartbeat.</p>
 
 <h2 id="verdict">Verdict</h2>
 
-![](/media/images/2014/May/1399690622706.png)
+![](http://static.thenewsprint.co/media/2014/May/1399690622706.png)
 
 <p>At the end of the day, Begin’s job is to be your proverbial task napkin. It doesn’t set out to manage your projects or to keep you on track. It sets out to organize your thoughts at the beginning of the day and to prepare you for tomorrow at the end of the day. </p><p>Therefore, Begin isn’t an Omnifocus replacement. In fact, they work brilliantly <em>together</em>. Your Omnifocus Forecast can remind you throughout the day and Begin can be a way to organize yourself at the beginning and end of the day. To top it off, Begin’s URL support allows it to be used in power workflows seamlessly and effectively.</p><p>Perhaps this explains <em>why</em> Begin doesn’t fit me properly. Perhaps I shouldn’t ask for Begin to notify me of every task or event because other apps already complete these purposes. Perhaps adding more advanced reminder support would hinder the urgency Begin places on today’s tasks. I don’t know what the answer is.</p><p>What I do know is that I’m not 100% content with Begin. I’m 95% content. And that 5% burns inside, especially when I’m as app-obsessed as the worst of them. Even writing this review makes me want to put Begin back on my home screen to see if I can make it work.</p><p>Overall, Begin is an incredibly solid solution for a fairly simple problem. I wholeheartedly recommend it as your day-to-day task list. Best, Begin is <a href="https://itunes.apple.com/us/app/begin-your-daily-to-do-list/id687455038?mt=8&amp;uo=4&amp;at=1l3v5At">free to download</a>. Just don’t be disappointed with the app icon when you find it in the App Store.</p>

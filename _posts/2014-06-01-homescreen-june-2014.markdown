@@ -6,7 +6,7 @@ date: '2014-06-01 16:32:16'
 
 Although there aren't many additions, there are a few deletions from my home screen this month. Check it out:
 
-![](/media/images/2014/Jun/Homescreen-June-2014-1.png)
+![](http://static.thenewsprint.co/media/2014/Jun/Homescreen-June-2014-1.png)
 
 [Weather Line](https://itunes.apple.com/ca/app/weather-line-accurate-forecast/id715319015?mt=8&uo=4&at=1l3v5At)
 

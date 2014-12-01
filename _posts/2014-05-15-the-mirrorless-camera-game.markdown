@@ -46,7 +46,7 @@ date: '2014-05-15 14:00:00'
 
 <h3 data-preserve-html-node="true">Fujifilm X-E2</h3>
 
-![](/media/images/2014/May/fujifilmx-e2.jpg)
+![](http://static.thenewsprint.co/media/2014/May/fujifilmx-e2.jpg)
 
 <p data-preserve-html-node="true">This is the camera <a data-preserve-html-node="true" href="http://brooksreview.net/2014/01/fuji-x-e2/">Ben Brooks swears by</a> and I fully understand why. X-E2 reviews are brimming with praise. </p>
 
@@ -60,7 +60,7 @@ date: '2014-05-15 14:00:00'
 
 <h3 data-preserve-html-node="true">Olympus PEN E-P5</h3>
 
-![](/media/images/2014/May/olympusep-5.jpg)
+![](http://static.thenewsprint.co/media/2014/May/olympusep-5.jpg)
 
 <p data-preserve-html-node="true">I understand this is a micro four-thirds body, but it&#8217;s the only micro four-thirds I&#8217;m considering. It has slowly wiggled its way out of contention because of the micro four-thirds limitations but there are too many great things about the E-P5 to entirely rule it out.</p>
 
@@ -74,7 +74,7 @@ date: '2014-05-15 14:00:00'
 
 <h3 data-preserve-html-node="true">Sony A6000</h3>
 
-![](/media/images/2014/May/sonya6000.jpg)
+![](http://static.thenewsprint.co/media/2014/May/sonya6000.jpg)
 
 <p data-preserve-html-node="true">Sony is pulling off some impressive innovation in the mirrorless market. Sony&#8217;s NEX lineup has always been known for its great image quality and great shooting experience. With the A7 and A7R, Sony pushed mirrorless cameras into full-frame DSLR territory. As a result, Sony has caught some of the big camera makers on their heels and I can&#8217;t wait to see where Sony&#8217;s presence pushes the market.</p>
 
@@ -84,7 +84,7 @@ date: '2014-05-15 14:00:00'
 
 <h3 data-preserve-html-node="true">Fujifilm X-T1</h3>
 
-![](/media/images/2014/May/fujix-t1.jpg)
+![](http://static.thenewsprint.co/media/2014/May/fujix-t1.jpg)
 
 <p data-preserve-html-node="true">Fujifilm&#8217;s newest mirrorless offering also appears to be their best. The X-T1 looks the part, delivers the part and promises the part. Its <a data-preserve-html-node="true" href="http://www.theverge.com/2014/5/8/5695310/fuji-x-t1-beautiful-blueprints-for-camera-of-the-future">nostalgic look</a> hearkens back to good ol&#8217; SLR days and promises to spark excitement upon first glance. </p>
 
@@ -98,7 +98,7 @@ date: '2014-05-15 14:00:00'
 
 <h3 data-preserve-html-node="true">Leica T</h3>
 
-![](/media/images/2014/May/leicat.jpg)
+![](http://static.thenewsprint.co/media/2014/May/leicat.jpg)
 
 <p data-preserve-html-node="true">It&#8217;s funny that I would include the completely new Leica T in my consideration list right after stating the Fujifilm X-T1 may be too expensive for our liking. Everyone knows Leica is an expensive system to buy into. </p>
 

@@ -4,7 +4,7 @@ title: 'Homescreen: October 2014'
 date: '2014-10-01 13:52:33'
 ---
 
-![](/media/images/2014/09/P9300258.jpg)
+![](http://static.thenewsprint.co/media/2014/09/P9300258.jpg)
 
 This homescreen article has easily been the one I've anticipated most since I started the mini-series back in April. I purchased an iPhone 5 back in September 2012 and, as with any older phone, it became stale and dry as time passed. Like many other people, I was really looking forward to the launch of the iPhone 6.
 
@@ -16,7 +16,7 @@ And I love it.
 
 First up though, my iPad's current homescreen — which has sat hopelessly unused for the last four or five days:
 
-![](/media/images/2014/09/P9300274.jpg)
+![](http://static.thenewsprint.co/media/2014/09/P9300274.jpg)
 
 ---
 
@@ -61,11 +61,11 @@ Omnifocus 2 is completely worth the $30. If I ever decide to upgrade to custom p
 
 The last important change on my iPad is the switch from [Mailbox](https://itunes.apple.com/ca/app/mailbox/id576502633?mt=8&uo=4&at=1l3v5At) to Apple Mail. I really like the swiping additions in Apple Mail and nothing beats having every single email address talk to one single inbox. It's far easier to manage email when all the crap flows into one spot. I keep Mailbox around for deferring emails into the future or for archiving if an email address doesn't have the ability to archive. Other than that, Apple Mail on the iPad and iPhone has really impressed me as of late.
 
-![](/media/images/2014/09/Homescreen-iPad-October.jpg)
+![](http://static.thenewsprint.co/media/2014/09/Homescreen-iPad-October.jpg)
 
 Obviously the biggest change of the month came in the form of an entirely new phone and an extra row of app icons. Naturally, the last row has remained empty. Take a look:
 
-![](/media/images/2014/09/P9300262.jpg)
+![](http://static.thenewsprint.co/media/2014/09/P9300262.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ This can't be said about iPhone 5/5S apps on the iPhone 6 Plus; text is extremel
 
 At the end of the day, I've quickly grown tired of unoptimized apps and this has led to far more experimentation than I would have ever expected (or even wanted).
 
-![](/media/images/2014/10/October-iPhone-Homescreen-1.jpg)
+![](http://static.thenewsprint.co/media/2014/10/October-iPhone-Homescreen-1.jpg)
 
 Of the 24 apps on my homescreen, 12 are not optimized for the iPhone 6 Plus. These are the lucky 12 that have remained, I might add, as apps like [Reeder 2](https://itunes.apple.com/ca/app/reeder-2/id697846300?mt=8&uo=4&at=1l3v5At), [Delivery Status Touch](https://itunes.apple.com/ca/app/delivery-status-touch-package/id290986013?mt=8&uo=4&at=1l3v5At), and [Pushpin](https://itunes.apple.com/ca/app/pushpin-for-pinboard/id548052590?mt=8&uo=4&at=1l3v5At) have all been cast aside for updated apps or apps that can be customized to reduce the blurriness.
 
@@ -116,7 +116,7 @@ And [Fantastical 2](https://itunes.apple.com/ca/app/fantastical-2-for-iphone-cal
 
 I could go on regarding the sheer beauty of optimized apps, but I'll leave that for an iPhone review in the future. I'll also touch on the location of my most used apps in that review as well, as the size of the screen has changed how I access my iPhone. My iPhone has become a productivity machine overnight and it's all thanks to that giant screen and the improved keyboard.
 
-![](/media/images/2014/09/P9300258.jpg)
+![](http://static.thenewsprint.co/media/2014/09/P9300258.jpg)
 
 I'll leave the homescreen article here for now. I don't want to make too many comments that I end up retracting when I do an iPhone 6 Plus photoshoot in the future. 
 

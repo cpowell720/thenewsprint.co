@@ -10,13 +10,13 @@ I've been asked about the iPhone 6 Plus more than any other product I've written
 
 I spent a lot of time considering that line, being sure not to say "too big" or "wrong size" or even "the perfect size". However, I never expected this polarization would play out so explicitly in my little microcosm of the universe.
 
-![](/media/images/2014/11/PB271162.jpg)
+![](http://static.thenewsprint.co/media/2014/11/PB271162.jpg)
 
 Many people wonder whether the iPhone 6 Plus could replace the iPad in their technological toolbelt. I wondered the same thing.
 
 But after a solid seven weeks of using the iPhone 6 Plus and a month after purchasing an iPad Air 2, I'm more convinced than ever that both devices still play their role. I use my iPad more than my iPhone (ironically), and the little improvements to the iPad make it more useful than I could have ever imagined.
 
-![](/media/images/2014/11/PB271168.jpg)
+![](http://static.thenewsprint.co/media/2014/11/PB271168.jpg)
 
 I've tried to keep track of my device usage over the past few weeks to more fully hash out my thoughts on the two devices. Again, these are all my own subjective thoughts, but hopefully it can help answer a few questions.
 
@@ -36,7 +36,7 @@ I've tried to keep track of my device usage over the past few weeks to more full
 
 * The Air 2's laminated screen is definitely a major improvement over the original Air, but it's not as big a deal as I originally thought. At the end of the day, the usability of the device hasn't changed as a result of the screen. Colours remain the same and sharpness is the same as previous generations. The biggest improvement is the elimination of that plasticky feeling of the original Air.
 
-![](/media/images/2014/11/PB271179.jpg)
+![](http://static.thenewsprint.co/media/2014/11/PB271179.jpg)
 
 My last major point deserves to be outside of this bulleted list. 
 

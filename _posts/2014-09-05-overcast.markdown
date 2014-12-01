@@ -4,7 +4,7 @@ title: Overcast
 date: '2014-09-05 14:39:17'
 ---
 
-![](/media/images/2014/Sep/P9020481.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020481.jpg)
 
 There are very few apps on my iPhone that hold the title of a "Category Introducer". By that, I mean to say that few apps introduced me to an entirely new medium or workflow category. Apps like [Omnifocus](https://itunes.apple.com/ca/app/omnifocus-2-for-iphone/id690305341?mt=8&uo=4&at=1l3v5At), [Fantastical](https://itunes.apple.com/ca/app/fantastical-2-for-iphone-calendar/id718043190?mt=8&uo=4&at=1l3v5At), [Tweetbot](https://itunes.apple.com/ca/app/tweetbot-3-for-twitter-iphone/id722294701?mt=8&uo=4&at=1l3v5At) and [Editorial](https://itunes.apple.com/ca/app/editorial/id673907758?mt=8&uo=4&at=1l3v5At) are good examples of apps that improved upon a piece of software that I previously used for a specific task.  The few "Category Introduction Apps" which come to mind:
 
@@ -17,25 +17,25 @@ I believe I can add [Overcast](https://itunes.apple.com/ca/app/overcast-podcast-
 
 Below, I'd like to explain why Overcast works for me. It may not work for everyone, especially if you're looking for a synchronized cross-platform app. Further, I'm not incredibly knowledgeable of the audio and podcast world — this review aims to be more qualitative than quantitative.
 
-![](/media/images/2014/Sep/P9020535.jpg)
-![Overcast for iPhone](/media/images/2014/Sep/Overcast-Screenshots-2.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020535.jpg)
+![Overcast for iPhone](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-2.jpg)
 
 <p>Overcast is the work of <a href="marco.org">Marco Arment</a>. Marco&#8217;s past work and past experiences are evident throughout Overcast. The use of white space and typography<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a> flow elegantly throughout the app — just like Instapaper and <a href="https://itunes.apple.com/ca/app/the-magazine./id557744510?mt=8&uo=4&at=1l3v5At">The Magazine</a>. Small features also shine, like the animated EQ Bar that overlays the podcast artwork in the subscription list view. Nearly everything about this app is absolutely delightful.</p>
 
-![](/media/images/2014/Sep/P9020481.jpg)
-![](/media/images/2014/Sep/Overcast-Screenshots-11.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020481.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-11.jpg)
 
 Navigating through Overcast is fairly straightforward. After you have chosen a podcast from the main view menu (as seen in the introduction image), you're quickly shot to a list of all unplayed episodes of that podcast. 
 
 Tapping the info button gives you some information on that specific show and tapping the show title will either begin downloading the episode or begin playing the episode if it has already been downloaded. Overcast supports background downloads, so I've generally found each episode ready to go whenever I'm up to listen.  
 
-![](/media/images/2014/Sep/P9020492.jpg)
-![](/media/images/2014/Sep/Overcast-Screenshots-5.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020492.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-5.jpg)
 
 Why does Overcast have to download the podcast to memory instead of streaming the episode? Because Overcast's two major features — Smart Speed and Voice Boost (which are an in-app purchase) — need to analyze the downloaded file before they can be played.
 
-![](/media/images/2014/Sep/P9020517.jpg)
-![Smart Speed and Voice Boost options](/media/images/2014/Sep/Overcast-Screenshots-7.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020517.jpg)
+![Smart Speed and Voice Boost options](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-7.jpg)
 
 Smart Speed analyzes the downloaded episode and shortens areas of downtime or pauses in speech to speed up listening time. This is handled *brilliantly*. Conversations sound smoother and less robotic than a generic speed boost option. There is even an indicator in the settings menu to indicate how much time you have saved by using Smart Speed. I would wager Smart Speed *alone* is worth the in-app purchase.
 
@@ -43,25 +43,25 @@ Voice Boost is equally impressive. Voice Boost also analyzes the downloaded file
 
 These two hallmark features are what sell Overcast for me. They are so well executed and act so invisibly that I usually forget I have them turned on.
 
-![](/media/images/2014/Sep/P9020511.jpg)
-![Overcast Playback Screen](/media/images/2014/Sep/Overcast-Screenshots-10.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020511.jpg)
+![Overcast Playback Screen](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-10.jpg)
 
 The actual playback screen is very simple and clean like the rest of the app. The same animated EQ Bar found in the main menu can be found in the playback screen.
 
-![](/media/images/2014/Sep/P9020521.jpg)
-![](/media/images/2014/Sep/Overcast-Screenshots-12.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020521.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-12.jpg)
 
 Other in-app purchase features, such as a sleep timer and a continuous playback option, are found in a menu from the playback screen. Again, everything is laid out simply and highlighted with colour and text. 
 
-![](/media/images/2014/Sep/P9020523.jpg)
-![Show Notes and Show Links](/media/images/2014/Sep/Overcast-Screenshots-4.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020523.jpg)
+![Show Notes and Show Links](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-4.jpg)
 
 The only slight misstep in this playback screen — and, admittedly, in the entire app — is the hidden ability to swipe the podcast artwork upwards to find show notes and show links. Prior to downloading Overcast, I had read about this feature in other reviews and I knew how to navigate the playback screen appropriately. However, first time users who have no prior knowledge may need to stumble upon these hidden notes and links out of sheer luck.
 
 Once you do find these show notes though, there seems to be no better place to keep them. 
 
-![](/media/images/2014/Sep/P9020464.jpg)
-![The classiest settings menu.](/media/images/2014/Sep/Overcast-Screenshots-8.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020464.jpg)
+![The classiest settings menu.](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-8.jpg)
 
 Marco Arment was a guest on Myke Hurley's Inquisitive podcast and he discussed the mindset behind Overcast's settings and options. Without spoiling too much of the fun, Marco concluded that options for every kind of feature would turn Overcast into a convoluted mess. 
 
@@ -69,32 +69,32 @@ I tend to agree.
 
 As a result, Overcast doesn't have an endless settings menu where every feature can be turned on or off. Best of all, if you are looking for a feature Overcast doesn't offer, a thoughtful list of other podcast apps are ready for your click — a classy gesture in a classy app.
 
-![](/media/images/2014/Sep/P9020472.jpg)
-![Overcast Podcast Directory](/media/images/2014/Sep/Overcast-Screenshots-3.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020472.jpg)
+![Overcast Podcast Directory](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-3.jpg)
 
 Overcast's podcast directory is much like its settings menu: short, simple, to-the-point and very classy. Searching the directory is simple and I've had no problems finding specific podcasts within seconds. If you have a podcast URL on your clipboard, you can tap the "Add URL" button and pre-populate the URL field to make searching that much quicker. 
 
 Once more, Overcast's use of whitespace and typography creates logical divisions within the podcast directory and maintains the design aesthetic throughout the app.
 
-![](/media/images/2014/Sep/P9020529.jpg)
-![Overcast Share Sheet](/media/images/2014/Sep/Overcast-Screenshots-9.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020529.jpg)
+![Overcast Share Sheet](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-9.jpg)
 
 If you've finished a show and deem it one of your favourites, you can use the share sheet to recommend the episode. By recommending a show, Overcast can use your Twitter account to send your recommendations to your followers. Overcast doesn't tweet on your behalf, but rather reads the recommendations of the people you follow and shoots the results into the "Recommendations from Twitter" section in the podcast directory. 
 
 Like Smart Speed and Voice Boost, recommendations are handled invisibly. It's probably the best way to handle recommendations as well — after all, the people you talk to and trust are probably the ones you follow on Twitter. I love the trend of invisible features that developers are adopting these days. 
 
-![](/media/images/2014/Sep/P9020498.jpg)
-![](/media/images/2014/Sep/Overcast-Screenshots-6.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020498.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-6.jpg)
 
 Once you've downloaded and subscribed to all the podcasts your heart desires, you can create playlists and organize your podcasts accordingly. I don't subscribe to enough podcasts for this to be of use, but it's nice to know it's there.
 
-![](/media/images/2014/Sep/P9020461.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/P9020461.jpg)
 
 I didn't embark on a mission to review every aspect or to critique each design choice found in Overcast and I'm not the first person to write about it. However, I wanted to outline how simplicity, typography, whitespace and a few invisible features have turned me into a podcast listener. 
 
 Overcast has a few current flaws according to most people, namely the lack of a dedicated iPad app and the ability to stream episodes. I personally have no problem with these flaws, but your mileage may vary.
 
-![](/media/images/2014/Sep/Overcast-Screenshots-1.jpg)
+![](http://static.thenewsprint.co/media/2014/Sep/Overcast-Screenshots-1.jpg)
 
 With all the hype surrounding Overcast and its development, it was hard to objectively state that this would change how I use my iPhone within a few days of release. Instead, after a good month to six weeks of use, I can assuredly state that Overcast is on my iPhone and has introduced me to a new format of content. 
 

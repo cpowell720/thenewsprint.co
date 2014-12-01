@@ -4,7 +4,7 @@ title: Omnifocus 2 for iPhone
 date: '2014-05-28 02:42:54'
 ---
 
-![](/media/images/2014/May/Omnifocus-Screenshots-1.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-1.png)
 
 <p>The most common question I field on The Newsprint is whether Omnifocus is worth the premium price. It&#8217;s hard to give anything but a common answer:</p>
 
@@ -30,41 +30,41 @@ date: '2014-05-28 02:42:54'
 
 <h2>Omnifocus 2</h2>
 
-![](/media/images/2014/May/Omnifocus-Screenshots-10.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-10.png)
 
 <p>Omnifocus 2 for iPhone opens up to what I perceive to be an overwhelming main screen. Launching the app brings you to a screen of large and confusing words that will immediately overwhelm a beginner. These small choices immediately introduce Omnifocus as a power-user app.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
 
 <p>I&#8217;ll try, to the best of my understanding, to outline what each of these big words actually means. I don&#8217;t have a great idea of what they all mean as I don&#8217;t use all of them. But I&#8217;ll try anyway.</p>
 
 <p>Staying true to David Allen&#8217;s <a href="http://gettingthingsdone.com">Getting Things Done system</a>, Omnifocus&#8217;s first main option is the Inbox. This is where most of your tasks start. When it comes time to determine what you need to get done, a good brain dump is key. Getting everything into your Inbox should be your first priority. You can also quickly input multiple tasks at once by using the &#8220;Save+&#8221; button at the top. If you are in need of quickly jotting down tasks, I would recommend putting them into <a href="https://itunes.apple.com/ca/app/drafts-quickly-capture-notes/id502385074?mt=8&amp;uo=4&amp;at=1l3v5At">Drafts</a> or <a href="https://itunes.apple.com/ca/app/scratch-your-quick-input-notepad/id533320655?mt=8&amp;uo=4&amp;at=1l3v5At">Scratch</a> first and then processing your Drafts/Scratch queue later on. Omnifocus&#8217;s Inbox is just not fast enough to use as my main brain dump pool.</p>
-![](/media/images/2014/May/Omnifocus-Screenshots-13.png)
-![](/media/images/2014/May/Omnifocus-Screenshots-11.png)
-![](/media/images/2014/May/Omnifocus-Screenshots-14.png)
-![](/media/images/2014/May/Omnifocus-Screenshots-16.png)
-![](/media/images/2014/May/Omnifocus-Screenshots-17.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-13.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-11.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-14.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-16.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-17.png)
 <p>At this point, tasks in your Inbox can be left in your Inbox until you have time to delegate them further into Omnifocus&#8217;s system. You can assign a Context, a Project and/or a Location to your task.<a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a> Once one of these characteristics are assigned to one of your Inbox tasks, the task gets pushed deeper into the app and out of your Inbox. Bingo! You&#8217;ve processed your tasks!</p>
 
 <p>When processing your Inbox, you can also assign due dates and start dates to your tasks. I&#8217;m only learning now about start dates and their potential and I won&#8217;t talk too much about them. If you want to learn more about them, <a href="http://inside.omnifocus.com/David-Sparks">David Sparks</a> wrote an awesome piece for Omnifocus&#8217;s new Inside page. In his article, David outlines start dates and how he uses Omnifocus to manage his workload as a lawyer. I really recommend it.</p>
-![](/media/images/2014/May/Omnifocus-Screenshots-9.png)
-![](/media/images/2014/May/Omnifocus-Screenshots-3.png)
-![](/media/images/2014/May/Omnifocus-Screenshots-8.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-9.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-3.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-8.png)
 <p>Items that have been flagged or that have been given a due date also have a neat &#8220;status circle&#8221; color change. Omnifocus uses a circle to give status to an item and the color of that circle changes. <a href="http://www.omnigroup.com/video/#omnifocus-2-for-mac-new-icons">According to the Omni Group&#8217;s video</a>, impending tasks are &#8220;amber&#8221; (which looks yellow to me) and overdue tasks are &#8220;red&#8221; (which doesn&#8217;t look red to me). Repeating tasks have three big dots in the middle and a flagged item turns orange. I actually find these status circles to be the only Omnifocus aspect that are <em>self-explanatory</em>. These circles feel natural, look great and add personality to Omnifocus 2.</p>
 
 <p>Contexts, Projects and Locations are considered “Perspectives”. Perspectives are different “views” that allow your widespread tasks to be viewed in different forms. For instance, as you can see on my main screen, I can see all my tasks that are due in the next 48 hours. I can also view my completed tasks or my recent edits as well. </p>
 
-![](/media/images/2014/May/Omnifocus-Screenshots-2.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-2.png)
 
 <p>Contexts, to my understanding, are usually <em>where</em> or <em>how</em> you complete a task. I have five different contexts: Errands, Office, School, Home, and Museum. Any tasks that need to be completed at the office are sent to my Office context and museum tasks are sent to my Museum context. Simple. I use “Errands” as an out-and-about context. Maybe I should name it “Out-and-About” instead. Whatever. Contexts could also be a person or a group of people or a company, but I don’t use contexts this way.</p>
 
-![](/media/images/2014/May/Omnifocus-Screenshots-7.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-7.png)
 <p>Projects, again to my understanding, are exactly that: your projects. They are specific plans that have a group of tasks which need to be completed to complete the project. I don&#8217;t think I could make that anymore difficult. </p>
 
 <p>Inside my Work project folder, I have specific projects created for each of the clients I do work for. Inside my School project folder, I have a Homework project, an Assignments project and an Exams project. </p>
-![](/media/images/2014/May/Omnifocus-Screenshots-6.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-6.png)
 
 <p>Now all these different perspectives are trumped by the Forecast view at the top of Omnifocus&#8217;s main screen. Forecast is the embodiment of a <em>perfect</em> task manager for me. Forecast takes all your due dates, all your perspectives and all your calendar events and notifies you of your impending tasks. In essence, Forecast eliminates the majority of the need to visit your Contexts or Projects pages. If you process your tasks appropriately (and with due dates, as I&#8217;ve most recently learned), Forecast will show you what needs to be done today or tomorrow. </p>
 
-![](/media/images/2014/May/Omnifocus-Screenshots-12.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-12.png)
 
 <p>Forecast is what sets Omnifocus apart for me and why it is one of the few apps that has <em>never</em> left my iPhone&#8217;s homescreen. As long as I properly process my Inbox at the end of the day, I can trust that Omnifocus will tell me what needs to be done and when it needs to be done. Plus, it even incorporates my calendar&#8217;s events to show me when I will have time to get everything done. I love Forecast.</p>
 
@@ -80,7 +80,7 @@ date: '2014-05-28 02:42:54'
 
 <p>Omnifocus&#8217;s learning curve is also very steep and this undoubtedly deters some potential users. Not only is Omnifocus difficult to learn,<a href="#fn:3" id="fnref:3" title="see footnote" class="footnote">[3]</a> it is cumbersome to use with simpler workflows. It doesn&#8217;t handle task input quickly or efficiently. It&#8217;s not meant for compiling lists either. I think Omnifocus on the iPhone will always need one — or even two — companion apps to fully quell all task management woes.</p>
 
-![](/media/images/2014/May/Omnifocus-Screenshots-5.png)
+![](http://static.thenewsprint.co/media/2014/May/Omnifocus-Screenshots-5.png)
 
 <p>In regards to that polarizing redesign I mentioned earlier, Omnifocus 2 <em>does</em> have some awkward design choices. When in Forecast, there is a little &#8220;+&#8221; inside a circle in the top bar. It looks awkward and out of place. And it even feels awkward to touch to create a new task — it&#8217;s just not in a natural spot. Omnifocus&#8217;s go-back animation is also awkward. When swiping from the left to go back a menu, the top and bottom fall in rather than a sideways animation that would seem more natural. I just don&#8217;t get these two awkward nuances.</p>
 

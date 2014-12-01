@@ -33,7 +33,7 @@ date: '2014-05-21 15:26:39'
 
 <p>We both knew it.</p>
 
-![](/media/images/2014/May/olympusomdem10.jpg)
+![](http://static.thenewsprint.co/media/2014/May/olympusomdem10.jpg)
 
 <p>So, how incredibly fortunate were we to learn that Olympus <em>just</em> released a new OM-D mirrorless camera that virtually replicates the EM-5? Sure, the EM-10 doesn't come with weather sealing or the extra image stabilization features. But it's the same camera that drew our gaze a few days ago. And it even has "the wifis". It may be assumptive to immediately accept the EM-10 after playing with only the EM-5, but if the tiny differences between the two are enough for us to fall out of live with the EM-10, then we can grab our first love.</p>
 

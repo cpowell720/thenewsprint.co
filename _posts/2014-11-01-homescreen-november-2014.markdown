@@ -14,7 +14,7 @@ With that said, here  my homescreens as of November 1, 2014. I've got a few new 
 
 *You can see last month's homescreens [here](http://www.thenewsprint.co/2014/10/01/homescreen-october-2014/).*
 
-![](/media/images/2014/10/November-Homescreen.jpg)
+![](http://static.thenewsprint.co/media/2014/10/November-Homescreen.jpg)
 
 * [1Password](https://itunes.apple.com/ca/app/1password-password-manager/id568903335?mt=8&uo=4&at=1l3v5At)
 * [Fantastical 2 for iPad](https://itunes.apple.com/ca/app/fantastical-2-for-ipad-calendar/id830708155?mt=8&uo=4&at=1l3v5At)
@@ -59,7 +59,7 @@ Next, my iPhone for November 1, 2014.
 
 *You can see last month's homescreens [here](http://www.thenewsprint.co/2014/10/01/homescreen-october-2014/).*
 
-![](/media/images/2014/11/November-iPhone-Homescreen.jpg)
+![](http://static.thenewsprint.co/media/2014/11/November-iPhone-Homescreen.jpg)
 
 * [Weather Line](https://itunes.apple.com/ca/app/weather-line-accurate-forecast/id715319015?mt=8&uo=4&at=1l3v5At)
 * [CIBC Mobile Banking](https://itunes.apple.com/ca/app/cibc-mobile-banking/id351448953?mt=8&uo=4&at=1l3v5At)

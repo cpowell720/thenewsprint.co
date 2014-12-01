@@ -10,7 +10,7 @@ Without further adieu, the winner of the [Levenger L-Tech 3.0 Rollerball](http:/
 
 ---
 
-![](/media/images/2014/11/Screen-Shot-2014-11-13-at-8-42-24-AM.png)
+![](http://static.thenewsprint.co/media/2014/11/Screen-Shot-2014-11-13-at-8-42-24-AM.png)
 
 ---
 
