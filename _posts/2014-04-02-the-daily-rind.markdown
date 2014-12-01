@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: link
 title: The Daily Rind
 date: '2014-04-02 15:03:24'
+link: http://b.aking.ca/post/5787137408/the-daily-rind
 ---
 
 <p>I think one of the difficulties with analog notes is how easy they are to mould. Unlike a software application, paper notes have no boundaries. Paper notes can take nearly <em>any</em> form. And <em>The Daily Rind</em> takes this to heart. </p>
