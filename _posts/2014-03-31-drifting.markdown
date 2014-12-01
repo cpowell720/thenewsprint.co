@@ -1,18 +1,15 @@
 ---
-layout: post
+layout: link
 title: Drifting
 date: '2014-03-31 22:00:26'
+link: http://randsinrepose.com/archives/drift
 ---
 
 <p>Michael Lopp: </p>
 
-<hr />
-
 <blockquote>
-  <p><em>Intuition is compiled experience and Drift is intuition on steroids. Writing involves long periods of discipline with infrequent, brilliant flashes of inspiration. Mapping one distant idea to another. Finding the perfect metaphor. Discovering the perfect word that strangely just fits. These magical, slippery mental events are as precious as they are unpredictable.</em></p>
+  <p>Intuition is compiled experience and Drift is intuition on steroids. Writing involves long periods of discipline with infrequent, brilliant flashes of inspiration. Mapping one distant idea to another. Finding the perfect metaphor. Discovering the perfect word that strangely just fits. These magical, slippery mental events are as precious as they are unpredictable.</p>
 </blockquote>
-
-<hr />
 
 <p>This reminds me of <a href="http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow#t-156974"><em>Flow</em></a>. Maybe Rands is talking about the same ecstacy described by Mihaly Csikszentmihalyi. </p>
 
