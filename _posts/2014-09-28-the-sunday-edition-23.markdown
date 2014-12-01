@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-09-28 13:38:06'
+categories: sundayedition
 ---
 
 Life often seems to flow like that of a business cycle — I can find myself in a rut for weeks on end where nothing changes and, within a split second, everything can change in a day. I've always felt our character is developed in how we handle those short spurts of change. 

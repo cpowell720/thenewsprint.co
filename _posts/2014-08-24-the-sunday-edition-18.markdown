@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-08-24 16:00:55'
+categories: sundayedition
 ---
 
 It was a crazy week here on The Newsprint and I thank everyone who decided to stick around. It's cool to see a blip on the analytics radar, but it's far cooler to know that The Newsprint's audience continues to grow and that there are people awesome enough to want to read some of this stuff. I'm completely flattered.

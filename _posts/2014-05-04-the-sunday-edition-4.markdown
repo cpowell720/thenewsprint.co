@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-05-04 15:05:20'
+categories: sundayedition
 ---
 
 <p>Back at it again. <a href="http://jwie.be">Josiah</a> and I are working on something pretty exciting and we can't wait to share it with you.</p>

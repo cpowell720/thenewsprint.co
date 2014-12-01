@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-08-03 13:44:27'
+categories: sundayedition
 ---
 
 This might be the longest Sunday Edition yet. I spent far too much reading this week.

@@ -2,6 +2,7 @@
 layout: post
 title: The Tuesday Sunday Edition
 date: '2014-07-22 14:49:06'
+categories: sundayedition
 ---
 
 I'm back in action. 

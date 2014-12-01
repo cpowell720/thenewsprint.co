@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-09-07 16:19:04'
+categories: sundayedition
 ---
 
 It was another fantastic week for great writing and great photographing. Check 'em out.

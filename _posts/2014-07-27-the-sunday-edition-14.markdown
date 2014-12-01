@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-07-27 13:43:00'
+categories: sundayedition
 ---
 
 It's great to get back into a regular routine again. And it's hard to fathom that we only have four weeks left before the school year starts. Time flies.

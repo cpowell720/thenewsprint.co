@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-06-01 23:22:29'
+categories: sundayedition
 ---
 
 I apologize for the tardiness of this Sunday Edition. It's been a crazy weekend. Instead of reading these great links in the afternoon, I recommend a cup of coffee and The Newsprint around 7:00PM tonight.

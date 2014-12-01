@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-10-26 14:13:16'
+categories: sundayedition
 ---
 
 On an entirely different note from the rest of the stuff I like to talk about, I want to express my pride in how we as a country have dealt with the shooting on Parliament Hill in Ottawa.

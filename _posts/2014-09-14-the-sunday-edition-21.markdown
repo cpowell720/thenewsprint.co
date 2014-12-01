@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-09-14 16:33:13'
+categories: sundayedition
 ---
 
 Pens and paper took the backstage this week as Apple stepped into the spotlight. 

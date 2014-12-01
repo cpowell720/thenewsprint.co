@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-11-23 21:28:07'
+categories: sundayedition
 ---
 
 I'm finding more and more *news* articles online that I think might of interest. As a result, The Sunday Edition keeps getting larger and larger.

@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-09-21 14:56:43'
+categories: sundayedition
 ---
 
 It was another week packed full of iPhone news and photos. I couldn't help but salivate over a few of the photo shoots. And worse, I'm dying to travel to Iceland.

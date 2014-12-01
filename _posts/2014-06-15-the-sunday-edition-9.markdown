@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-06-15 15:11:02'
+categories: sundayedition
 ---
 
 Despite my latest Field Notes binge, the rest of the world has continued to spin. Here are a few things that I found interesting while I wasn't doing the Field Notes dance.

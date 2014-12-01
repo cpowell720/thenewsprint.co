@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-06-22 14:23:40'
+categories: sundayedition
 ---
 
 Well that was certainly a fun week. From a lengthy [Field Notes review](http://www.thenewsprint.co/2014/06/16/field-notes-arts-and-sciences/), to the awesome [Pen Addict podcast](http://www.thenewsprint.co/2014/06/17/pen-addict-podcast-episode-111/), to another [pen review](http://www.thenewsprint.co/2014/06/20/pilot-g2-extra-fine-retractable-pen/), I was busy. I can't wait to talk further this week about the item making all this imagery possible.

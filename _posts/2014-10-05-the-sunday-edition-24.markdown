@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-10-05 14:42:50'
+categories: sundayedition
 ---
 
 It appears that cooler weather is giving people more opportunities to pen great work. This week was another fine week for writing. Here's a few of those links to join your soothing cup of coffee. 

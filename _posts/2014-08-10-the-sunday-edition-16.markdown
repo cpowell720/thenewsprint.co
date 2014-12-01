@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-08-10 15:03:24'
+categories: sundayedition
 ---
 
 <p>It has been a fairly retrospective morning. A young man I coached a few years ago died yesterday. I&#8217;m going to miss watching him on the ball field, but I know he&#8217;s in a better place. </p>

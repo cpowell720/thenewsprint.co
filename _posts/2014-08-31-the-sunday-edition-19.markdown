@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-08-31 15:42:23'
+categories: sundayedition
 ---
 
 I hope you're all enjoying the last long weekend of summer. Enjoy these links if the rain doesn't stop falling.

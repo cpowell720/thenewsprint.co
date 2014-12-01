@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-10-12 16:56:27'
+categories: sundayedition
 ---
 
 If your Instapaper/Pocket/Pinboard/Reading List queue wasn't long enough, leave it to me to add more bulk to your Thanksgiving Weekend reading. 

@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-07-06 13:23:29'
+categories: sundayedition
 ---
 
 The Internet of Things was incredibly busy this week. So busy, in fact, that I considered issuing a "Wednesday Edition" to hold everyone over. Instead, today's list is the longest yet. 

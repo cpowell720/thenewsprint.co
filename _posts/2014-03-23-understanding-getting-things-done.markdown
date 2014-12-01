@@ -2,6 +2,7 @@
 layout: post
 title: Understanding Getting Things Done
 date: '2014-03-23 17:24:08'
+categories: sundayedition
 ---
 
 <p>If you're like me and assumed "GTD" was a homogenous term for "doing stuff", this Sunday link may help enlighten your ways. Call me ignorant, but I never fully understood that "Getting Things Done" was designed by David Allen for productivityists like me.</p>

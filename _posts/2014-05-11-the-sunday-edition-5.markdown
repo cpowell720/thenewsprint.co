@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-05-11 15:14:14'
+categories: sundayedition
 ---
 
 <p>In the unlikely happenstance that you or your mom find yourselves in a moment of boredom, do not fret — I have you covered. This week was jam-packed with great stuff to read. </p>

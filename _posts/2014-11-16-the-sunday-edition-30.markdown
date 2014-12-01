@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-11-16 17:45:44'
+categories: sundayedition
 ---
 
 I've spent an inordinate amount of time studying investments and the stock market this week, and it turns out that "buying low and selling high" really is the name of the game. If The Newsprint was a public company, you would have bought high and sold low. For that, I apologize.

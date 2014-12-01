@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-04-20 14:00:30'
+categories: sundayedition
 ---
 
 <p>If you find yourself bored this Sunday morning and not taking part in any Easter festivities, I've compiled a few superb links to click through in your spare time. </p>

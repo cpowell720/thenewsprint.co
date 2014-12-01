@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-08-17 15:37:56'
+categories: sundayedition
 ---
 
 <p>If you&#8217;re tired of reading about the Ferguson tragedy/riots/mayhem/tyranny, click on a few of these links instead.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>

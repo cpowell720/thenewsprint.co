@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-06-29 15:17:17'
+categories: sundayedition
 ---
 
 It's been a very rainy, dreary week in Southern Manitoba and Sunday looks to be no different. If you get kooped up inside, give these guys a quick read and give your warm afternoon coffee a quick drink.

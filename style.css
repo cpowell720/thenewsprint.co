@@ -139,6 +139,9 @@ hr {
   margin: 3rem 0 0.5rem;
   clear: both; }
 
+.footer-date-section {
+  margin-top: 2rem; }
+
 .pagination {
   text-align: center;
   margin-top: 3rem; }

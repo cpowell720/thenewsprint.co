@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-04-27 15:29:07'
+categories: sundayedition
 ---
 
 <p>Alas, here is another smattering of links for your Sunday morning reading. I'm really excited about this upcoming week; a few changes are in the pipeline that I'm looking forward to trying out.</p>

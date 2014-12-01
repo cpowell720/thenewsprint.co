@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-11-09 16:57:44'
+categories: sundayedition
 ---
 
 Well, it snowed yesterday. Hard to keep the spirits up when it gets so cold, but Christmas is just around the corner. 

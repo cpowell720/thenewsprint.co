@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-05-18 15:37:17'
+categories: sundayedition
 ---
 
 <p>Back at it for another week. I hope everyone is enjoying their extra long weekend. I know I'm going to take full advantage of it.</p>

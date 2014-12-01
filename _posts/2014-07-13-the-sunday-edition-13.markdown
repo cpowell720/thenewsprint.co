@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-07-13 14:25:58'
+categories: sundayedition
 ---
 
 Good morning!

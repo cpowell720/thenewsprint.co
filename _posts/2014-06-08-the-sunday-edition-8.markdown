@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-06-08 15:35:36'
+categories: sundayedition
 ---
 
 It's been a terribly slow week for me. Like an immature school kid, I'm going to make an excuse for myself. After Saturday's major event out of the way, I expect to have a little more time on my hands. Sorry about that.

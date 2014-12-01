@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-04-13 14:45:00'
+categories: sundayedition
 ---
 
 <p>Here's the second iteration of The Sunday Edition. Enjoy.</p>

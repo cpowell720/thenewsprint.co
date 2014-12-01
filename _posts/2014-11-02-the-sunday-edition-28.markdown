@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-11-02 16:36:08'
+categories: sundayedition
 ---
 
 I started some link blogging again this past week. Generally I'll leave link posts for links I want to comment on or to pay specific attention to. 

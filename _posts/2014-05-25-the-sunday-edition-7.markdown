@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-05-25 17:00:00'
+categories: sundayedition
 ---
 
 Summer has *finally* arrived in Southern Manitoba. I received my annual sunburn yesterday and I couldn't be happier. If you do find yourself inside today, here are a couple interesting reads to keep you free of boredom.

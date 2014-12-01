@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-10-19 16:16:38'
+categories: sundayedition
 ---
 
 I've noticed my interests shifting around again and the resulting Sunday Editions have started to stretch their legs to include different types of content. 

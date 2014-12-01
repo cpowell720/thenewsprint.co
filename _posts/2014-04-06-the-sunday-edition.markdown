@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: '2014-04-06 15:50:55'
+categories: sundayedition
 ---
 
 <p data-preserve-html-node="true">Way back in 2009, Shawn Blanc outlined <a data-preserve-html-node="true" href="http://shawnblanc.net/2009/08/the-link-post/">The Link Post</a>. In his article, Shawn discussed the different types of link posts and how to format them properly. </p>
