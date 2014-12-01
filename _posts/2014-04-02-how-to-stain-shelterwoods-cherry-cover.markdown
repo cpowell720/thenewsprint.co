@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: link
 title: How to Stain Shelterwood's Cherry Cover
 date: '2014-04-02 15:31:32'
+link: http://www.yippeecahier.net
 ---
 
 <p>Twitter is super cool. One minute, you're surfing. The next, someone is pinging you with excellent content. This may be awful for some people, but yesterday's tweet literally brightened my day. </p>
@@ -16,4 +17,4 @@ date: '2014-04-02 15:31:32'
 
 <h2 id="update">Update</h2>
 
-<p>How cool is it to see this neat staining trick highlighted on <a href="http://fieldnotesbrand.com/2014/04/02/with-the-grain/">Field Notes Brand's homepage</a>? </p>
+<p>How cool is it to see this neat staining trick highlighted on <a href="http://fieldnotesbrand.com/2014/04/02/with-the-grain/">Field Notes Brand's homepage</a>? </p
