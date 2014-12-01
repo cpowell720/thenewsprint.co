@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Homescreen: December 2014"
-date: 2014-11-30 22:00
+title: Homescreen: December 2014
+date: 2014-11-30 22:03
 ---
 
 Christmas is almost here. Already. Time has flown by.
