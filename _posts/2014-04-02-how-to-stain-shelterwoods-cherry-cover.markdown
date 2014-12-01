@@ -17,4 +17,4 @@ link: http://www.yippeecahier.net
 
 <h2 id="update">Update</h2>
 
-<p>How cool is it to see this neat staining trick highlighted on <a href="http://fieldnotesbrand.com/2014/04/02/with-the-grain/">Field Notes Brand's homepage</a>? </p
+<p>How cool is it to see this neat staining trick highlighted on <a href="http://fieldnotesbrand.com/2014/04/02/with-the-grain/">Field Notes Brand's homepage</a>? </p>
