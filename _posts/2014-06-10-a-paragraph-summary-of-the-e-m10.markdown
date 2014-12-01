@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: link
 title: A Paragraph Summary of the E-M10
 date: '2014-06-10 02:37:20'
+link: https://www.flickr.com/photos/shawnblanc/sets/72157645041429103
 ---
 
 [Shawn Blanc](https://www.flickr.com/photos/shawnblanc/sets/72157645041429103):
@@ -10,4 +11,4 @@ date: '2014-06-10 02:37:20'
 
 If I could sum up my first impressions in two sentences, this is what I'd say. However, I can't sum it up entirely in so few characters, so look for my first impressions shortly.  
 
-So far, I'm bloody impressed. 
+So far, I'm bloody impressed.
