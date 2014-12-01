@@ -1,24 +1,21 @@
 ---
-layout: post
+layout: link
 title: Pro*anity
 date: '2014-03-27 14:52:36'
+link: http://mattgemmell.com/profanity
 ---
 
 <p>Matt Gemmell:</p>
 
-<hr />
-
 <blockquote>
-  <p><em>Swearing isn’t bad language. Swearing is essential language.</em></p>
+  <p>Swearing isn’t bad language. Swearing is essential language.</em></p>
   
   <p><em>...</em></p>
   
-  <p><em>Socially and collectively, in an almost unequalled act of universal cooperation, altruism and shared will, we’ve made it special. When someone says this word (we’ve decided), we’ll have an amplified reaction. We will understand that the speaker means to impart an uncommon degree of emotional intensity to their statement.</em></p>
+  <p><em>Socially and collectively, in an almost unequalled act of universal cooperation, altruism and shared will, we’ve made it special. When someone says this word (we’ve decided), we’ll have an amplified reaction. We will understand that the speaker means to impart an uncommon degree of emotional intensity to their statement.</p>
   
-  <p><em>Profanity is a linguistic special move.</em></p>
+  <p>Profanity is a linguistic special move.</p>
 </blockquote>
-
-<hr />
 
 <p>I have a job where language is a tool of immense importance. No, not writing.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
 
