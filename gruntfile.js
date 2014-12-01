@@ -58,12 +58,27 @@ module.exports = function(grunt) {
               expand: true,
               cwd: '',
               src: ['*.css', '!*.min.css'],
-              dest: '',
+              dest: 'build/',
               ext: '.min.css'
             }]
           }
         },
-
+        concat: {
+            options: {
+              separator: ';',
+            },
+            dist: {
+              src: ['js/**.js'],
+              dest: 'build/production.js',
+            },
+          },
+        uglify: {
+            my_target: {
+              files: {
+                'build/production.min.js': ['build/production.js']
+              }
+            }
+          },
     });
 
     // 3. Where we tell Grunt we plan to use this plug-in.
@@ -73,8 +88,10 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-connect');
     grunt.loadNpmTasks('grunt-shell');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
+    grunt.loadNpmTasks('grunt-contrib-concat');
+    grunt.loadNpmTasks('grunt-contrib-uglify');
 
     // 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
-    grunt.registerTask('default', ['sass','shell','connect','watch']);
+    grunt.registerTask('default', ['sass','cssmin','concat','uglify','shell','connect','watch']);
 
 };
