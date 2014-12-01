@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: link
 title: Josiah's Launch Center Pro & IFTTT Recipes
 date: '2014-06-11 20:48:46'
+link: http://jwie.be/writing/launch-center-pro-updated/
 ---
 
 My good friend Josiah [has grabbed the latest Launch Center Pro update and ran with it.](http://jwie.be/writing/launch-center-pro-updated/) 
