@@ -12,8 +12,6 @@ date: '2014-04-01 15:06:28'
 
 <p>Without further ado:</p>
 
-<hr /><img src="http://static.squarespace.com/static/52a649b2e4b04c058c2a84ce/52a64a57e4b043d5180d1fe0/533ace9ce4b0b8a5e7fc6b12/1396362910526/april2014homescreenapril2014homescreen?format=original" /><hr />
-
 <p>Here's a quick list of the apps I use on a daily basis:</p>
 
 <ul>
@@ -45,4 +43,4 @@ date: '2014-04-01 15:06:28'
 <li><p>I use Begin for lists of tasks (especially when at the office) and Omnifocus for tasks that are due beyond the next 24 hours. I really like this combination.</p></li>
 </ul>
 
-<p>Let's hope next month's list doesn't need to be so long.</p>
+<p>Let's hope next month's list doesn't need to be so long.</p
