@@ -6,7 +6,7 @@ categories: featured
 ---
 Another month, another couple homescreen shots. Here's where I'm at heading into the Christmas season.
 
-![](https://www.flickr.com/gp/128956569@N05/q48a3F)
+![](https://farm8.staticflickr.com/7528/15298113554_56ae02cd26_o.jpg)
 
 * [Weather Line](https://itunes.apple.com/ca/app/weather-line-accurate-forecast/id715319015?mt=8&uo=4&at=1l3v5At)
 * [CIBC Mobile Banking](https://itunes.apple.com/ca/app/cibc-mobile-banking/id351448953?mt=8&uo=4&at=1l3v5At)
@@ -47,7 +47,7 @@ Other than that, the biggest changes are returns of Reeder and VSCO Cam now that
 
 Next up, my iPad.
 
-![](https://www.flickr.com/gp/128956569@N05/4F2A61)
+![](https://farm8.staticflickr.com/7563/15305675243_fdd7188001_o.jpg)
 
 * [1Password](https://itunes.apple.com/ca/app/1password-password-manager/id568903335?mt=8&uo=4&at=1l3v5At)
 * [Fantastical 2 for iPad](https://itunes.apple.com/ca/app/fantastical-2-for-ipad-calendar/id830708155?mt=8&uo=4&at=1l3v5At)
