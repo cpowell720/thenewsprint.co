@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: On Shinola
 date: '2014-04-01 23:18:48'
 ---
