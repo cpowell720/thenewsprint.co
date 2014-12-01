@@ -7,15 +7,7 @@ link: http://mattgemmell.com/profanity
 
 <p>Matt Gemmell:</p>
 
-<blockquote>
-  <p>Swearing isn’t bad language. Swearing is essential language.</p>
-  
-  <p><em>...</em></p>
-  
-  <p>Socially and collectively, in an almost unequalled act of universal cooperation, altruism and shared will, we’ve made it special. When someone says this word (we’ve decided), we’ll have an amplified reaction. We will understand that the speaker means to impart an uncommon degree of emotional intensity to their statement.</p>
-  
- <p>Profanity is a linguistic special move.</p>
-</blockquote>
+ <blockquote> <p>Swearing isn’t bad language. Swearing is essential language.</p></blockquote>
 
 <p>I have a job where language is a tool of immense importance. No, not writing.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
 
@@ -54,4 +46,4 @@ link: http://mattgemmell.com/profanity
 </li>
 
 </ol>
-</div>
+</div
