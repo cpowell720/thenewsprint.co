@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: link
 title: Gareth Jones' Mark-Up System
 date: '2014-06-26 13:34:28'
+link: http://www.gareth.me.uk/improving-my-note-taking-using-mark-up/
 ---
 
 If you can't find a note-taking system worth utilizing, [why not create your own?](http://www.gareth.me.uk/improving-my-note-taking-using-mark-up/)
