@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: link
 title: Patrick Ng's Midori Traveler's Notebook
 date: '2014-04-08 14:07:00'
+link: https://www.flickr.com/search/?w=80919450@N00&amp;q=%23travelersnotebook
 ---
 
 <p>I came across the <a href="http://www.midori-japan.co.jp/tr/english/">Midori Traveler's Notebook</a> while researching ways to carry around multiple Field Notes books. I know I've seen the Midori notebook on countless occasions during other web surfing sessions, but I never paid attention to the Midori notebook <em>system</em>.</p>
