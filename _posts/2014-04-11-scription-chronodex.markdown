@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: link
 title: The Scription Chronodex
 date: '2014-04-11 14:52:47'
+link: http://scription.typepad.com/blog/
 ---
 
 <p>Although you may have ventured into the Chronodex tab when visiting Patrick Ng's <a href="http://scription.typepad.com/blog/">personal site</a> from <a href="http://www.thenewsprint.co//patrick-ngs-midori-travelers-notebook">Tuesday</a>, I figured his weekly planner system was worth a second look.</p>
