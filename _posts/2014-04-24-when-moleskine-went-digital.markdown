@@ -2,7 +2,7 @@
 layout: link
 title: When Moleskine Went Digital
 date: '2014-04-24 14:40:34'
-link: http://www.thenewyorker.com/business/currency/the-virtual-moleskine
+link: http://www.newyorker.com/business/currency/the-virtual-moleskine
 ---
 
 <p data-preserve-html-node="true">Adrienne Raphel writing for <em data-preserve-html-node="true">The New Yorker</em>:</p>
