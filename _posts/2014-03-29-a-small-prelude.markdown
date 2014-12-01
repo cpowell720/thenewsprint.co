@@ -2,6 +2,7 @@
 layout: link
 title: A Small Prelude
 date: '2014-03-29 20:16:01'
+link: http://www.relay.fm/penaddict/99
 ---
 
 <p>After finishing the first draft of my Shelterwood review, I strongly feel you should be well acquainted with Brad Dowdy's latest Pen Addict podcast. </p>
