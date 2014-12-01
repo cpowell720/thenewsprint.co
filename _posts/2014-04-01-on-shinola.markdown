@@ -17,4 +17,4 @@ link: http://four-pins.com/style/shinola-detroits-misguided-white-knight/
 
 <p>I was certainly tempted.</p>
 
-<p>(Via <a href="http://om.co/2014/04/01/shinola-sham/">Om Malik</a>)</p
+<p>(Via <a href="http://om.co/2014/04/01/shinola-sham/">Om Malik</a>)</p>
