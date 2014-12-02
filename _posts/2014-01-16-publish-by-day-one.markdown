@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ Publish by Day One Will Change the Journal (Again)"
+title: "Publish by Day One Will Change the Journal (Again)"
 date: '2014-01-16 23:03:23'
 ---
 
@@ -32,4 +32,4 @@ date: '2014-01-16 23:03:23'
 
 <p>Who, what, where, when, why and how: Those are the questions I try to answer in my daily journal entries so future Josh can understand what the heck I was going through. With Publish, Day One will allow everyone else to see those answers. </p>
 
-<p>And realistically, it was probably always meant to be that way. We just didn't know it until now.</p>
+<p>And realistically, it was probably always meant to be that way. We just didn't know it until now.</p
