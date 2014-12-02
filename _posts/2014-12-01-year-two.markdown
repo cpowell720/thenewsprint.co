@@ -2,6 +2,7 @@
 layout: post
 title: Year Two
 date: 2014-12-01 19:55
+categories: featured
 ---
 
 A year ago I hit the publish button for the first time. I expected the fear of hitting publish to eventually subside, but in reality it has never ceased to terrify me.
