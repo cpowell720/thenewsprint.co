@@ -21,7 +21,7 @@ I figured it would be cool to put some actual time and effort into The Newsprint
 
 The Newsprint jumped around from CMS to CMS over the past year and I'm embarrassed to have fragmented the experience in that manner. While Squarespace and Ghost are worthy platforms for anyone to get started, I couldn't help but feel that readers weren't receiving the experience I intended for them. It's not that Ghost and Squarespace (or any other CMS for that matter) caused me to be unhappy. Both have been iterated on countless times throughout the year. Both offer a great foundation to create a presence online.
 
-I just want more. I want more control. I want more speed. I want to embed videos. I want real link posts. I want beautiful typography. All of these things were more properly served by a change.
+I just want more. I want more control. I want more speed. I want more simplicity. I want more focus. I want to embed videos. I want real link posts. I want beautiful typography. All of these things were more properly served by a change.
 
 So here we are. A brand new design for The Newsprint. This design is inspired by numerous websites that I love to read each day. I'm a big fan of the slimmed column from sites like [The Pickle Theory](http://pickletheory.com) and [Audacious Fox](http://audaciousfox.com). I love the typographic character of sites like [Marco.org](http://marco.org). And I love the minimalism imbued in apps like [Unread](https://itunes.apple.com/ca/app/unread-rss-news-reader/id911364254?mt=8&uo=4&at=1l3v5At) and [Vesper](https://itunes.apple.com/ca/app/vesper/id655895325?mt=8&uo=4&at=1l3v5At). All these factors played a gigantic role in the design theory behind the new Newsprint.
 
