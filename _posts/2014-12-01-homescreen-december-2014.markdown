@@ -2,7 +2,6 @@
 layout: post
 title: "Homescreen: December 2014"
 date: "2014-12-01 14:43"
-categories: featured
 published: true
 ---
 
