@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ Hacking Squarespace via Sid O'Neill"
+title: "Hacking Squarespace via Sid O'Neill"
 date: '2014-01-31 00:00:00'
 ---
 
