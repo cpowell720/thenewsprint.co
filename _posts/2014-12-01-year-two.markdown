@@ -19,7 +19,7 @@ While some people get those kind of stats every month (or some every day!), I co
 
 I figured it would be cool to put some actual time and effort into The Newsprint's identity. The Newsprint jumped around from CMS to CMS over the past year and I'm embarrassed to have fragmented the experience in that manner. While Squarespace and Ghost are worthy platforms for anyone to get started, I couldn't help but feel that readers weren't receiving the experience I intended for them. 
 
-So here we are. A brand new design for The Newsprint. This design is inspired by numerous websites that I love to read each day. I'm a big fan of slimmed column from sites like [The Pickle Theory](http://pickletheory.com) and [Audacious Fox](http://audaciousfox.com). I love the typographic character of sites like [Marco.org](http://marco.org). And I love the minimalism imbued in apps like [Unread](https://itunes.apple.com/ca/app/unread-rss-news-reader/id911364254?mt=8&uo=4&at=1l3v5At) and [Vesper](https://itunes.apple.com/ca/app/vesper/id655895325?mt=8&uo=4&at=1l3v5At). All these factors played a gigantic role in the design theory behind the new Newsprint.
+So here we are. A brand new design for The Newsprint. This design is inspired by numerous websites that I love to read each day. I'm a big fan of the slimmed column from sites like [The Pickle Theory](http://pickletheory.com) and [Audacious Fox](http://audaciousfox.com). I love the typographic character of sites like [Marco.org](http://marco.org). And I love the minimalism imbued in apps like [Unread](https://itunes.apple.com/ca/app/unread-rss-news-reader/id911364254?mt=8&uo=4&at=1l3v5At) and [Vesper](https://itunes.apple.com/ca/app/vesper/id655895325?mt=8&uo=4&at=1l3v5At). All these factors played a gigantic role in the design theory behind the new Newsprint.
 
 The Newsprint is now CMS-free and static. It is a [Jekyll](http://jekyllrb.com/) blog hosted on [Github Pages](https://pages.github.com/). Images are hosted by [Amazon S3](http://aws.amazon.com/s3/) and served by [Cloudfront](http://aws.amazon.com/cloudfront/). Type is set in [Ideal Sans](http://www.typography.com/fonts/ideal-sans/overview/). And ads are served by [Carbon Ads](http://carbonads.net/). All these services greatly increase the speed of the site and make the site far more powerful than ever before.
 
@@ -51,4 +51,4 @@ I'm so excited for the next 12 months. I hope you join me along the way.
 
 Cheers. And thank you.
 
-**JG**
+**JG*
