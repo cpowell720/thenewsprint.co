@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ Nomophobia: Fearing the Low Battery Indicator"
+title: "Nomophobia: Fearing the Low Battery Indicator"
 date: '2014-03-10 22:43:04'
 ---
 
@@ -59,4 +59,4 @@ date: '2014-03-10 22:43:04'
 </li>
 
 </ol>
-</div>
+</div
