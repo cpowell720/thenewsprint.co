@@ -1,0 +1,56 @@
+---
+layout: post
+title: Year Two
+date: 2014-12-01 23:30
+categories: featured
+---
+
+A year ago I hit the publish button for the first time. I expected the fear of hitting publish to eventually subside, but in reality it has never ceased to terrify me.
+
+According to analytics, 15 people stumbled upon The Newsprint during its date of birth. I have no doubt that three of those people were within arm's reach that day. Either way, it was a beginning.
+
+I set out with a goal of reaching 1,000 new readers per month for the 2014 calendar year. I figured 3,000 pageviews per month was a reasonable starting goal as well. I also set out with the goal of writing consistently every week. I didn't know which topics I would write about, but I hoped to develop my own style over time. After a year, I figured I would reassess and decide which way to go.
+
+Here we are, one year later. And I've accomplished every first year goal I had.
+
+According to Google Analytics, The Newsprint was visited by more than 56,000 new readers over the last 12 months. Those 56,000 readers loaded a page just shy of 145,000 times. And I was able to post at least one or two articles per week since then.
+
+While some people get those kind of stats every month (or some every day!), I couldn't be more happy with those numbers.
+
+I figured it would be cool to put some actual time and effort into The Newsprint's identity. 
+
+The Newsprint jumped around from CMS to CMS over the past year and I'm embarrassed to have fragmented the experience in that manner. While Squarespace and Ghost are worthy platforms for anyone to get started, I couldn't help but feel that readers weren't receiving the experience I intended for them. It's not that Ghost and Squarespace (or any other CMS for that matter) caused me to be unhappy. Both have been iterated on countless times throughout the year. Both offer a great foundation to create a presence online.
+
+I just want more. I want more control. I want more speed. I want to embed videos. I want real link posts. I want beautiful typography. All of these things were more properly served by a change.
+
+So here we are. A brand new design for The Newsprint. This design is inspired by numerous websites that I love to read each day. I'm a big fan of the slimmed column from sites like [The Pickle Theory](http://pickletheory.com) and [Audacious Fox](http://audaciousfox.com). I love the typographic character of sites like [Marco.org](http://marco.org). And I love the minimalism imbued in apps like [Unread](https://itunes.apple.com/ca/app/unread-rss-news-reader/id911364254?mt=8&uo=4&at=1l3v5At) and [Vesper](https://itunes.apple.com/ca/app/vesper/id655895325?mt=8&uo=4&at=1l3v5At). All these factors played a gigantic role in the design theory behind the new Newsprint.
+
+The Newsprint is now CMS-free and static. It is a [Jekyll](http://jekyllrb.com/) blog hosted on [Github Pages](https://pages.github.com/). Images are hosted by [Amazon S3](http://aws.amazon.com/s3/) and served by [Cloudfront](http://aws.amazon.com/cloudfront/). Type is set in [Ideal Sans](http://www.typography.com/fonts/ideal-sans/overview/). And ads are served by [Carbon Ads](http://carbonads.net/). All these services greatly increase the speed of the site and make the site far more powerful than ever before.
+
+Yet, it would be completely unrealistic for me to embark down this CMS-free path on my own. I'm utterly illiterate when it comes to the technical jargon of the new Newsprint. There will be hiccups along the way, I can guarantee that.
+
+So I asked my friend Josiah to help me out. Josiah co-founded a startup design firm known as [Collectif](http://collectif.co). Using his experience, [Josiah](http://jwie.be) coded this entire site on his own. It's unbelievable to think he completely remade the site in such a short period of time. Everything on The Newsprint has been transferred over from the old Ghost platform and has been reworked to fit into this new design. And it's all thanks to Josiah.
+
+Josiah is a whiz with this stuff. When he has an idea, nothing gets in the way. And his design taste is flawless. If you've got some design work that needs to be done, or if you want to pick Josiah's design brain, you really need to [get in touch with him.](http://twitter.com/josiahwiebe) He takes care of you from start to finish and nothing gets overlooked.
+
+Last but not least, despite the complexity of the services behind The Newsprint, the entire website can be produced from an iPad. So while the site has increased in speed exponentially, the ability to create and produce content has widened exponentially as well. And this doesn't mention the decreased cost of hosting The Newsprint either. Josiah considered everything.
+
+Overall, Josiah knocked this one out of the park. From start to finish, he guided me through the design process and created a polished product from top to bottom. He found ways to decrease my costs and to increase speeds and power all at once. And, best of all, he's a great guy to boot. There's no doubt that I haven't paid him enough money for his help. I'll have red in my ledger for the foreseeable future.
+
+As I learnt throughout the year, costs, analytics, and web services mean next to nothing in the grand scheme of things. While it's a satisfactory feeling to know people are visiting the site on a daily basis, it's not the end all factor for measuring success. There are many other non-quantitative measurements of success.
+
+Of those measures, the most gratifying are the communities of people online. The pen community. The productivity community. The creative community. The app community. The product community. The list goes on. Each and every person who make up these communities also make hitting the publish button that much more fun. Without a doubt, these communities are what writing online is all about.
+
+Another measure is the number of new doors that have been opened. I've had the chance to work with some pretty great people throughout the year. I talked to [Brad](http://penaddict.com) and [Myke](http://mykehurley.net) about [Field Notes](http://fieldnotesbrand.com) on the [Pen Addict podcast](http://www.relay.fm/penaddict/111). I have and will continue to contribute reviews to [Shawn Blanc](http://shawnblanc.net)'s [Tools and Toys](http://toolsandtoys.net). I recently began contributing to [Ben Brooks'](http://brooksreview.net) and [Bradley Chambers'](http://chambersdaily.com/) [The Synopsis](http://thesynopsis.co). All these opportunities came as a direct result of The Newsprint. I couldn't be more thankful for the opportunity to work with these great people.
+
+Far more important than all that, though, is the opportunity to reach into the lives of each and every Newsprint reader. By coming to the site and reading these words, you allow me to grab your attention for a brief moment in time. And that's all I've ever wanted to do. It is so humbling to know 55,000 people came by to say hi. 
+
+Every writer says it and so will I — none of this is possible without you. You guys make this all worth it. No matter how much cash I end up in the hole, having you guys come by to say hi makes every dollar money well spent.
+
+Thank you, my dearest friends. For everything over the past year. You guys rock.
+
+On to year two. I never expected to be here a year ago. I figured this little project would fizzle over time. I'm so excited for the next 12 months. I hope you join me along the way.
+
+Cheers. And thank you.
+
+**JG**
