@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ CarPlay is to Rokr"
+title: "CarPlay is to Rokr"
 date: '2014-03-04 04:02:59'
 ---
 
