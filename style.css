@@ -26,7 +26,7 @@ li ol, li ul {
   margin-bottom: 0; }
 
 body {
-  font-family: 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif;
+  font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif;
   color: #262626;
   font-size: 0.875rem;
   line-height: 1.5rem;
@@ -92,7 +92,7 @@ hr {
 .site-nav ul {
   margin: 0; }
   .site-nav ul li {
-    font-family: 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif;
+    font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif;
     font-variant: small-caps;
     font-size: 1rem;
     line-height: 1rem;
