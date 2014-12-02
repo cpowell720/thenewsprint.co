@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ Applying Writer Pro's Workflow to Reading-It-Later"
+title: "Applying Writer Pro's Workflow to Reading-It-Later"
 date: '2014-03-06 02:34:00'
 ---
 
