@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ Reeling Me In"
+title: "Reeling Me In"
 date: '2014-03-14 17:50:31'
 ---
 
