@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ Dividing the House"
+title: "Dividing the House"
 date: '2014-03-16 18:49:07'
 ---
 
