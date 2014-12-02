@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ On Collecting"
+title: "On Collecting"
 date: '2014-02-25 23:25:12'
 ---
 
