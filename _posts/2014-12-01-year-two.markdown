@@ -33,7 +33,7 @@ Last but not least, despite the complexity of the services behind The Newsprint,
 
 Overall, Josiah knocked this one out of the park. From start to finish, he guided me through the design process and created a polished product from top to bottom. He found ways to decrease my costs and to increase speeds and power all at once. And, best of all, he's a great guy to boot. There's no doubt that I haven't paid him enough money for his help. I'll have red in my ledger for the foreseeable future.
 
-As I learnt throughout the year, costs, analytics, and web services mean next to nothing in the grand scheme of things. While it's a satisfactory feeling to know people are visiting your site on a daily basis, and to know that the site is at peak performance, it's not the end all factor for measuring success. There are many other non-quantitative measurements of success.
+As I learnt throughout the year, costs, analytics, and web services mean next to nothing in the grand scheme of things. While it's a satisfactory feeling to know people are visiting the site on a daily basis, and to know that the site is at peak performance, it's not the end all factor for measuring success. There are many other non-quantitative measurements of success.
 
 Of those measures, the most gratifying are the communities of people online. The pen community. The productivity community. The creative community. The app community. The product community. The list goes on. Each and every person who make up these communities also make hitting the publish button that much more fun. Without a doubt, these communities are what writing online is all about.
 
@@ -51,4 +51,4 @@ I'm so excited for the next 12 months. I hope you join me along the way.
 
 Cheers. And thank you.
 
-**JG*
+**JG
