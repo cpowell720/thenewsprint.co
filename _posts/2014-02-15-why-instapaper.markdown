@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ Why Instapaper?"
+title: "Why Instapaper?"
 date: '2014-02-15 23:20:31'
 ---
 
