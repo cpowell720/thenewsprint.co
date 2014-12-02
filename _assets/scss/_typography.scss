@@ -1,5 +1,5 @@
 body {
-	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif;
+	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', 'Helvetica', sans-serif;
 	color: $black;
 	font-size: $base-font-size;
 	line-height: $base-line-height;
@@ -78,8 +78,9 @@ hr {
 .site-nav ul {
 	margin: 0;
 	li {
-		font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', 'Whitney SSm A', 'Whitney SSm B', 'Whitney HTF', sans-serif; 
+		font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', 'Helvetica', sans-serif;
 		font-variant: small-caps;
+		font-weight: 600;
 		font-size: 1rem;
 		line-height: 1rem;
 		margin-right: $baseline;
