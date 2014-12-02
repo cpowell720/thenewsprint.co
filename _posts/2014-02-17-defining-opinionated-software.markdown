@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ Defining Opinionated Software"
+title: "Defining Opinionated Software"
 date: '2014-02-17 19:18:29'
 ---
 
