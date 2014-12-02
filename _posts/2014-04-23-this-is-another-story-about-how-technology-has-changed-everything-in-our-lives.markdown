@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ This is Another Story About How Technology Has Changed Everything In Our
+title: "This is Another Story About How Technology Has Changed Everything In Our
   Lives"
 date: '2014-04-23 14:56:43'
 ---
@@ -51,4 +51,4 @@ date: '2014-04-23 14:56:43'
   <p>Brody's face lit up. "Ok!"</p>
 </blockquote>
 
-<p>A tear slowly rolled down my cheek. Potentially a tear of joy. Rather, I think, a tear of jealousy.</p>
+<p>A tear slowly rolled down my cheek. Potentially a tear of joy. Rather, I think, a tear of jealousy.</p
