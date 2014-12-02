@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Homescreen: August 2014'
-date: '2014-07-31 14:13:06'
+date: '2014-08-01 14:13:06'
 ---
 
 
@@ -62,4 +62,4 @@ I have a fear of letting go of these writing apps though. In effect, it was this
 
 Writing about my homescreen over the last few months has really enlightened the psychological aspect of my iPhone. Often, I'll keep a well designed app on my homescreen because it exemplifies the delightfulness of the iPhone itself. The iPhone is still the most beautiful and the most breathtaking smartphone on the market. From time to time, these little apps remind me of the giddiness the iPhone can conjure.
 
-I seem to use my iPhone less and less these days. But whenever a new app is launched, I'm the first in line to purchase it. I can't imagine the rollercoaster ride my emotions will take when the iPhone 6 is announced.
+I seem to use my iPhone less and less these days. But whenever a new app is launched, I'm the first in line to purchase it. I can't imagine the rollercoaster ride my emotions will take when the iPhone 6 is announced
