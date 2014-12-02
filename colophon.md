@@ -15,7 +15,7 @@ The Newsprint is photographed with an [Olympus OM-D E-M10](http://www.amazon.com
 
 The Newsprint is managed on the [Jekyll platform](http://jekyllrb.com) and is hosted at [Github Pages.](https://pages.github.com)
 
-The Newsprint's custom design was created by [Josiah Wiebe](http://jwie.be).
+The Newsprint's custom design was created by Josiah Wiebe of [Collectif](http://collectif.co).
 
 ### Contact
 
