@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ On My Desk"
+title: "On My Desk"
 date: '2014-02-13 21:51:15'
 ---
 
