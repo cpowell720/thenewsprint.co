@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: On Shinola
 date: '2014-04-01 23:18:48'
 link: http://four-pins.com/style/shinola-detroits-misguided-white-knight/

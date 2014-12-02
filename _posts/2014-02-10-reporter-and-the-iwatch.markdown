@@ -22,4 +22,3 @@ date: '2014-02-10 18:26:12'
 
 <p>Technology is about finding a better way to do something. Apply that to doing "ourselves" better and you're onto something. I think Felton and Reporter are way ahead of their time, especially if Apple allows them to be.</p>
 
-<h2 id="httpthenewsprintcoblogreporterandtheiwatch"><a href="http://thenewsprint.co/blog/reporter-and-the-iwatch">◎</a></h2>

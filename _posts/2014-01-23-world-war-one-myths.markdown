@@ -31,5 +31,3 @@ date: '2014-01-23 21:13:06'
 <p>Whether or not you are a historian, these 10 myths are worth a read.</p>
 
 <p>(Via <a href="http://kottke.org/14/01/ten-world-war-i-myths">Kottke.org</a>)</p>
-
-<h2 id="httpthenewsprintcoblogworldwaronemyths"><a href="http://thenewsprint.co/blog/world-war-one-myths">◎</a></h2>

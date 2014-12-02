@@ -16,7 +16,6 @@ date: '2014-01-29 03:19:46'
 
 <p data-preserve-html-node="true">I also recommend you create a Svbtle blog of your own immediately. It&#8217;s free. It&#8217;s beautiful. And it&#8217;s as human as you can get for a blogging platform. </p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/svbtle-for-everyone">◎</a></h2>
 
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />

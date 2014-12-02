@@ -18,7 +18,6 @@ date: '2014-01-29 22:41:25'
 
 <p>Why do stocks slide when reports show record breaking revenue and record breaking profit? Despite my schooling, I have yet to understand this.</p>
 
-<h2><a href="http://thenewsprint.co/blog/apple-to-close-down-funny">◎</a></h2>
 
 <div class="footnotes">
 <hr />

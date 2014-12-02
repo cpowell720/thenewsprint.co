@@ -12,4 +12,3 @@ date: '2014-02-12 18:11:22'
 
 <p>I've always believed that time is the best measurement of a product's value. Federico nails this review, as is <a href="http://www.macstories.net/stories/editorial-for-ipad-review/">usually the case</a>.</p>
 
-<h2 id="httpthenewsprintcoblogviticciretinaipadminireview"><a href="http://thenewsprint.co/blog/viticci-retina-ipad-mini-review">◎</a></h2>

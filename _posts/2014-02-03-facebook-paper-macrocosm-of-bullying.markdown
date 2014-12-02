@@ -20,7 +20,6 @@ date: '2014-02-03 18:47:44'
 
 <p data-preserve-html-node="true">Facebook knows few startups have the power to stand up to its size and spending power. But to use that against a startup is hypocritical, detrimental and enormously consequential.</p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/facebook-paper-macrocosm-of-bullying">◎</a></h2>
 
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />

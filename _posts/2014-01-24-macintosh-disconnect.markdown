@@ -19,5 +19,3 @@ date: '2014-01-24 22:37:53'
 <p>But the iPad <em>also</em> changed the world in 2010. The iPad has — and, more importantly, <a href="https://www.apple.com/your-verse/"><em>will continue to</em></a> — inspire people to embrace technology and use it to improve the world around them. I won't be surprised if we experience the same kind of exuberant celebration in 2040. When that day rolls around, at least I'll be able to celebrate along with the rest of my Twitter feed.</p>
 
 <p>For now, I'll rest assured knowing the Mac has its day to shine. I just wonder <a href="http://reverttosaved.com/2014/01/24/apple-says-the-mac-will-keep-going-forever-i-just-dont-see-it/">how much longer</a> it will be shining.</p>
-
-<h2 id="httpthenewsprintcoblogmacintoshdisconnect"><a href="http://thenewsprint.co/blog/macintosh-disconnect">◎</a></h2>

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: A Small Prelude
 date: '2014-03-29 20:16:01'
 link: http://www.relay.fm/penaddict/99

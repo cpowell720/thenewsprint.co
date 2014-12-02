@@ -28,7 +28,6 @@ date: '2014-02-03 05:19:56'
 
 <p data-preserve-html-node="true">Automation is used to eliminate simple, time-consuming tasks to make more time for more pressing issues. I think this is efficiency at its finest. </p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="thenewsprint.co/blog/workflows-adam-haworth">◎</a></h2>
 
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />

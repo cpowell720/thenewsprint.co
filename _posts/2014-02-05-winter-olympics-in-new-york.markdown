@@ -8,4 +8,3 @@ date: '2014-02-05 21:10:23'
 
 <p>I never imagined the size of a ski jumping facility until placed in relation to the New York Public library.</p>
 
-<h2 id="thenewsprintcoblogwinterolympicsinnewyork"><a href="thenewsprint.co/blog/winter-olympics-in-new-york">◎</a></h2>

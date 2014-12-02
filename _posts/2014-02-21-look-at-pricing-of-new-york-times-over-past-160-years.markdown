@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ A Look at the Pricing of the New York Times Over the Past 160 Years"
+title: "A Look at the Pricing of the New York Times Over the Past 160 Years"
 date: '2014-02-21 16:11:49'
 ---
 

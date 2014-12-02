@@ -38,8 +38,6 @@ date: '2014-01-29 16:32:50'
 
 <p data-preserve-html-node="true">Our ideas, our opinions and our thoughts are a reflection of our soul. We all shoot to leave behind a positive legacy and have our ideas last for many years beyond our time. And with today’s constant technological change, I have become aware of the mortality of my digital thoughts. The trusty pen and paper will make a return to my life and I <em data-preserve-html-node="true">never</em> thought I would say such a thing.</p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/giving-up-on-digital-notes">◎</a></h2>
-
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />
 <ol data-preserve-html-node="true">

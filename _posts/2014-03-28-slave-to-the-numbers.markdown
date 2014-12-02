@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: Slave to the Numbers
 date: '2014-03-28 01:09:38'
 link: http://dcurt.is/facebooks-predicament

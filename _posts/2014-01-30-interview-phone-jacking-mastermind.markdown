@@ -25,4 +25,3 @@ date: '2014-01-30 18:38:44'
 
 <p>But read on and develop your own opinion. This is pretty eye-opening.</p>
 
-<h2 id="httpthenewsprintcobloginterviewphonejackingmastermind"><a href="http://thenewsprint.co/blog/interview-phone-jacking-mastermind">◎</a></h2>

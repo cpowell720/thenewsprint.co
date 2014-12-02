@@ -28,4 +28,3 @@ date: '2014-02-05 06:15:04'
 
 <p>Great reporting by <em>The Verge</em>. I can't help but enjoy their longform pieces.</p>
 
-<h2 id="thenewsprintcoblogbitcoinfirstmassivelaunderingscandal"><a href="thenewsprint.co/blog/bitcoin-first-massive-laundering-scandal">◎</a></h2>

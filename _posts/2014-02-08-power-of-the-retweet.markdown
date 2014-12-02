@@ -22,7 +22,6 @@ date: '2014-02-08 18:44:54'
 
 <p data-preserve-html-node="true">Twitter is a <em data-preserve-html-node="true">powerful</em> tool. And literally <em data-preserve-html-node="true">anyone</em> can harness that power. So cool.</p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/power-of-the-retweet">◎</a></h2>
 
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />

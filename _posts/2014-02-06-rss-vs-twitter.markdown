@@ -30,7 +30,6 @@ date: '2014-02-06 21:56:11'
 
 <p data-preserve-html-node="true">Is RSS dead? Not even close. If anything, it&#8217;s only beginning to see its potential.</p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/rss-vs-twitter">◎</a></h2>
 
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />

@@ -32,7 +32,6 @@ date: '2014-02-01 18:31:03'
 
 <p data-preserve-html-node="true">And I just don&#8217;t see anyone other than Apple capable of pulling it off.</p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/ios-8-and-iwatch-rumour">◎</a></h2>
 
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />

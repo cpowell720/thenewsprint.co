@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: The Verge on the Leica T
 date: '2014-05-30 20:01:45'
 link: http://www.theverge.com/2014/5/30/5755088/leica-t-mirrorless-camera-review

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: When Moleskine Went Digital
 date: '2014-04-24 14:40:34'
 link: http://www.newyorker.com/business/currency/the-virtual-moleskine

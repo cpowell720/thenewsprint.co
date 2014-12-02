@@ -15,5 +15,3 @@ date: '2014-01-22 21:42:24'
 <p>I understand that Logo may uproot some of the work that actual designers do for small businesses on a day-to-day basis. If Squarespace can offer simple design programs for cheap, then designers who charge exorbitant amounts of money for the same simple design are overpriced and don't deserve the bottom end of the logo-design market.</p>
 
 <p>Oh, and a new permalink icon:</p>
-
-<h2 id="httpthenewsprintcoblogsquarespacelogo"><a href="http://thenewsprint.co/blog/squarespace-logo">◎</a></h2>

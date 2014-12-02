@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: Keyboard Power
 date: '2014-06-26 13:47:21'
 link: http://what-if.xkcd.com/102/

@@ -7,5 +7,3 @@ date: '2014-01-24 17:06:40'
 <p>The Macintosh <a href="http://vintagezen.com/zen/2014/1/23/hello">changed it all</a>. No matter the computer in front of you, we are all experiencing the fruit of the Macintosh. </p>
 
 <p>Apple has made a beautiful timeline outlining the Mac's history. Check it out. It's gorgeous. </p>
-
-<h2 id="httpthenewsprintcoblog30yearsmac"><a href="http://thenewsprint.co/blog/30-years-mac">◎</a></h2>

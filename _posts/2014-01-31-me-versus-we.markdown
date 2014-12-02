@@ -22,7 +22,6 @@ date: '2014-01-31 23:19:55'
 
 <p data-preserve-html-node="true">Again, if you&#8217;re looking to create an online presence, I recommend <a data-preserve-html-node="true" href="http://www.thenewsprint.co//i-am-a-very-happy-squarespace-customer">Squarespace</a>. But if you are looking for a free option to do some creative writing, you had better educate yourself before investing effort into a specific platform.<a data-preserve-html-node="true" href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/me-versus-we">◎</a></h2>
 
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />

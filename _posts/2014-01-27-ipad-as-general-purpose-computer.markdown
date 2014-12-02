@@ -6,5 +6,3 @@ date: '2014-01-27 22:28:31'
 ---
 
 <p>There is no denying the eventual rule of the iPad. Ben Thompson just uses charts and pictographs to prove it. Absolutely brilliant.</p>
-
-<h2 id="httpthenewsprintcoipadasgeneralpurposecomputer"><a href="http://thenewsprint.co/ipad-as-general-purpose-computer">◎</a></h2>

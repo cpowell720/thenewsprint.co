@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: How to Stain Shelterwood's Cherry Cover
 date: '2014-04-02 15:31:32'
 link: http://www.yippeecahier.net

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: The Scription Chronodex
 date: '2014-04-11 14:52:47'
 link: http://scription.typepad.com/blog/

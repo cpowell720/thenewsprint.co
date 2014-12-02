@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: Josiah's Launch Center Pro & IFTTT Recipes
 date: '2014-06-11 20:48:46'
 link: http://jwie.be/writing/launch-center-pro-updated/

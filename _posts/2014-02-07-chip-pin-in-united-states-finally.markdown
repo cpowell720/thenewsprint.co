@@ -10,4 +10,3 @@ date: '2014-02-07 19:29:19'
 
 <p>It'll be a <a href="http://recode.net/2014/01/30/paypal-wants-in-on-apples-mobile-payments-dreams/">fun</a> year and a half in the payment system arena.</p>
 
-<h2 id="httpthenewsprintcoblogchippininunitedstatesfinally"><a href="http://thenewsprint.co/blog/chip-pin-in-united-states-finally">◎</a></h2>

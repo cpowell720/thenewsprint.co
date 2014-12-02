@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: Meet the New Apple
 date: '2014-06-03 17:26:05'
 link: http://www.theverge.com/2014/6/3/5776030/meet-the-new-apple

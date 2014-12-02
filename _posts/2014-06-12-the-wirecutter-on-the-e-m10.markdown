@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: The Wirecutter on the E-M10
 date: '2014-06-12 14:17:46'
 link: http://thewirecutter.com/reviews/best-mirrorless-camera-under-1000/

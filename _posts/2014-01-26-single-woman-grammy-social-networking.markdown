@@ -15,5 +15,3 @@ date: '2014-01-26 21:25:58'
 <hr />
 
 <p>I wonder how many bottles of 5 Hour Energy are consumed in order to maintain this hectic occupation.</p>
-
-<h2 id="httpthenewsprintcoblogsinglewomangrammysocialnetworking"><a href="http://thenewsprint.co/blog/single-woman-grammy-social-networking">◎</a></h2>

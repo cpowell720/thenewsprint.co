@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: 'Field Notes Summer 2014 Edition: Arts and Sciences'
 date: '2014-06-10 15:36:26'
 link: http://fieldnotesbrand.com/colors/artsandsciences/

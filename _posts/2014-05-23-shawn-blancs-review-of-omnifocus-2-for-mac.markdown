@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: Shawn Blanc's Review of Omnifocus 2 for Mac
 date: '2014-05-23 13:59:53'
 link: http://shawnblanc.net/2014/05/a-review-of-omnifocus-2-for-mac-2

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: A Paragraph Summary of the E-M10
 date: '2014-06-10 02:37:20'
 link: https://www.flickr.com/photos/shawnblanc/sets/72157645041429103

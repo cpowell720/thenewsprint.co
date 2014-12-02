@@ -24,4 +24,3 @@ date: '2014-02-05 15:52:47'
 
 <p>And all it took was some opinionated software.</p>
 
-<h2 id="httpthenewsprintcoblogunreadisopinionatedsoftware"><a href="http://thenewsprint.co/blog/unread-is-opinionated-software">◎</a></h2>

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: The Daily Rind
 date: '2014-04-02 15:03:24'
 link: http://b.aking.ca/post/5787137408/the-daily-rind

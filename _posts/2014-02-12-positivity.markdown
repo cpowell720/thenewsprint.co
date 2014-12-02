@@ -40,7 +40,6 @@ date: '2014-02-12 16:21:44'
 
 <p data-preserve-html-node="true">Negativity terminated.</p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/positivity">◎</a></h2>
 
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />

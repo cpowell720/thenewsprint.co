@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: Gareth Jones' Mark-Up System
 date: '2014-06-26 13:34:28'
 link: http://www.gareth.me.uk/improving-my-note-taking-using-mark-up/

@@ -18,8 +18,6 @@ date: '2014-01-28 17:43:52'
 
 <p data-preserve-html-node="true">Pricing based on pyschology seems smart and inevitable. But I can&#8217;t help but feel played.</p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/netflix-to-raise-prices">◎</a></h2>
-
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />
 <ol data-preserve-html-node="true">

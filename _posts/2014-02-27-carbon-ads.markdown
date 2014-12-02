@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ Carbon Ads"
+title: "Carbon Ads"
 date: '2014-02-27 22:30:17'
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: Drifting
 date: '2014-03-31 22:00:26'
 link: http://randsinrepose.com/archives/drift

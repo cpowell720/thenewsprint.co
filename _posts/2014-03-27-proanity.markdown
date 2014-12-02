@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: Pro*anity
 date: '2014-03-27 14:52:36'
 link: http://mattgemmell.com/profanity

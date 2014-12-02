@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: The Getting Sh-t Done System
 date: '2014-03-24 14:43:20'
 link: http://blog.utilware.com/gsd

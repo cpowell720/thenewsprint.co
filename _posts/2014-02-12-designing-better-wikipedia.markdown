@@ -8,4 +8,3 @@ date: '2014-02-12 15:17:59'
 
 <p>I'll see what my instructors think about that idea today in class.</p>
 
-<h2 id="httpthenewsprintcoblogdesigningbetterwikipedia"><a href="http://thenewsprint.co/blog/designing-better-wikipedia">◎</a></h2>

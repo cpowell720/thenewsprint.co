@@ -10,4 +10,3 @@ date: '2014-02-02 19:49:40'
 
 <p>I never want to be the mouse.</p>
 
-<h2 id="httpthenewsprintcoblogpointofviewofthemouse"><a href="http://thenewsprint.co/blog/point-of-view-of-the-mouse">◎</a></h2>

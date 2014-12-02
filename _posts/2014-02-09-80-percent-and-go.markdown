@@ -18,4 +18,3 @@ date: '2014-02-09 22:16:01'
 
 <p>Although this list of 12 pieces of advice is fairly well-known, you may find a few tidbits to inspire your next adventure. </p>
 
-<h2 id="httpthenewsprintcoblog80percentandgo"><a href="http://thenewsprint.co/blog/80-percent-and-go">◎</a></h2>

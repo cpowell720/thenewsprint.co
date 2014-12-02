@@ -20,7 +20,6 @@ date: '2014-02-09 17:08:40'
 
 <p data-preserve-html-node="true">The Hellbrand Leather memo book cover comes with one Field Notes book inside and I can&#8217;t wait to try it out myself. If I&#8217;m even half impressed, count me in for a subscription.<a data-preserve-html-node="true" href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/measuring-memo-book-soul">◎</a></h2>
 
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />

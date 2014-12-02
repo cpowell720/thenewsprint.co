@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: Patrick Ng's Midori Traveler's Notebook
 date: '2014-04-08 14:07:00'
 link: https://www.flickr.com/search/?w=80919450@N00&amp;q=%23travelersnotebook

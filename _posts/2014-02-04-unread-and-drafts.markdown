@@ -20,7 +20,6 @@ date: '2014-02-04 15:13:45'
 
 <p data-preserve-html-node="true">For this reason, and this reason alone, I foresee Unread supplanting Reeder as my RSS client of choice on the iPhone.</p>
 
-<h2 data-preserve-html-node="true"><a data-preserve-html-node="true" href="http://thenewsprint.co/blog/unread-and-drafts">◎</a></h2>
 
 <div data-preserve-html-node="true" class="footnotes">
 <hr data-preserve-html-node="true" />

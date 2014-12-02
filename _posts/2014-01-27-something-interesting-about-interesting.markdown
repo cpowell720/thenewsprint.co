@@ -25,5 +25,3 @@ date: '2014-01-27 03:01:44'
 <p>I've highlighted a few of my favourite apps recently that are expecting big updates and new features. <a href="http://www.thenewsprint.co//publish-by-day-one">Day One's upcoming Publish feature</a> will change the private digital journal forever, no matter the platform, and Launch Center Pro for iPad will have a <a href="http://www.thenewsprint.co//tabletism-and-launch-center-pro">significant impact</a> on the productivity capabilities of the iPad. </p>
 
 <p>But Interesting for iPad doesn't <em>need</em> to exist for me. I feel it handles the quick and easy better than most link gathering apps. My iPad, no matter how hard I try, is not my ideal platform for anything quick and easy. I will never discourage someone from making an iPad version of an app — I just don't want someone to merely replicate an iPhone app for the bigger screen. Their essential purposes <em>need</em> to be different — because the iPhone and the iPad are different.</p>
-
-<h2 id="httpthenewsprintcoblogsomethinginterestingaboutinteresting"><a href="http://thenewsprint.co/blog/something-interesting-about-interesting">◎</a></h2>
