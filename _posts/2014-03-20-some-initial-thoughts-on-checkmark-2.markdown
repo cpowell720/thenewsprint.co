@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "◎ Some Initial Thoughts on Checkmark 2"
+title: "Some Initial Thoughts on Checkmark 2"
 date: '2014-03-20 01:06:26'
 ---
 
