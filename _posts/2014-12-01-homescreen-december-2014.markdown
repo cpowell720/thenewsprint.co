@@ -34,7 +34,7 @@ Another month, another couple homescreen shots. Here's where I'm at heading into
 * [Omnifocus 2 for iPhone](https://itunes.apple.com/ca/app/omnifocus-2-for-iphone/id690305341?mt=8&uo=4&at=1l3v5At)
 * [Tweetbot 3](https://itunes.apple.com/ca/app/tweetbot-3-for-twitter-iphone/id722294701?mt=8&uo=4&at=1l3v5At)
 
-I've added a few apps for work purposes, namely Yahoo! Finance, Microsoft Exce, and Slack. 
+I've added a few apps for work purposes, namely Yahoo! Finance, Microsoft Excel, and Slack. 
 
 Yahoo! Finance is the only stock market app I've found that fits me at this point in time. Any Bloomberg apps or paid choices seem to be above and beyond my needs. If you're looking for a simple way to keep track of the ups and downs of the market, and to read some applicable news, Yahoo! Finance is a good choice.
 
