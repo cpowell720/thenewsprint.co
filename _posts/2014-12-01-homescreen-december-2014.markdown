@@ -85,4 +85,4 @@ I've also added Overcast to my homescreen now that it has become a universal app
 
 And finally, Vainglory. I jumped aboard the bandwagon about a week and a half ago and I can't put this game down. It's the first game that has hit my homescreen in a very long time and it's too addicting to put anywhere else. Maybe the Vainglory fad has passed for the time being, but you can be sure you'll find me playing a few matches each and every evening.
 
-This is going to be a very fun month here on the blog. The first anniversary of the blog is just two short weeks away and I've got a few nice surprises to announce in the time being. This Homescreen post is a nice way to start off what's going to be an exciting month.
+This is going to be a very fun month here on the blog. The first anniversary of the blog is just around the corner and I've got a few nice surprises to announce in the time being. This Homescreen post is a nice way to start off what's going to be an exciting month.
