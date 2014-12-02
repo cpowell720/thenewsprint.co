@@ -2,10 +2,9 @@
 layout: post
 title: The iPad Air 2
 date: '2014-11-10 17:02:05'
-link: http://toolsandtoys.net/reviews/the-ipad-air-2/
 ---
 
-When I originally pitched the idea to review the iPad Air 2 for Tools and Toys, I had prematurely written off the device. Apple's keynote seemed to stress the iterative progress of the iPad, so I assumed my current iPad Air was far and away sufficient for my purposes.
+When I originally pitched the idea to review the [iPad Air 2 for Tools and Toys,](http://toolsandtoys.net/reviews/the-ipad-air-2/) I had prematurely written off the device. Apple's keynote seemed to stress the iterative progress of the iPad, so I assumed my current iPad Air was far and away sufficient for my purposes.
 
 Then I began using the iPad Air 2.
 
