@@ -7,6 +7,8 @@ published: true
 
 The Newsprint is written and produced by Josh Ginter.
 
+![](http://thenewsprint.s3.amazonaws.com/media/Permanent%20Photos/JoshJaclyn-451.png)
+
 **Tools**
 
 The Newsprint is written primarily on a MacBook Pro and iPad Air 2.
