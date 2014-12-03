@@ -151,6 +151,16 @@ hr {
   padding: 0 1rem;
   color: #AF181B; }
 
+.huge {
+  font-size: 8rem;
+  color: #AF181B;
+  font-weight: 600;
+  margin-bottom: 4rem; }
+
+.big {
+  font-size: 2rem;
+  line-height: 2.5rem; }
+
 body {
   background-color: #f9f9f9; }
 
