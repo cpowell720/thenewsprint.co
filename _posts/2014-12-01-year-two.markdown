@@ -2,7 +2,6 @@
 layout: post
 title: Year Two
 date: 2014-12-01 23:30
-categories: featured
 ---
 
 A year ago I hit the publish button for the first time. I expected the fear of hitting publish to eventually subside, but in reality it has never ceased to terrify me.
@@ -53,4 +52,4 @@ On to year two. I never expected to be here a year ago. I figured this little pr
 
 Cheers. And thank you.
 
-**JG**
+**JG*
