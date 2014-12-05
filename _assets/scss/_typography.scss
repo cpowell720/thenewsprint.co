@@ -162,3 +162,7 @@ hr {
 	font-size: 2rem;
 	line-height: 2.5rem;
 }
+
+.footnotes ol li {
+	line-height: $base-line-height;
+}

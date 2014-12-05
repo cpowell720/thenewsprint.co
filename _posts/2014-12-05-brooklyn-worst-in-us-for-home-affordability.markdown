@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brooklyn Worst in U.S. for Home Affordability 
-date: 2014-12-05 11:00
+date: 2014-12-05 11:04
 link: http://www.bloomberg.com/news/2014-12-04/brooklyn-worst-in-u-s-for-home-affordability.html
 ---
 
