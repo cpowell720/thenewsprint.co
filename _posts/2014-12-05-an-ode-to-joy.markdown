@@ -31,9 +31,9 @@ There are a few Piano Guys pieces I'd like to point out. Not only do I recommend
 
 Some of my Piano Guys favourites include:
 
-* Lord of the Rings - The Hobbit — [(Music)](https://itunes.apple.com/ca/album/lord-of-the-rings/id579731726?i=579731747&uo=4&at=1l3v5At) | [(Video)](http://thepianoguys.com/portfolio/lord-of-the-rings-the-hobbit/)
-* Let It Go - Frozen — [(Music)](https://itunes.apple.com/ca/album/let-it-go/id816515798?i=816515809&uo=4&at=1l3v5At) | [(Video)](http://thepianoguys.com/portfolio/let-it-go/)
-* Without You - David Guetta ft. Usher — [(Music)](https://itunes.apple.com/ca/album/without-you/id588855725?i=588855808&uo=4&at=1l3v5At) | [(Video)](http://thepianoguys.com/portfolio/david-guetta-without-you-ft-usher-pianocello-cover/)
+* Lord of the Rings - The Hobbit — [(Music)](https://itunes.apple.com/ca/album/lord-of-the-rings/id579731726?i=579731747&uo=4&at=1l3v5At) - [(Video)](http://thepianoguys.com/portfolio/lord-of-the-rings-the-hobbit/)
+* Let It Go - Frozen — [(Music)](https://itunes.apple.com/ca/album/let-it-go/id816515798?i=816515809&uo=4&at=1l3v5At) - [(Video)](http://thepianoguys.com/portfolio/let-it-go/)
+* Without You - David Guetta ft. Usher — [(Music)](https://itunes.apple.com/ca/album/without-you/id588855725?i=588855808&uo=4&at=1l3v5At) - [(Video)](http://thepianoguys.com/portfolio/david-guetta-without-you-ft-usher-pianocello-cover/)
 
 I have so many more favourites, but I'll let you discover them on your own. 
 
@@ -51,4 +51,4 @@ I love where the Piano Guys fit into that time continuum. They reflect so much o
 
 [^3]: I'm seriously longing for a Piano Guys version of my favourite Little Drummer Boy. (Yes, I know there is a small portion of Little Drummer Boy housed in Angels We Have Heard On High, but I *want more*.) I've only ever admitted this to my wife, but I cry every time the Little Drummer Boy — in any version — comes on the radio. A few years ago, there was a young Winnipegger who composed a version of the Little Drummer Boy and played each instrument in the song on his own. He then shot a really [incredible video to accompany it.](http://youtu.be/IrNcD34KFhM) I can't get enough of this video at this time of year.
 
-[^4]: See what I just did there? If not, [check it out.](https://itunes.apple.com/ca/album/with-or-without-you/id267826054?i=267826308&uo=4&at=1l3v5At)
+[^4]: See what I just did there? If not, [check it out.](https://itunes.apple.com/ca/album/with-or-without-you/id267826054?i=267826308&uo=4&at=1l3v5At
