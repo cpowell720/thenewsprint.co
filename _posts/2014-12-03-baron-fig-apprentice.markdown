@@ -2,7 +2,6 @@
 layout: post
 title: Baron Fig Apprentice
 date: 2014-12-04 9:00
-categories: featured
 ---
 
 Baron Fig has been the talk of the town recently.
@@ -78,4 +77,4 @@ What I'm trying to say is, I think you'll like it.
 
 While you're trying it out, you should pick up some [Cyber Monday limited edition Apprentice](http://www.baronfig.com/products/intl-shoplightbulb) three-packs. I can't see these being around for much longer.
 
-[^1]: Jaclyn referred to it as a "Deep Plum" colour. That's a whole new level of descriptiveness
+[^1]: Jaclyn referred to it as a "Deep Plum" colour. That's a whole new level of descriptivenes
