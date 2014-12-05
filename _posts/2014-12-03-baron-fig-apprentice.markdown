@@ -5,7 +5,7 @@ date: 2014-12-04 9:00
 categories: featured
 ---
 
-Baron Fig has been the talk of the town recently. 
+Baron Fig has been the talk of the town recently.[^1]
 
 ![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PB291193.jpg)
 
@@ -29,7 +29,7 @@ The Apprentice comes in a pack of three memo books with a vertical bellyband. Li
 ![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PB291199.jpg)
 ![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PB291219.jpg)
 
-Baron Fig brought over the Confidant's signature grey and yellow colour scheme to the Apprentice. The books are bound by a distinctive yellow thread instead of the three-staple binding in a Field Notes. There's tons of character in this yellow binding and I love the grey/maroon/yellow[^1] combination as a whole. 
+Baron Fig brought over the Confidant's signature grey and yellow colour scheme to the Apprentice. The books are bound by a distinctive yellow thread instead of the three-staple binding in a Field Notes. There's tons of character in this yellow binding and I love the grey/maroon/yellow combination as a whole. 
 
 ![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PB291231.jpg)
 
