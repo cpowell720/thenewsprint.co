@@ -23,7 +23,7 @@ Feel free to send me an email (josh@thenewsprint.co) any time. I'll get back to 
 
 Follow The Newsprint's Twitter account: [@thenewsprint](https://twitter.com/thenewsprint)
 
-Follow Josh Ginter's Twitter account: [@joshuaginter](https://twitter.com/joshuaginter)
+Follow my personal Twitter account: [@joshuaginter](https://twitter.com/joshuaginter)
 
 **Affiliate Link Policy**
 
