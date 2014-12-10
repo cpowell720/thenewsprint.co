@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ken Rockwell on the Fuji X100T
-date: 2014-12-13:30
+date: 2014-12-10 13:30
 link: http://www.kenrockwell.com/fuji/x100t.htm
 ---
 
