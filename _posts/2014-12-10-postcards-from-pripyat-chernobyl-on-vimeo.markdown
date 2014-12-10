@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postcards from Pripyat, Chernobyl on Vimeo
+title: Postcards from Pripyat, Chernobyl
 date: 2014-12-10 12:45
 link: http://vimeo.com/112681885
 ---
