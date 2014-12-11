@@ -2,7 +2,6 @@
 layout: post
 title: Baron Fig Apprentice
 date: 2014-12-04 9:00
-categories: featured
 ---
 
 Baron Fig has been the talk of the town recently.
