@@ -1,0 +1,80 @@
+---
+layout: post
+title: Reeder 2
+date: 2014-12-11 13:22
+categories: featured
+---
+
+For quite some time, [Reeder](https://itunes.apple.com/ca/app/reeder-2/id697846300?mt=8&uo=4&at=1l3v5At) was the go-to iOS app for reading RSS feeds. [Reeder](https://itunes.apple.com/ca/app/reeder-2/id697846300?mt=8&uo=4&at=1l3v5At) excelled with Google Reader compatibility and [Silvio Rizzi's app](http://reederapp.com/) gained immense traction in the iPhone's early days. Because of its strong foothold back then, I can't seem to let go of it now.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC111382.jpg)
+
+When Google Reader was cut out of Google's plans, Reeder went into a stunned reactionary period. Rizzi's meticulous development work caused Reeder to sunset in favour of apps like [Unread](https://itunes.apple.com/ca/app/unread-for-ipad-rss-news-reader/id911472824?mt=8&uo=4&at=1l3v5At) or [Mr. Reader](https://itunes.apple.com/ca/app/mr.-reader/id412874834?mt=8&uo=4&at=1l3v5At). Reeder's incredibly slow development forced users elsewhere, and the resulting debate between [RSS apps of choice has never been bigger.](http://thesweetsetup.com/apps/best-rss-app-ipad/)
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC111401.jpg) 
+
+However, through thick and thin, Reeder has been there for me. I fell in love with Reeder due to my initial use of Google Reader and I've had a difficult time switching to any other app for my RSS needs. I now use [Feed Wrangler](https://feedwrangler.net/welcome.html) to manage my RSS subscriptions and I couldn't be happier with Reeder's speedy interface.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Silver%20iPad%20Reading%20View.png)
+
+Reeder has a very minimal design and makes heavy use of Helvetica type. Buttons to navigate between different lists line the bottom of list views, while buttons to mark articles as starred or unread line the bottom of reading views.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20iPhone%20Themes.png)
+
+Reeder for both the iPhone and iPad comes with four different themes for your viewing pleasure. You can find these themes in any reading view.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Silver%20iPhone%20Custom%20View%20Menu.png)
+
+I prefer the default Light theme as it isn't too bright when I'm in a low light situation and it's easy on the eyes everywhere else. The classic earthy-grey Dark theme is also quite pleasant, if you prefer such things.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Silver%20iPhone%20Unread%20List.png)
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Silver%20iPhone%20All%20Feeds%20View.png)
+
+Reeder makes extensive use of list views to manage your subscriptions, unread articles, starred articles, and accounts. These lists are simply navigated by [sloppy swiping](http://thenewsprint.co/2014/04/16/sloppy-swiping/) from left to right. On the big iPhone 6 Plus, this sloppy swiping navigation is extremely important for a healthy navigation experience. If I had to reach across the screen to navigate backwards, my thumb would cramp up instantly.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Black%20iPad%20Landscape%20List.png)
+
+These article lists have a cool swiping feature that allows you to quickly curate your feeds. I have my options set so I can swipe right to mark the article read and I swipe left to send the article straight to [Instapaper](https://itunes.apple.com/ca/app/instapaper/id288545208?mt=8&uo=4&at=1l3v5At). Swiping to curate lists is the single factor for my love of Reeder — if Reeder didn't possess this ability, I would jump aboard the Unread boat in a heartbeat.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Silver%20iPhone%20Reading%20View.png)
+
+On the same note, if Reeder's only job were to *read* my RSS feeds, I would also switch to an app like Unread. Reeder's actual reading experience isn't all that great, as the standard Helvetica font isn't particularly inspiring. Moreover, the entire reading view lacks that sort of pizazz that many users have come to expect thanks to Unread.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC111394.jpg)
+
+I do like the extra wide images in Reeder's reading view though. Colours and images pop beautifully. 
+
+The few customizable options that are available make the reading experience decent enough for me to be happy. I'll put up with reading experience so long as I can have Reeder's great menu system.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Black%20iPhone%20Share%20Menu.png)
+
+When reading an article, Silvio Rizzi has put a unique share sheet in the bottom right corner of the screen. This share sheet can be customized in the settings and allows you to share your articles to a multitude of services. I have my menus set up with the options I use most often. For the few times I use a sharing option that isn't in my list, Reeder still maintains the ability to access iOS 8's system-wide sharesheet under "More...". I really appreciate the ability to have a quick sharesheet of my most used services but still being able to access that awesome iOS 8 sharesheet without hesitation. Like the rest of Reeder, I get the best of both worlds.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Silver%20iPhone%20Readability%20View.png)
+
+Reeder also has a Readability option. I don't use Readability all that often, but it's a great way to quickly jump to a linked post's actual content and maintain the simple, stripped down reading experience we've come to love. Readability is also noticeably faster than Reeder's browser and, although the page view doesn't load for the author of the content, I like the way Readability maintains design uniformity when reading.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Silver%20iPad%20Browser.png)
+
+Speaking of that in-app browser, Reeder allows you to swipe right to left to bring up the actual webpage of the current article. I can't stand Reeder's in-app browser. I find it slow, clunky, and relatively optionless compared to other RSS in-app browsers. If at all possible, I prefer to swipe to my sharesheet and open the article in Safari so I can take advantage of Safari's tabbed browsing and zippy speeds.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Black%20iPhone%20General%20Settings.png)
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Black%20iPhone%20Accounts%20Menu.png)
+
+Reeder's settings menus are just that: settings. There are options for customizing your sharesheet, setting up your RSS accounts, and choosing what your menu swipes do. These menus maintain the design aesthetic found throughout the rest of the app and I have little to no complaints regarding this aspect of Reeder.
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/Reeder%20Silver%20iPad%20Unread%20List%20View.png)
+
+Despite my relative unexcitement for characteristics like Reeder's in-app browser and general reading view, I'm still drawn to Reeder for my RSS needs. 
+
+It all boils down to speed. Reeder's ability to swipe articles straight to Instapaper in the unread list, or to swipe articles as read, makes curating my RSS feeds less of a chore everyday. 
+
+![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC111375.jpg)
+
+While Unread may be more elegant and conducive for reading, and while Mr. Reader may be more powerful, I find Reeder to be a happy medium between the two. Reeder looks pretty great — especially with the default Light theme — and its unique sharesheet customization makes it easier to get interesting content to a multitude of other platforms.
+
+If you're new to RSS, I recommend Reeder as a great starting app to determine how you use RSS. From there, other apps may be more appropriate. 
+
+For me, Reeder it is. And Reeder it always will be.
