@@ -13,7 +13,7 @@ After reading this incredibly well thought out article, I had to ask Kyle if he 
 
 Budgeting is a scary word. Most people perceive budgets as constraints, limitations, or even threats. 
 
-In reality though, budgeting is merely a form of documented planning. By budgeting your finances each month, you are essentially creating a personal plan on how to allocate your own resources. If the plan is well thought out and accommodating to as many variables as possible, your budget won't ever feel like a constraint. Instead, it'll feel exactly how Kyle puts it:
+In reality though, budgeting is merely a form of documented planning. By budgeting your finances each month, you are essentially creating a personal plan of how to allocate your own resources. If the plan is well thought out and accommodating to as many variables as possible, your budget won't ever feel like a constraint. Instead, it'll feel exactly how Kyle puts it:
 
 > Initially, budgeting may sound like a nerdy, oh-so-you-majored-in-accounting word, but it’s not. I’ve found budgeting to be *freeing*. I spend money on things I like, and I never worry about having enough to pay our bills each month. Part of this is the blessing of having a solid job with a good income; however, budgeting has helped create a lifestyle where, if I were to lose 3/4 of my income, my wife and I wouldn’t have to change a single thing about our lives.
 
