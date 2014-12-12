@@ -9,7 +9,7 @@ Kyle Dreger writing for Audacious Fox:
 
 > If you’re new to budgeting, I’d warn against any sort of app or website that promises to do much of the “budgeting” for you. More than a bunch of tools and apps, budgeting is a state of mind. Your goal is to become a good steward of your finances.
 
-After reading this incredibly well thought out article, I had to ask Kyle if he was trained to be an accountant or a personal finance manager. For someone who isn't in the finance profession, Kyle does an exceptional job in outlining the foundations of personal budgeting. 
+After reading this incredibly well thought out article, I had to ask Kyle if he was trained to be an accountant or a personal finance manager. For someone who isn't in the finance profession, Kyle does an exceptional job of outlining the foundations of personal budgeting. 
 
 Budgeting is a scary word. Most people perceive budgets as constraints, limitations, or even threats. 
 
@@ -19,4 +19,4 @@ In reality though, budgeting is merely a form of documented planning. By budgeti
 
 > That is an incredibly freeing place to be.
 
-Absolutely spot on. 
+Absolutely spot on.
