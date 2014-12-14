@@ -13,7 +13,7 @@ Grab some coffee, pour in some hazelnut sweetener, eat some peanuts, turn on the
 
 * “Shareholder Value” Isn’t What You Think It Is — [(David Grace)](https://medium.com/@davidgraceauth/shareholder-value-isnt-what-you-think-it-is-b39266c38e39)
 *  Voluntourism: More Harm than Good — [(The Collegian)](http://aswwu.com/collegian/voluntourism-more-harm-than-good/)
-* Professional App Pricing — [(Martiancraft)](http://martiancraft.com/blog/2014/12/professional-app-pricing/)
+* Professional App Pricing — [(MartianCraft)](http://martiancraft.com/blog/2014/12/professional-app-pricing/)
 * An Illustrated History of Mac OS X — [(Git-Tower)](http://www.git-tower.com/blog/history-of-osx/)
 * Apple's first employee: The remarkable odyssey of Bill Fernandez — [(TechRepublic)](http://www.techrepublic.com/article/apples-first-employee-the-remarkable-odyssey-of-bill-fernandez/)
 * Day One and the Journaling Habit — [(The Spark Journal)](http://www.sparkjournal.net/journal/2014/12/day-one-and-the-journaling-habit)
