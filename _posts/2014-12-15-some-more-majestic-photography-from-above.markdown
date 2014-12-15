@@ -5,4 +5,4 @@ date: 2014-12-15 13:09
 link: http://matadornetwork.com/notebook/46-incredible-aerial-shots-famous-places/
 ---
 
-While we're on the topic of jaw-dropping photography from the skies.
+While we're on the topic of jaw-dropping photography from the skies, I'd recommend checking this one out as well. 
