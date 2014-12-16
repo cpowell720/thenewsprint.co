@@ -54,16 +54,16 @@ h3 {
   margin-top: 1.25rem; }
 
 blockquote {
-  border-left: 5px solid #AF181B;
+  border-left: 5px solid #af181b;
   padding-left: 1rem; }
 
 a {
   color: #262626;
   text-decoration: none;
-  border-bottom: 1px dotted #AF181B; }
+  border-bottom: 1px dotted #af181b; }
 
 a:hover {
-  border-bottom: 1px solid #AF181B; }
+  border-bottom: 1px solid #af181b; }
 
 p {
   margin: 1rem 0; }
@@ -76,7 +76,7 @@ li {
 
 hr {
   border: 0;
-  border-bottom: 1px dashed #AF181B; }
+  border-bottom: 1px dashed #af181b; }
 
 .site-title a {
   font-size: 2rem;
@@ -85,7 +85,7 @@ hr {
   font-weight: 600;
   text-decoration: none;
   border-bottom: none;
-  color: #AF181B; }
+  color: #af181b; }
   .site-title a:hover {
     color: #262626; }
 
@@ -105,7 +105,7 @@ hr {
       text-decoration: none;
       border-bottom: 0; }
     .site-nav ul li a:hover {
-      color: #AF181B; }
+      color: #af181b; }
     @media screen and (max-width: 480px)  {
       .site-nav ul li {
         line-height: 3rem; } }
@@ -149,11 +149,11 @@ hr {
 
 .page-number {
   padding: 0 1rem;
-  color: #AF181B; }
+  color: #af181b; }
 
 .huge {
   font-size: 8rem;
-  color: #AF181B;
+  color: #af181b;
   font-weight: 600;
   margin-bottom: 4rem; }
 
@@ -223,7 +223,7 @@ header {
   header ul li {
     display: inline-block; }
   header .wrapper {
-    border-bottom: 1px dotted #AF181B;
+    border-bottom: 1px dotted #af181b;
     padding-bottom: 1rem; }
     @media screen and (max-width: 600px)  {
       header .wrapper {
@@ -319,7 +319,7 @@ header {
 
 .permalink a {
   font-size: 1.5rem;
-  color: #AF181B;
+  color: #af181b;
   margin-left: 0.5rem;
   border-bottom: none; }
 
