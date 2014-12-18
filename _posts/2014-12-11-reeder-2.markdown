@@ -2,7 +2,6 @@
 layout: post
 title: Reeder 2
 date: 2014-12-11 13:22
-categories: featured
 ---
 
 For quite some time, [Reeder](https://itunes.apple.com/ca/app/reeder-2/id697846300?mt=8&uo=4&at=1l3v5At) was the go-to iOS app for reading RSS feeds. [Reeder](https://itunes.apple.com/ca/app/reeder-2/id697846300?mt=8&uo=4&at=1l3v5At) excelled with Google Reader compatibility and [Silvio Rizzi's app](http://reederapp.com/) gained immense traction in the iPhone's early days. Because of its strong foothold back then, I can't seem to let go of it now.
