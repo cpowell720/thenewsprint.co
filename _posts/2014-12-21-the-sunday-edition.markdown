@@ -5,7 +5,7 @@ date: 2014-12-21 11:32
 categories: sundayedition
 ---
 
-'Twas the Sunday before Christmas. 
+> 'Twas the Sunday before Christmas, when all thro' the house, not a creature was stirring, not even a mouse.
 
 It may be a bit quieter around here over the next seven days. Christmas has become far less about celebration and far more about rest, rejuvenation, sharing smiles, and passing on the joy of the season. This has hit home this year more so than any year before — we have spent next to nothing on Christmas gifts. I like it this way. Christmas is far more Christmas when gift-giving isn't involved and when R&R is the only task on the to-do list. 
 
