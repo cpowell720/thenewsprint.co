@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The TwelveSouth Compass Stand on Tools and Toys
+title: The Twelve South Compass Stand on Tools and Toys
 date: 2014-12-23 11:09
 ---
 
