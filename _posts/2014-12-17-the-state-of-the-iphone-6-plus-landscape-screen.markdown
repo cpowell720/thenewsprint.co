@@ -2,7 +2,6 @@
 layout: post
 title: The State of the iPhone 6 Plus Landscape Screen
 date: 2014-12-17 20:37
-categories: featured
 ---
 
 There must not be much demand for developers to adopt the iPhone 6 Plus' new landscape options. Three months after the release of the new iPhones , only 8 of the 23 apps on my homescreen have been optimized for the 6 Plus' landscape orientation. Of those 8 apps, 4 of them are stock iOS apps. While I understand there are development tradeoffs to be made to implement the 6 Plus' landscape screen, I really hope to see landscape optimization become more mainstream in the future.
