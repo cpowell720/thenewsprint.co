@@ -17,4 +17,4 @@ Over the last few days, we have set goals to catch up with our grandparents and 
 
 From our home to yours, we wish you a blessed Christmas and a prosperous new year. 
 
-Josh and Jaclyn Ginter
+— Josh and Jaclyn Ginter
