@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Sunday Edition
-date: 2014-12-28 10:49
+date: 2014-12-28 12:30
 categories: sundayedition
 ---
 
