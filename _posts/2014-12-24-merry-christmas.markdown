@@ -2,7 +2,6 @@
 layout: post
 title: Merry Christmas
 date: 2014-12-24 10:49
-categories: featured
 ---
 
 Dear Friends and Family,
