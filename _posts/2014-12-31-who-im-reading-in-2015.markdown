@@ -29,7 +29,7 @@ I discovered Jorge’s photography through his work on [*Tools and Toys*](http:/
 
 **[The Pen Addict](http://www.penaddict.com) by Brad Dowdy**
 
-I had a chance to talk with Brad and Myke on [The Pen Addict Podcast](http://5by5.tv/penaddict/111) a few months ago and I had the time of my life. As good a speaker as Brad is, he is equally impressive with a keyboard. His pen reviews are full of character and are tremendously fun to read. The only part I don’t like about Brad is his ability to spend my money; beside “enabler” in the dictionary, you will find Brad Dowdy. Don’t head over if you’re not prepared to part with your wallet.
+I had a chance to talk with Brad and Myke on [The Pen Addict Podcast](http://relay.fm/penaddict/111) a few months ago and I had the time of my life. As good a speaker as Brad is, he is equally impressive with a keyboard. His pen reviews are full of character and are tremendously fun to read. The only part I don’t like about Brad is his ability to spend my money; beside “enabler” in the dictionary, you will find Brad Dowdy. Don’t head over if you’re not prepared to part with your wallet.
 
 **[Shawn Blanc](http://shawnblanc.net)**
 
@@ -81,4 +81,4 @@ And here are the pieces of work I am most proud of:
 
 Thank you to everyone for coming by this year. Here’s to an even better 2015.
 
-[^1]: And, considering the fact that I write for one of his other sites and that I’m a gigantic Tools & Toys fan, my love for his personal site has to be sky high.
+[^1]: And, considering the fact that I write for one of his other sites and that I’m a gigantic Tools & Toys fan, my love for his personal site has to be sky high
