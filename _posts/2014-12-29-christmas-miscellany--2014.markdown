@@ -2,7 +2,6 @@
 layout: post
 title: Christmas Miscellany - 2014
 date: 2014-12-29 9:09
-categories: featured
 ---
 
 Christmas Day landed on a Thursday this year, meaning Jaclyn and I have had almost an entire week away from the office, away from school work, and away from major distractions. It has been awesome.
