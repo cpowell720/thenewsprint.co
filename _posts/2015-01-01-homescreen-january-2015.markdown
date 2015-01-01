@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "Homescreen: January 2015"
-date: 2015-01-01 11:03
+date: "2015-01-01 11:03"
+published: true
 ---
 
 I hope everyone had a safe and joyful time ringing in the New Year. I’ll join in the chorus and say that it’s crazy that it’s already 2015. Time flies.
 
 New year. New month. It’s time for a couple homescreen round outs. Here are my iDevices for the beginning of 2015.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/January%20iPhone%20Homescreen.jpg)
+![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPhone%20Homescreen%20-%20January.jpg)
 
 * Weather.app
 * [CIBC Mobile Banking](https://itunes.apple.com/ca/app/cibc-mobile-banking/id351448953?mt=8&uo=4&at=1l3v5At)
@@ -52,7 +53,7 @@ Why only three apps in the dock? Stretching my thumb across the screen (say, usi
 
 Next up, iPad.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/January%20iPad%20Homescreen%20.jpg)
+![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad%20Homescreen%20-%20January.jpg)
 
 * [1Password](https://itunes.apple.com/ca/app/1password-password-manager/id568903335?mt=8&uo=4&at=1l3v5At)
 * [Fantastical 2 for iPad](https://itunes.apple.com/ca/app/fantastical-2-for-ipad-calendar/id830708155?mt=8&uo=4&at=1l3v5At)
