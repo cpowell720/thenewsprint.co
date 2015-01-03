@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Who I'm Reading in 2015
-date: 2014-12-31 9:30
+title: "Who I'm Reading in 2015"
+date: "2014-12-31 9:30"
+published: true
 ---
 
 It has been a year [full of firsts, bests, and favourites](http://thenewsprint.co/2014/12/01/year-two/). To round out the year, I want to show some love to a few other writers and photographers who I enjoy reading on a daily or weekly basis. 
@@ -79,5 +80,7 @@ And here are the pieces of work I am most proud of:
 5. [The iPad Air 2](http://toolsandtoys.net/reviews/the-ipad-air-2/)
 
 Thank you to everyone for coming by this year. Here’s to an even better 2015.
+
+---
 
 [^1]: And, considering the fact that I write for one of his other sites and that I’m a gigantic Tools & Toys fan, my love for his personal site has to be sky hig
