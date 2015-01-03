@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The State of the iPhone 6 Plus Landscape Screen
-date: 2014-12-17 20:37
+date: "2014-12-17 20:37"
+published: true
 ---
 
 There must not be much demand for developers to adopt the iPhone 6 Plus' new landscape options. Three months after the release of the new iPhones , only 8 of the 23 apps on my homescreen have been optimized for the 6 Plus' landscape orientation. Of those 8 apps, 4 of them are stock iOS apps. While I understand there are development tradeoffs to be made to implement the 6 Plus' landscape screen, I really hope to see landscape optimization become more mainstream in the future.
@@ -51,5 +52,7 @@ I have really tried to stress here that I don't understand enough about applicat
 There's no doubt there is a world of interface development on the iPhone 6 Plus that has just hardly been tapped into at this point. I hope developers find landscape support to be a worthwhile investment in the foreseeable future.
 
 And if they forgot about this feature, well, consider this a friendly reminder.
+
+---
 
 [^1]: Overcast's main landscape list views give the impression the entire app isn't optimized for the 6 Plus' landscape screen. However, Overcast's playback screen is second to none for optimization. I love how Overcast's use of buttons on the far left and far right of the landscape screen allow your thumbs to comfortably navigate the entire view. There shouldn't be any thumb cramping when listening to your favourite podcasts.
