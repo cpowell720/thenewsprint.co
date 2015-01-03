@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Christmas Miscellany - 2014
-date: 2014-12-29 9:09
+title: "Christmas Miscellany - 2014"
+date: "2014-12-29 9:09"
+published: true
 ---
 
 Christmas Day landed on a Thursday this year, meaning Jaclyn and I have had almost an entire week away from the office, away from school work, and away from major distractions. It has been awesome.
@@ -62,5 +63,7 @@ Stunning.[^1]
 ![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC251589.jpg)
 
 Overall, this has been my favourite Christmas yet. Exchanging gifts fell by the wayside while family and friends took over. I couldn’t ask for anything more. 
+
+---
 
 [^1]: This may be my best photograph to date. But don’t tell Brody — he’ll ask me to delete the photo for sure.
