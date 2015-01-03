@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Field Notes: Expedition"
-date: 2015-01-03 17:08
+date: "2015-01-03 17:08"
+published: true
 ---
 
----
+
 
 *Editor’s Note: I wrote this review in Spring 2014, but the review has needed to overcome some hiccups. I’ve reshot the photographs for this review as the photos didn’t transfer from past platforms.*
 
