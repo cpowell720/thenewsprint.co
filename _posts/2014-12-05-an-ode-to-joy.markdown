@@ -1,7 +1,8 @@
 ---
 layout: post
 title: An Ode to Joy
-date: 2014-12-05 10:00
+date: "2014-12-05 10:00"
+published: true
 ---
 
 I don't listen to much music. But when I do, I listen to classical music and The Piano Guys.
@@ -44,10 +45,12 @@ No matter the kind of music you're into, it's interesting to see how music has e
 
 I love where the Piano Guys fit into that time continuum. They reflect so much of the old, yet so much of their music is spontaneous and new. I foresee playing Piano Guys throughout my home for my children in the same way I grew up with U2 as a kid. The Piano Guys and their classical predecessors are a staple in my iTunes Library. I couldn't live — or work — without them.[^4]
 
+---
+
 [^1]: I also grew up with U2 playing throughout the house, so I'm definitely a Bono fan at heart. Their 2015 tour was announced just yesterday morning, which means I will be planning a road trip for this coming summer. You can never know when older bands are going to shut it down, so this may be the last time to listen to the great guitar rifts in [*Streets*](https://itunes.apple.com/ca/album/where-the-streets-have-no-name/id267826054?i=267826116&uo=4&at=1l3v5At).
 
 [^2]: Beethoven's 9th Symphony was his last great symphony and came in the latest part of his composing career. 
 
 [^3]: I'm seriously longing for a Piano Guys version of my favourite Little Drummer Boy. (Yes, I know there is a small portion of Little Drummer Boy housed in Angels We Have Heard On High, but I *want more*.) I've only ever admitted this to my wife, but I cry every time the Little Drummer Boy — in any version — comes on the radio. A few years ago, there was a young Winnipegger who composed a version of the Little Drummer Boy and played each instrument in the song on his own. He then shot a really [incredible video to accompany it.](http://youtu.be/IrNcD34KFhM) I can't get enough of this video at this time of year.
 
-[^4]: See what I just did there? If not, [check it out.](https://itunes.apple.com/ca/album/with-or-without-you/id267826054?i=267826308&uo=4&at=1l3v5At
+[^4]: See what I just did there? If not, [check it out.](https://itunes.apple.com/ca/album/with-or-without-you/id267826054?i=267826308&uo=4&at=1l3v5At)
