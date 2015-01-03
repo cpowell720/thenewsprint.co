@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Potpourri #1"
-date: 2015-01-02 9:30
+date: "2015-01-02 9:30"
 categories: featured
+published: true
 ---
 
 Over the past few months, I’ve acquired a few goods that aren’t large enough to merit their own review but are worth mentioning at one point or another. Moreover, I foresee further acquisition of smaller goods like this well into the future, so I wanted to create another small series of posts where I can outline my thoughts on multiple random products all at once. Best of all, small products like this are terribly fun to shoot with a camera, so I know I’m going to have a blast completing these kinds of posts down the road.
@@ -106,5 +107,7 @@ Overall, I’m very pleased with all six of the above items.
 I never thought I’d see the day where scotch and shampoo lined the halls of The Newsprint. However, The Newsprint’s headquarters would be incomplete if not for these unique products.
 
 If you give them a shot, let me know what you think. I’m always up for a discussion on shampoo.
+
+---
 
 [^1]:	I almost purchased a bottle of Glenmorangie 12 Year Old - The Quinta Ruban. After reading Álvarro’s article, I shied away. Álvarro’s scotch whisky reviews are awesome. No doubt I’ll head out on his word when I’ve finished this bottle to pick up a Glenfiddich of sorts. And, with that said, I recommend Álvarro give this Bowmore 12 Year a fair shake. I’m curious about his thoughts afterwards.
