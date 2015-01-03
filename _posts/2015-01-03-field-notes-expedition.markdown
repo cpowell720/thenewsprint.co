@@ -81,6 +81,8 @@ That's why I love Expedition. I can take it anywhere and never worry about my no
 
 Feel how you may about Expedition. In the end, just remember: Expedition was probably not designed with you in mind. Unless, of course, you are reading this in the Antarctic or you are holding your breath underwater.
 
+---
+
 [^1]:	As Manitoban weather has finally decided to warm up, I didn't get a chance to test ballpoint ink drying times in the dead cold of winter. Dry cold may help speed up drying times but I would need someone to confirm this for me.
 
 [^2]:	 There is a reason Field Notes Brand so heavily markets the [Fisher Space Pen](http://www.spacepen.com) for use with Expedition. The Space Pen is a ballpoint pen that is immune to many of the shortfalls of standard ballpoints. I have one on the way but couldn't hold back this review just to test the pen. I will test its capabilities in Expedition once I get it and I will make sure to let you know the results.
