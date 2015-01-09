@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Fisher Bullet Space Pen
-date: 2014-05-05 20:45
+date: "2014-05-05 20:45"
 categories: featured
+published: true
 ---
 
 ---
@@ -63,7 +64,7 @@ When held in the awkward posture of little angle to the paper, the Space Pen wri
 
 There’s no difference in feel between a gravity-dependent cartridge and a Fisher pressurized cartridge. Between the blunt tip and the awkward writing angle, you can bet I’ll be up for a fine cartridge when I purchase my next refill.
 
-## Verdict
+### Verdict
 
 I think it’s pretty obvious who the Fisher Bullet Space Pen was made for.[^2] The pressurized cartridges can write anywhere and in anything, but on general paper, they barely hold their own. The pen isn’t comfortable to hold and its minimal and portable design makes it very susceptible to misplacement.
 
