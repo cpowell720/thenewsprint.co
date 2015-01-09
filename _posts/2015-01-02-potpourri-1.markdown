@@ -2,7 +2,6 @@
 layout: post
 title: "Potpourri #1"
 date: "2015-01-02 9:30"
-categories: featured
 published: true
 ---
 
@@ -110,4 +109,4 @@ If you give them a shot, let me know what you think. I’m always up for a discu
 
 ---
 
-[^1]:	I almost purchased a bottle of Glenmorangie 12 Year Old - The Quinta Ruban. After reading Álvarro’s article, I shied away. Álvarro’s scotch whisky reviews are awesome. No doubt I’ll head out on his word when I’ve finished this bottle to pick up a Glenfiddich of sorts. And, with that said, I recommend Álvarro give this Bowmore 12 Year a fair shake. I’m curious about his thoughts afterwards.
+[^1]:	I almost purchased a bottle of Glenmorangie 12 Year Old - The Quinta Ruban. After reading Álvarro’s article, I shied away. Álvarro’s scotch whisky reviews are awesome. No doubt I’ll head out on his word when I’ve finished this bottle to pick up a Glenfiddich of sorts. And, with that said, I recommend Álvarro give this Bowmore 12 Year a fair shake. I’m curious about his thoughts afterwards
