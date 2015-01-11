@@ -2,7 +2,6 @@
 layout: post
 title: Fisher Bullet Space Pen
 date: "2014-05-05 20:45"
-categories: featured
 published: true
 ---
 
@@ -90,4 +89,4 @@ _You can support The Newsprint by purchasing a Fisher Bullet Space Pen [here](ht
 
 [^1]: Save for the terrible experience of having a Chrome Bullet Space Pen slide out of my pocket into the deepest parts of my parents-in-law’s couch. I don’t think I’ll see that pen ever again. 
 
-[^2]: Astronauts! Duh!
+[^2]: Astronauts! Duh
