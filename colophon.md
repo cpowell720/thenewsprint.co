@@ -19,11 +19,14 @@ The Newsprint's custom design was created by Josiah Wiebe of [Collectif](http://
 
 **Contact**
 
-Feel free to send an email (josh@thenewsprint.co) any time. I'll get back to you as soon as possible.
-
+Email: desk@thenewsprint.co
 Follow The Newsprint's Twitter account: [@thenewsprint](https://twitter.com/thenewsprint)
 
 Follow my personal Twitter account: [@joshuaginter](https://twitter.com/joshuaginter)
+
+Feel free to send an email any time. I'll get back to you as soon as possible.
+
+I love reviewing and photographing new products. If you have a product you would like reviewed, get in touch.
 
 **Affiliate Link Policy**
 
