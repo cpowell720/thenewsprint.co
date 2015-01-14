@@ -118,6 +118,24 @@ As I continue to traverse through this awesome hobby and as I continue to post t
 
 ---
 
+### Addendum
+
+Ben Brooks [wrote a nice response](https://brooksreview.net/2015/01/the-great-glass/) to some of my thoughts above, and he correctly touches on an aspect that I didn't drive home well enough.
+
+Without a doubt, great glass **does not need to be expensive.** There are some *incredible* lenses which don't put a dent in your chequing account. Ben talks about the famous "nifty-fifty" lens found in Canon's DSLR lens selection and how it is one of the best lenses to buy. 
+
+He also goes on further:
+
+> There are some things that you can and cannot do with certain lenses, but more importantly than what you can’t do, is knowing those constraints. You can, and people do, take extraordinary photos with subpar camera equipment.
+
+This is the point I tried to make in my second footnote below. There is nothing saying inexpensive lenses are incapable of taking great photographs. Even my Panasonic Lumix 20mm, which is inexpensive in relation to DSLR lenses or high end M4/3 lenses, can take phenomenal photos. All my best work has come from that lens and it cost a mere $400.
+
+I'll be sure next time to be more direct about this point. You do not need to spend piles of money to take good photographs.[^3] You will, however, need to do your research and find lenses that *are* great to achieve the look and quality you are striving for.
+
+---
+
 [^1]: Please excuse my dismissal of impressive fixed-lens mirrorless cameras. New mirrorless cameras like the [Fujifilm X100T](http://www.amazon.com/gp/product/B00NF6ZGY6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NF6ZGY6&linkCode=as2&tag=thenews02-20&linkId=6GUKUZMIDAWZFMPK) can create breathtaking images, but cameras like these are far from my specialty. I  know next to nothing about this facet of the mirrorless camera world, so I'll push it off to the side for the time being. 
 
 [^2]: High quality does not always equate to high price. You can produce incredible images with cheaper lenses. Comparatively speaking, the Panasonic Lumix 20mm lens is cheap compared to the [Olympus 12-40mm f/2.8 zoom lens](http://www.amazon.com/gp/product/B00EY3YGBS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EY3YGBS&linkCode=as2&tag=thenews02-20&linkId=VAUEDAPRXBZTBGTQ) and they appear to create about the same quality of image. However, the high-end Olympus zoom offers weather proofing, brilliant AF/MF control, and vastly improved autofocus. So, while you don't need to spend oodles of cash to get great images, higher priced M4/3 lenses *do* offer benefits that you can't get in cheaper lenses.
+
+[^3]: If you need more proof of this, check out Digital Rev TV's awesome *Pro Photographer, Cheap Camera* YouTube series. Some of the best photographers in the world grab the cheapest cameras imagineable and create work I could only dream of creating. They have used Lego cameras in this series for Pete's sake. Talent *always* overcomes poor equipment.
