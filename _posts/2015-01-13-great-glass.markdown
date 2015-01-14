@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Great Glass
-date: 2015-01-13 19:30
+date: "2015-01-13 19:30"
 categories: featured
+published: true
 ---
 
-If you've been reading The Newsprint over the last eight or nine months, you will have followed every step of my newfound hobby. The biggest lesson I have learned about camera gear in that time is that the camera body has little to do with great image quality. Whichever camera system you choose to buy into, **do not** buy into the system for the sake of great camera bodies. Instead, buy into a system based on the glass you can buy.
+If you've read The Newsprint over the last eight or nine months, you will have followed every step of my newfound hobby. The biggest lesson I have learned about camera gear in that time is that the camera body has little to do with great image quality. Whichever camera system you choose to buy into, **do not** buy into the system for the sake of great camera bodies. Instead, buy into a system based on the glass you can buy.
 
 Amongst my circle of friends, I'm noticing a trend away from "smartphone-as-my-only-camera" and towards mirrorless cameras. Some of my Twitter friends have messaged me regarding the strengths of the Micro Four Thirds system and, most recently, my brother-in-law jumped into the Olympus family.[^1]
 
