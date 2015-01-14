@@ -20,6 +20,7 @@ The Newsprint's custom design was created by Josiah Wiebe of [Collectif](http://
 **Contact**
 
 Email: desk@thenewsprint.co
+
 Follow The Newsprint's Twitter account: [@thenewsprint](https://twitter.com/thenewsprint)
 
 Follow my personal Twitter account: [@joshuaginter](https://twitter.com/joshuaginter)
