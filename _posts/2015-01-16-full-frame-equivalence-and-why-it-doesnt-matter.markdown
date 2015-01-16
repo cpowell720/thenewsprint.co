@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Full Frame Equivalence" and Why It Doesn’t Matter"
+title: Full Frame Equivalence and Why It Doesn’t Matter
 date: 2015-01-16 12:00
 link: http://admiringlight.com/blog/full-frame-equivalence-and-why-it-doesnt-matter/
 ---
