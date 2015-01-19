@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Hobonichi Techo
-date: 2015-01-19 9:15
+date: "2015-01-19 9:15"
 categories: featured
+published: true
 ---
 
 I’ll step up and proclaim it loudly: the Hobonichi Techo is the best planner in the world. 
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-3.jpg)
+![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-2.jpg)
 
 The Hobonichi Techo is made in Japan by [Hobo Nikkan Itoi Shinbun](http://www.1101.com/iwata/2007-09-12.html) and has been around since 2001.[^1] In 2012, Hobo Nikkan Itoi Shinbun teamed up with [ARTS&SCIENCE](http://www.arts-science.com) — a store headed by stylist Sonya Park — to bring the popular Techo to the English language.
 
@@ -15,7 +16,7 @@ I’m a little late to the Hobonichi party. I only became entranced in the pen a
 
 In hindsight, I definitely should have [bought the Techo](http://www.1101.com/store/techo/2015/planner/detail_cover/c_hpr.html) in the summer.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-2.jpg)
+![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-3.jpg)
 
 There are a couple things which make the Techo stand out from the rest of the crowd. Its compact size, its page-per-day format, and its Tomoe River paper make it a true jack-of-all-trades in the planner world. So much so, in fact, that I don’t necessarily think it’s fair to call the Techo a “planner” per se. The Techo could be used as a planner, but it could instead be used as a journal, a daily log, or a simple notebook. Its utility is endless.
 
@@ -83,4 +84,4 @@ Not that we are representative of everyone, but if the [Hobonichi Techo](http://
 
 ---
 
-[^1]: Turns out "Hobonichi" means ["almost everyday" in Japanese](http://en.m.wikipedia.org/wiki/Hobonichi). How fitting. 
+[^1]: Turns out "Hobonichi" means ["almost everyday" in Japanese](http://en.m.wikipedia.org/wiki/Hobonichi). How fitting.
