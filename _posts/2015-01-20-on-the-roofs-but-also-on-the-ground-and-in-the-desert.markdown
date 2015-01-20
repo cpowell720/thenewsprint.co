@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Roofs, but Also on the Ground and in the Desert
+title: On the Roofs, but Also on the Ground, and in the Desert
 date: 2015-01-20 15:00
 link: http://ontheroofs.com/chicago-california/
 ---
