@@ -9,4 +9,4 @@ Chris Plante of *The Verge* talking about his regret of using a smartphone camer
  
 >  I remember how phone photos looked acceptable — close enough to film that I couldn’t really tell the difference. But now it’s obvious these pictures have their own fussy disposable camera-like qualities. They’re almost universally flat, grainy, and small. And because the phones' cameras couldn’t handle even the slightest hint of darkness, they're scorched by the world’s cheapest flash.
  
-Don't fall into the trap Chris did. Be proactive, buy a real camera, and take real photographs that look great decades into the future.
+Don't fall into the same trap Chris fell into. Be proactive, buy a real camera, and take real photographs that look great decades into the future.
