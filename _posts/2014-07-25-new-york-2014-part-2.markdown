@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 'New York 2014: Part 2'
-date: '2014-07-25 15:00:50'
+title: "New York 2014: Part 2"
+date: "2014-07-25 15:00:50"
+published: true
 ---
 
-![](http://static.thenewsprint.co/media/2014/Jul/P7200514.jpg)
+*![](http://static.thenewsprint.co/media/2014/Jul/P7200514.jpg)*
 
 *This is Part 2 of a 2 part series on our short weekend trip to New York City. You can view Part 1 [here.](http://www.thenewsprint.co/2014/07/23/new-york-2014-part-1/)*
 
@@ -12,14 +13,14 @@ date: '2014-07-25 15:00:50'
 
 Day three of our trip marked our first anniversary. If I was shooting for a romanticized version of the day, I must have utterly failed — we went to a Yankees game instead.
 
-![](http://static.thenewsprint.co/media/2014/Jul/P7180205.jpg)
-![](http://static.thenewsprint.co/media/2014/Jul/P7190388.jpg)
+*![](http://static.thenewsprint.co/media/2014/Jul/P7180205.jpg)*
+*![](http://static.thenewsprint.co/media/2014/Jul/P7190388.jpg)*
 
 Our hotel was right beside Grand Central. This gave us instant access to New York's subway system. It also gave us access to New York's immense crowds. I'm sure the photo above isn't bad compared to high time at the end of the work day. But this number of people in one location is too much for me.
 
 Luckily, our trip to Yankee Stadium was far less terrifying than our journey to the Bronx Zoo. It was pretty easy to spot who was going to the game as well — everyone on the subway was wearing some sort of Yankee memorabilia.
 
-![](http://static.thenewsprint.co/media/2014/Jul/P7200526.jpg)
+*![](http://static.thenewsprint.co/media/2014/Jul/P7200526.jpg)*
 
 The Yankees played the Cincinnati Reds this past Sunday and were gunning for a three game sweep. The game started with an incredible parachute display of an American military parachute team. No less than 10 jumpers jumped from 15,000 to 20,000 feet and landed gracefully in the Yankee outfield.
 
@@ -29,7 +30,7 @@ Equally incredible was the attendance at a fairly meaningless game in the middle
 
 That support kind of makes sense though. Yankee history is packed with more monstrous names than any other team in baseball history — maybe in professional sports history. 
 
-![](http://static.thenewsprint.co/media/2014/Jul/P7200615.jpg)
+*![](http://static.thenewsprint.co/media/2014/Jul/P7200615.jpg)*
 
 The biggest of those great names for someone my age is Derek Jeter. I grew up emulating Jeter as a shortstop. He plays with a deep respect for the game and the people involved. It was such a treat to watch the greatest shortstop in Yankee history.
 
@@ -56,8 +57,8 @@ Access to a tour guide also makes a bus tour worth the money. Learning about the
 
 If you hop on a bus tour, I recommend getting there early and trying to get a front or back seat. Sitting in the middle of the bus quickly eliminates the best photo opportunities.
 
-![](http://static.thenewsprint.co/media/2014/Jul/P7200667.jpg)
-![](http://static.thenewsprint.co/media/2014/Jul/P7200676.jpg)
+*![](http://static.thenewsprint.co/media/2014/Jul/P7200667.jpg)*
+*![](http://static.thenewsprint.co/media/2014/Jul/P7200676.jpg)*
 
 Despite all our walking, my wife and I hadn't had the chance to walk past the Flatiron Building. There are countless beautiful buildings in New York City, but something about the Flatiron Building left me starstruck. 
 
@@ -105,7 +106,7 @@ The tour guide on our bus tour said that Juliana's — home of the original Grim
 
 Our walk back to the subway was the hardest walk my wife and I made during the trip. Our trip to Brooklyn was the cherry on top of the cake and left a fabulous taste in our mouth as we left the city. Had we not visited Brooklyn and Dumbo, we probably would be looking at our weekend as the last time we set foot in New York City.
 
-![](http://static.thenewsprint.co/media/2014/Jul/P7210817.jpg)
+*![](http://static.thenewsprint.co/media/2014/Jul/P7210817.jpg)*
 
 Instead, our trip was part of a "To Be Concluded" saga. On our two short trips to the city, we have yet to truly explore Central Park and we have yet to visit the MoMA.
 
