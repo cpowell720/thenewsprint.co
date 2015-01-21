@@ -1,10 +1,11 @@
 ---
 layout: post
 title: TWSBI Diamond 580AL
-date: '2014-08-27 13:44:05'
+date: "2014-08-27 13:44:05"
+published: true
 ---
 
-![](http://static.thenewsprint.co/media/2014/Aug/P8230284.jpg)
+_![](http://static.thenewsprint.co/media/2014/Aug/P8230284.jpg)_
 
 It's been pointed out to me that fountain pens are one of the deepest, darkest rabbit holes you can venture into. Once you try a fountain pen there's no going back. 
 
@@ -27,7 +28,7 @@ The 580AL's unboxing experience set the stage for the pen's grand entrance. The 
 
 Underneath and inside the TWSBI's display case is a small amount of lubricant that you can use to lubricate the 580AL's many parts. TWSBI also includes a wrench to take apart the pen's piston filling system, allowing for simple cleaning and simple maintenance of the pen. 
 
-![](http://static.thenewsprint.co/media/2014/Aug/P8230293.jpg)
+_![](http://static.thenewsprint.co/media/2014/Aug/P8230293.jpg)_
 
 The Diamond 580AL is known for its clear, transparent body that pulls the drapes for all to see. The body is sleek, modern and comfortably durable. The 580AL is heavier than the Lamy Safari and, as a result, the entire pen has a higher quality feel.
 
@@ -57,7 +58,7 @@ But at least I could never see it.
 
 The 580AL's transparent cap bares all and looks untidy and messy. I find this to be the only downfall of TWSBI's "nothing to hide" design. 
 
-![](http://static.thenewsprint.co/media/2014/Aug/P8230324.jpg)
+_![](http://static.thenewsprint.co/media/2014/Aug/P8230324.jpg)_
 
 On the flip side, TWSBI's bare-all design is ingenius with its 580AL ink reservoir. I don't think there's anything cooler than seeing my ink slosh around as I write or as I pull it from my messenger bag. The next best thing to an eyedropper pen is the TWSBI's transparent pen body.
 
@@ -65,19 +66,19 @@ It's more than just seeing your ink slosh around though. Being able to see your 
 
 Moreover, this essentially makes every 580AL unique to its owner. Granted, there are many other 580AL owners who are sporting [Iroshizuku Kon-Peki](http://www.amazon.com/gp/product/B003MVKFRW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003MVKFRW&linkCode=as2&tag=thenews02-20&linkId=N5ZDOEYYCU322OZ6), but perhaps you won't run into one of those people each and every day. Add in a [Sailor Jentle Apricot](http://www.penaddict.com/blog/2013/8/1/sailor-jentle-apricot-orange-ink-review) ink and you're sure to be the coolest kid on the block.  This transparent pen body is easily my favourite part of the TWSBI 580AL.
 
-![](http://static.thenewsprint.co/media/2014/Aug/P8230331.jpg)
+_![](http://static.thenewsprint.co/media/2014/Aug/P8230331.jpg)_
 
 I remember stating in my Safari review that fine etchings in nibs were not to my taste. 
 
 Turns out I was inexperienced and ignorant. 
 
-![](http://static.thenewsprint.co/media/2014/Aug/P8230328.jpg)
+_![](http://static.thenewsprint.co/media/2014/Aug/P8230328.jpg)_
 
 The 580AL's nib looks great and I still find myself awestruck when peering down the pen in the middle of a pen-stroke. 
 
 The 580AL's nib is also far larger than the Safari's nib. I'm not sure what the implications are with the size of a nib, but I feel far more empowered when using a large nib. I can't imagine what it must feel like to use one of those massive Masuyama nibs on a [Franklin-Christoph](http://www.penaddict.com/blog/2013/12/2/franklin-christoph-model-40-pocket-fountain-pen-review).
 
-![](http://static.thenewsprint.co/media/2014/Aug/P8230330.jpg)
+_![](http://static.thenewsprint.co/media/2014/Aug/P8230330.jpg)_
 
 The grip section is made of aluminum and aids the durability of the pen. However, the placement of the threads to hold the cap in place can be problematic. I hold the pen further up the grip than normal and the threads are sharp enough to dig into my fingertip after extended use.  
 
@@ -90,7 +91,7 @@ Last but not least, the TWSBI Diamond 580AL, like the other TWSBI 580 models, is
 
 Like filling a converter, twisting the top of the 580AL pushes the piston down towards the nib and prepares the pen to be filled. Immersing the nib and feed unit in ink and twisting the pen's top should fill the reservoir with your favourite ink. 
 
-![](http://static.thenewsprint.co/media/2014/Aug/P8230391.jpg)
+_![](http://static.thenewsprint.co/media/2014/Aug/P8230391.jpg)_
 
 I've been blown away by the ease of the 580AL's piston system. Emptying the ink reservoir and flushing out the pen body allows for a faster ink switch than any pen that utilizes converters. It's also super easy to fill the pen when you've reached the last few drops of ink — which probably won't happen that often due to the amount of ink the 580AL can hold.
 
@@ -108,7 +109,7 @@ The TWSBI fine nib is more picky. The nib misbehaves if the pen twists in my han
 
 <p>Luckily, where the Safari&#8217;s nib performed admirably at awkward angles, it fell short in terms of nib flexibility. Although the TWSBI&#8217;s nib is made of steel, there is still more flex to be had to vary its line widths.<a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a> Dipping my toe into a more flexible nib makes me want to dive into the <a href="http://www.amazon.com/gp/product/B00063NUVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00063NUVM&amp;linkCode=as2&amp;tag=thenews02-20&amp;linkId=ZIJLC45TFHIFFTCV">Pilot/Namiki Falcon</a> in the future.</p>
 
-![](http://static.thenewsprint.co/media/2014/Aug/P8240013.jpg)
+_![](http://static.thenewsprint.co/media/2014/Aug/P8240013.jpg)_
 
 Fully loaded with ink, the TWSBI Diamond 580AL has a comfortable weight. Ignoring the thread placement, writing with the 580AL for extended periods of time is a breeze. There's no need to post the cap as the pen's weight is evenly distributed throughout the body. 
 
