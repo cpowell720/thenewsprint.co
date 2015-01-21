@@ -39,7 +39,7 @@ We opened some presents, but our Christmas lists get shorter every year. I prefe
 
 I’m increasingly thankful for family gatherings at Christmas time. A little known benefit of marriage is that you end up venturing to two (or more) gatherings during the biggest holidays of the year. As the week shifted to Jaclyn’s family, card games were pushed aside and the young children took center stage.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC251605.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC251605.jpg)_
 _![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271786.jpg)_
 
 These little guys have a way of melting all our hearts.
