@@ -19,6 +19,10 @@ img {
   max-width: 100%;
   border-radius: 0.25rem; }
 
+em img {
+  max-width: 51rem;
+  margin-left: -7rem; }
+
 picture {
   display: block; }
 
