@@ -8,7 +8,7 @@ module.exports = function(grunt) {
             dist: {
                 options: {
                     style: 'compressed',
-                    includePaths: require('node-neat').includePaths
+                    	includePaths: require('node-neat').includePaths
                 },
                 files: {
                     'style.css': '_assets/scss/style.scss'
