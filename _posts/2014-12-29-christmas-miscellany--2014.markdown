@@ -60,7 +60,7 @@ _![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271706.jpg)_
 Stunning.[^1]
 
 _![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271721.jpg)_
-![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC251589.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC251589.jpg)_
 
 Overall, this has been my favourite Christmas yet. Exchanging gifts fell by the wayside while family and friends took over. I couldn’t ask for anything more. 
 
