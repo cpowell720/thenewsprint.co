@@ -7,8 +7,8 @@ published: true
 
 Christmas Day landed on a Thursday this year, meaning Jaclyn and I have had almost an entire week away from the office, away from school work, and away from major distractions. It has been awesome.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271759.jpg)
-![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC261617.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271759.jpg)_
+_![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC261617.jpg)_
 
 My brother-in-law and sister-in-law brought their family out for the Christmas celebration, so it was a great chance to whip out the camera and snap some photos of their young children. 
 
@@ -40,7 +40,7 @@ We opened some presents, but our Christmas lists get shorter every year. I prefe
 I’m increasingly thankful for family gatherings at Christmas time. A little known benefit of marriage is that you end up venturing to two (or more) gatherings during the biggest holidays of the year. As the week shifted to Jaclyn’s family, card games were pushed aside and the young children took center stage.
 
 ![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC251605.jpg)
-![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271786.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271786.jpg)_
 
 These little guys have a way of melting all our hearts.
 
@@ -55,11 +55,11 @@ We got a chance to play in the snow before it got blistering cold.
 
 I even had a chance to play with a Christmas present I had been saving for for quite some time. I’ll shoot to have a bit more on my new toy in the future.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271706.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271706.jpg)_
 
 Stunning.[^1]
 
-![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271721.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC271721.jpg)_
 ![](http://thenewsprint.s3.amazonaws.com/media/2014/12/PC251589.jpg)
 
 Overall, this has been my favourite Christmas yet. Exchanging gifts fell by the wayside while family and friends took over. I couldn’t ask for anything more. 
