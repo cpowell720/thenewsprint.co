@@ -140,7 +140,7 @@ Below are some of my favourite — and hopefully best — photographs I've shot 
 
 _![Olympus OM-D E-M10 + Panasonic Lumix G 20mm f/1.7 II — Edited](http://static.thenewsprint.co/media/2014/Sep/P6240032.jpg)_
 _![Olympus OM-D E-M10 + Olympus M.Zuiko Digital ED 14-42mm F3.5-5.6 II R — Edited](http://static.thenewsprint.co/media/2014/Sep/P6050147-2.jpg)_
-![Olympus OM-D E-M10 + Olympus M.Zuiko Digital ED 14-42mm F3.5-5.6 II R — Unedited]_(http://static.thenewsprint.co/media/2014/Sep/P6150097.jpg)_
+_![Olympus OM-D E-M10 + Olympus M.Zuiko Digital ED 14-42mm F3.5-5.6 II R — Unedited](http://static.thenewsprint.co/media/2014/Sep/P6150097.jpg)_
 
 When browsing through my photo library, I was very surprised to find this photo unedited and shot with the kit lens. The bokeh in the background is hazy, but I was pleasantly reassured that a Micro Four Thirds sensor was still capable of blowing out backgrounds at f/3.5.
 
