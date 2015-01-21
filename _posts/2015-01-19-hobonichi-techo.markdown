@@ -8,7 +8,7 @@ published: true
 
 I’ll step up and proclaim it loudly: the Hobonichi Techo is the best planner in the world. 
 
-_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-2.jpg)_
+![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-2.jpg)
 
 The Hobonichi Techo is made in Japan by [Hobo Nikkan Itoi Shinbun](http://www.1101.com/iwata/2007-09-12.html) and has been around since 2001.[^1] In 2012, Hobo Nikkan Itoi Shinbun teamed up with [ARTS&SCIENCE](http://www.arts-science.com) — a store headed by stylist Sonya Park — to bring the popular Techo to the English language.
 
