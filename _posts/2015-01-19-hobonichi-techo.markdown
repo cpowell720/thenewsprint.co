@@ -8,7 +8,7 @@ published: true
 
 I’ll step up and proclaim it loudly: the Hobonichi Techo is the best planner in the world. 
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-2.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-2.jpg)_
 
 The Hobonichi Techo is made in Japan by [Hobo Nikkan Itoi Shinbun](http://www.1101.com/iwata/2007-09-12.html) and has been around since 2001.[^1] In 2012, Hobo Nikkan Itoi Shinbun teamed up with [ARTS&SCIENCE](http://www.arts-science.com) — a store headed by stylist Sonya Park — to bring the popular Techo to the English language.
 
@@ -34,7 +34,7 @@ With that said though, I envision buying a [leather cover](https://www.etsy.com/
 
 The edge of the Techo's pages have been encoded to help you jump to the right month when opening the book. Like many other planners, this is a nice touch for organization purposes.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-10.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-10.jpg)_
 
 The Techo has been designed with a lay-flat binding that is impeccable. Every page, almost anywhere in the book, can lay flat on a table. The pages are bound in a special stitch binding that is difficult to distinguish with the naked eye. If you’re really ambitious, the book can fold around on itself as well.
 
@@ -46,7 +46,7 @@ The minimal covers protect the pure treasure found inside the Hobonichi Techo: T
 
 Tomoe River paper offers the best writing experience. The paper is ultra smooth and ultra absorbent for the wettest fountain pens. Putting nib to paper offers an almost surreal touch that has yet to get old after about a month of use. There are no hiccups or bumps along the way — whichever pen you choose, you’re sure to enjoy writing in this book.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-11.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-11.jpg)_
 
 Somehow, some way, Tomoe River paper is also impossibly thin. The paper feels as thin as the paper found in Bibles. This paper thinness allows the Techo to pack a full page-per-day format all within a compact 1/2” to 3/4” thick book. 
 
