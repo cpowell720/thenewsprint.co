@@ -27,6 +27,13 @@ em img {
   margin-left: -7rem;  
 }
 
+@media screen and (max-width: 53rem) {
+  em img {
+    max-width: 100%;
+    margin-left: 0;
+  }
+}
+
 picture {
   display: block;
 }
