@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'New York 2014: Part 1'
-date: '2014-07-23 14:07:30'
+title: "New York 2014: Part 1"
+date: "2014-07-23 14:07:30"
+published: true
 ---
 
 *This is Part 1 of a 2 part series on our short weekend trip to New York City. You can view Part 2 [here.](http://www.thenewsprint.co/2014/07/25/new-york-2014-part-2/)*
@@ -12,7 +13,7 @@ Despite my recent obsession with pens and paper, I didn't create The Newsprint f
 
 ---
 
-![](http://static.thenewsprint.co/media/2014/Jul/P7190446.jpg)
+*![](http://static.thenewsprint.co/media/2014/Jul/P7190446.jpg)*
 
 My wife and I visited New York City this past weekend to celebrate our first anniversary and to take a needed weekend off. Relaxation isn't one of New York's strong points however.
 
