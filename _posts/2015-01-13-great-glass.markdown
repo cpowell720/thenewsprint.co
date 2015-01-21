@@ -35,11 +35,11 @@ But then we saw the difference between the two lenses.
 
 Our images went from this:
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-Zoom-1.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-Zoom-1.JPG)_
 
 To this:
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-20mm-1.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-20mm-1.JPG)_
 
 Both of these images were setup with a reflector to the left and natural light shining through a large window on the right. The Panasonic 20mm lens captured a cool image with auto white balance at f/1.7, ISO 200, and a shutter speed of 1/250. The kit lens shot auto white balance at f/4.0, ISO 200, and 1/60 shutter speed. 
 
@@ -47,11 +47,11 @@ Immediately you can see the massive difference in sharpness from one lens to the
 
 Here's another great example. This first image was shot with the kit lens:
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-Zoom-2.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-Zoom-2.JPG)_
 
 And this was shot with the 20mm pancake:
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-20mm-2.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-20mm-2.JPG)_
 
 Look at the sharpness difference around the iPhone's base. The 20mm pancake lens produced an incredibly sharp image with no reflector help, while the kit lens loses image quality due to its poor f/4.0 speed.
 
@@ -59,7 +59,7 @@ Also notice the depth of field in these last two images. The kit lens slightly b
 
 And, for comparison sake, here is that same iPhone with the Olympus 75mm f/1.8.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-75mm-2.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-75mm-2.JPG)_
 
 Pretty impressive.
 
@@ -67,15 +67,15 @@ To really drive home my point, here's a third example.
 
 The Olympus 12-24mm kit lens:
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-Zoom-3.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-Zoom-3.JPG)_
 
 The Panasonic 20mm pancake lens:
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-20mm-3.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-20mm-3.JPG)_
 
 And the Olympus 75mm portrait lens:
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-75mm-1.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-75mm-1.JPG)_
 
 The difference in sharpness from one lens to the next is mind-blowing, as is the depth of field control with the non-kit lenses.
 
@@ -103,7 +103,7 @@ There are other benefits of absorbing that higher price tag as well. Higher qual
 
 Higher quality lenses also come with options to attach different lens filters and lens hoods. The Olympus 75mm lens has a threaded face to screw in after-market filters.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-7.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-7.JPG)_
 
 Top-of-the-line lenses often offer weather-proofing and can withstand water, dust, and cold temperatures. This increased durability often comes with an all-metal build instead of breakable plastic.
 
