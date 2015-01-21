@@ -35,11 +35,11 @@ But then we saw the difference between the two lenses.
 
 Our images went from this:
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-Zoom-1.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-Zoom-1.JPG)_
 
 To this:
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-20mm-1.JPG)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/All-About-Glass-20mm-1.JPG)_
 
 Both of these images were setup with a reflector to the left and natural light shining through a large window on the right. The Panasonic 20mm lens captured a cool image with auto white balance at f/1.7, ISO 200, and a shutter speed of 1/250. The kit lens shot auto white balance at f/4.0, ISO 200, and 1/60 shutter speed. 
 
