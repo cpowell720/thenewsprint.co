@@ -8,7 +8,12 @@ published: true
 
 I’ll step up and proclaim it loudly: the Hobonichi Techo is the best planner in the world. 
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-2.jpg)
+---
+***Update**: Check out the wide images! Hat tip to Kyle Dreger of [Audacious Fox](http://audaciousfox.com/2015/01/19/beautiful-images-with-css.html) for the idea and [Josiah Wiebe](http://collectif.co/) for implementing the code.*
+
+---
+
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-2.jpg)_
 
 The Hobonichi Techo is made in Japan by [Hobo Nikkan Itoi Shinbun](http://www.1101.com/iwata/2007-09-12.html) and has been around since 2001.[^1] In 2012, Hobo Nikkan Itoi Shinbun teamed up with [ARTS&SCIENCE](http://www.arts-science.com) — a store headed by stylist Sonya Park — to bring the popular Techo to the English language.
 
@@ -34,11 +39,11 @@ With that said though, I envision buying a [leather cover](https://www.etsy.com/
 
 The edge of the Techo's pages have been encoded to help you jump to the right month when opening the book. Like many other planners, this is a nice touch for organization purposes.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-10.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-10.jpg)_
 
 The Techo has been designed with a lay-flat binding that is impeccable. Every page, almost anywhere in the book, can lay flat on a table. The pages are bound in a special stitch binding that is difficult to distinguish with the naked eye. If you’re really ambitious, the book can fold around on itself as well.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-7.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-7.jpg)_
 
 The minimal covers protect the pure treasure found inside the Hobonichi Techo: Tomoe River paper. The Techo is the first notebook I’ve purchased that has come with Tomoe River paper, and after reading about Tomoe River’s incredible qualities, I was chomping at the bit to understand what all the fuss was about.
 
@@ -46,7 +51,7 @@ The minimal covers protect the pure treasure found inside the Hobonichi Techo: T
 
 Tomoe River paper offers the best writing experience. The paper is ultra smooth and ultra absorbent for the wettest fountain pens. Putting nib to paper offers an almost surreal touch that has yet to get old after about a month of use. There are no hiccups or bumps along the way — whichever pen you choose, you’re sure to enjoy writing in this book.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-11.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-11.jpg)_
 
 Somehow, some way, Tomoe River paper is also impossibly thin. The paper feels as thin as the paper found in Bibles. This paper thinness allows the Techo to pack a full page-per-day format all within a compact 1/2” to 3/4” thick book. 
 
@@ -72,7 +77,7 @@ The back of the Techo is packed with interesting information for some casual rea
 
 The front of the Techo has a section dedicated to monthly calendars with a nice to-do list on the left margin, as well as a very unique monthly index. I *love* this monthly index — each week, I go back and recap my week by writing out the theme or major activity of each day in the index. This way, in the future, I’ll be able to visit the front index and quickly find out the major events of my life without having to flip through the entire book.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-6.jpg)
+_![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Hobonochi-Techo-6.jpg)_
 
 There are a *ton* of features packed into the Hobonichi Techo. The outside cover is very thick and isn’t susceptible to bending or edge fraying. The innard Tomoe River paper is a seemingly impossible dream come true, from the writing experience through to its thinness. And the overall format of the Techo planner system is well thought out and conducive for heavy organization and planning. 
 
