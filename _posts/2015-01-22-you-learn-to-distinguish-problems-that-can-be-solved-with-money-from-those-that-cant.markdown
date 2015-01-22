@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ““You learn to distinguish problems that can be solved with money from those that can’t.””
+title: “You learn to distinguish problems that can be solved with money from those that can’t.”
 date: 2015-01-22 13:30
 link: https://news.ycombinator.com/item?id=1511104
 ---
@@ -13,4 +13,4 @@ The little devil on my shoulder would tell me to take a vacation and buy a Herma
  
 *As a side note, excuse some of the verbiage in this thread – the general idea is what I want to share, not the excessive use of informal language.*
  
-(Via [The Pickle Theory]( http://pickletheory.com/292/fuck-money/))
+(Via [The Pickle Theory]( http://pickletheory.com/292/fuck-money/)
