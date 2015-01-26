@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Field Notes: Roastery
+title: "Field Notes: Roastery"
 date: 2015-01-26 08:55
 categories: featured
 ---
