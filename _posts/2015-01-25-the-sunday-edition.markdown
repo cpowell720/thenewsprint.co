@@ -2,6 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: 2015-01-25 09:21
+categories: sundayedition
 ---
 
 The most difficult part about compiling The Sunday Edition each week is choosing whether to link to the article during the week or to include it on Sunday. Generally, if I have something extra to say, it gets linked during the week. If I think the article is awesome and agree 100% with the author’s work, it becomes part of The Sunday Edition.
@@ -33,4 +34,4 @@ As always, enjoy your afternoon cup of coffee with these awesome links.
 
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Starry-Sky-January-2015.jpeg)*
 
-Happy Sunday.
+Happy Sunday
