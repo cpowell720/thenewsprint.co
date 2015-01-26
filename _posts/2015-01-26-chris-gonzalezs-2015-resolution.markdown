@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Chris Gonzalez’s 2015 Resolution
+title: Chris Gonzales' 2015 Resolution
 date: 2015-01-26 12:30
 link: http://www.sparkjournal.net/journal/2015/1/my-resolution-for-2015
 ---
  
-Mr. Gonzalez’s resolution:
+Mr. Gonzales' resolution:
  
 > Eliminate as much cynicism and negativity from my life as possible.
  
@@ -15,6 +15,6 @@ Negative writing will drive tremendous traffic in one-off spurts, especially if 
 
 For example, the area that bugs me most are those little tweets on Twitter that don’t mention anyone but obviously imply the author’s disagreement with the subject. If the negative aspect of one’s thoughts *must* be published, then have the decency to tag the subject so they can more fully appreciate the complexity of the picture. If it’s not worth the inevitable negative feedback, then just write it down in your journal for yourself. Twitter has become a haven for subtweeting and it does nothing to help the growth of our colleagues.
  
-As many [have pointed out recently](http://www.marco.org/2015/01/05/popular-for-a-day), leaving a legacy of positivity is far more fulfilling than the notion of tearing everyone else down. Mr. Gonzalez’s 2015 resolution hits the 2014 nail on the head, and I’m so grateful there are people willing to look inwardly and admit they need a positive boost.
+As many [have pointed out recently](http://www.marco.org/2015/01/05/popular-for-a-day), leaving a legacy of positivity is far more fulfilling than the notion of tearing everyone else down. Mr. Gonzales' 2015 resolution hits the 2014 nail on the head, and I’m so grateful there are people willing to look inwardly and admit they need a positive boost.
  
-Thanks Chris for your openness and all the best on achieving your 2015 resolution.
+Thanks Chris for your openness and all the best on achieving your 2015 resolution
