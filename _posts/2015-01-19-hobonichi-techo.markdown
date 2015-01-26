@@ -2,7 +2,6 @@
 layout: post
 title: Hobonichi Techo
 date: "2015-01-19 9:15"
-categories: featured
 published: true
 ---
 
