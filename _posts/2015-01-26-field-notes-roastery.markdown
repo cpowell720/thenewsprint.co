@@ -2,7 +2,6 @@
 layout: post
 title: "Field Notes: Roastery"
 date: 2015-01-26 08:55
-categories: featured
 ---
 
 Occasionally, Field Notes Brand releases exclusive editions of their notebooks for companies or events. [XOXO Festivals](http://fieldnotesbrand.com/glitch/) and TED Talks events have had exclusive editions created just for their attendees. [JC Penney](https://www.flickr.com/photos/brinstar/8602173438/) and [Levi's](http://fieldnotesbrand.com/2010/07/08/levis-and-field-notes/) have also had editions created that were sold exclusively in their stores.
