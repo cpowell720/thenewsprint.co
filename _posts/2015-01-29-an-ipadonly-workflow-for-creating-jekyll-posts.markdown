@@ -1,8 +1,9 @@
 ---
 layout: post
-title: An iPad-Only Workflow for Creating Jekyll Posts
-date: 2015-01-29 10:00
+title: "An iPad-Only Workflow for Creating Jekyll Posts"
+date: "2015-01-29 10:00"
 categories: featured
+published: true
 ---
 
 A couple weeks ago, I wrote about using [good lenses](http://thenewsprint.co/2015/01/13/great-glass/) to capture better photographs. However, in slight contradiction to the “using proper equipment” argument, I composed the entire piece with an iPad only.
@@ -19,7 +20,7 @@ Below is an outline of my process for the “Great Glass” article. There are h
 
 I shoot my photographs with an [Olympus OM-D E-M10](http://www.amazon.com/gp/product/B00HPQ0A16/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HPQ0A16&linkCode=as2&tag=thenews02-20&linkId=UYLLHKBSYUZ7UCLM). The E-M10 has a well documented wifi feature that allows for direct import of images to an iPhone or iPad. The [Olympus Image Share iOS app](https://itunes.apple.com/ca/app/olympus-image-share/id561896860?mt=8&uo=4&at=1l3v5At) is a bit clunky and a bit slow when importing hundreds of images, but it got the job done. I imported the photos directly to the iOS Camera Roll and moved on from there.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-16.png)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-16.png)*
 
 Of note to some enthusiasts: I shoot .jpeg images only and have stayed away from RAW format. I realize RAW has incredible qualities, but I don’t do enough editing to extract the true RAW potential and I also like to keep my file size down. Moreover, I didn’t test this process with a RAW file, so it may through a hiccup into the process down the road.
 
@@ -39,7 +40,7 @@ Overall, despite VSCO’s slider edits, the experience of importing into the app
 
 Now, after spitting all that out, the biggest factor that sways me to using VSCO Cam is how the app automatically exports the image into a smaller file size. 
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-8.png)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-8.png)*
 
 The photographs I shoot on the E-M10 are generally around 4MB in size. Loading many images of that size would take forever for The Newsprint’s readers, so I always try to use images that are 250KB or less in size.[^2] VSCO Cam automatically exports images down to about this size, so the app is ideal for the export process.
 
@@ -49,11 +50,11 @@ At this point, I jumped into [Transmit](https://itunes.apple.com/ca/app/transmit
 
 Amazingly cool.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-7.png)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-7.png)*
 
 I logged into the server, navigated to the appropriate folder, and tapped the “+” button to upload the exported images from VSCO Cam in my Camera Roll. Of course, I now had duplicate images in my Camera Roll, so I had to be sure I was choosing the right images to upload to the server.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-4.png)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-4.png)*
 
 After uploading the photos to the server (which took an embarrassingly long time thanks to my shotty MTS internet connection), I was able to move into Ulysses and begin the writing process.
 
@@ -63,12 +64,12 @@ First, I jumped into [Ulysses for iPad](http://ulyssesapp.com/ipad/). The app is
 
 After I completed the actual writing, I copied over the written work to Editorial for editing and image inputs. 
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-1.png)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-1.png)*
 
 When Josiah redesigned The Newsprint back in the beginning of December, he created some nifty [Editorial](https://itunes.apple.com/ca/app/editorial/id673907758?mt=8&uo=4&at=1l3v5At) workflows that automated the process of posting to the now-static Newsprint Jekyll blog. 
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-2.png)
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-3.png)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-2.png)*
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-3.png)*
 
 He created two workflows: a document generator with the appropriate documentation in the header, and a publisher that sent the document (complete with a proper filename) to The Newsprint’s server on Github Pages. [These workflows](http://jwie.be/writing/building-the-newsprint/) work brilliantly and I encourage everyone to modify them for their own use.
 
@@ -87,7 +88,7 @@ Once I had finished the written work, I downloaded a Find and Replace workflow f
 
 Lastly, I used Editorial’s previewing feature to make sure the article’s formatting was proper and that all the image URLs were pointing in the proper direction. I was able to quickly make necessary changes and I added any other links to the text all within Editorial and Editorial’s browser. 
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-17.png)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad-Only-17.png)*
 
 The power of Editorial still blows my mind. By combining Editorial’s power with the utility of Transmit, the iPad has grown leaps and bounds in terms of moving files from Point A to Point B.
 
@@ -103,4 +104,4 @@ If this workflow works for you, or if you have a way of cutting out a step to ma
 
 [^1]: Maybe this is a signal that I am some sort of thrifty creative… or maybe I’m just trying too hard. 
 
-[^2]: I do apologize for some of the images in this article though. I took a screenshot, compressed the .png file via [CompressPng.com](http://compresspng.com/), fit the compressed screenshot into an iPad template via [MockupPhone.com](http://mockuphone.com/), and then uploaded to the server. Even still, some images are in the 800kb range. I'm not sure what I can do to make these screenshots smaller. 
+[^2]: I do apologize for some of the images in this article though. I took a screenshot, compressed the .png file via [CompressPng.com](http://compresspng.com/), fit the compressed screenshot into an iPad template via [MockupPhone.com](http://mockuphone.com/), and then uploaded to the server. Even still, some images are in the 800kb range. I'm not sure what I can do to make these screenshots smaller.
