@@ -408,7 +408,9 @@ img.carbon-wrap {
 a.carbon-img {
   border-bottom: none;
   display: inline-block;
-  float: left; }
+  float: left;
+  padding-left: 1rem;
+  padding-right: 1rem; }
 
 a.carbon-text {
   display: inline;
