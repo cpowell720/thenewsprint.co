@@ -12,7 +12,7 @@ published: true
 ---
 
 ### Premise
-Language evolves each day, and weaving in and around these changes is difficult to do. This document will serve as The Newsprint's unique style guide and will evolve over time.
+This document will serve as The Newsprint's unique style guide and will evolve over time.
 
 ### Rules
 - [Title capitalization.](http://titlecapitalization.com)
