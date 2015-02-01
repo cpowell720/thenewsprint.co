@@ -2,27 +2,36 @@
 layout: page
 title: The Newsprint Styleguide
 permalink: /styleguide/
+published: true
 ---
 
-Banjo jean shorts readymade taxidermy. Aesthetic authentic occupy gluten-free, cray typewriter Blue Bottle drinking vinegar Cosby sweater pour-over bitters cold-pressed polaroid ennui. Mlkshk retro narwhal crucifix. Wayfarers actually bespoke put a bird on it biodiesel. Beard Marfa fixie Odd Future. Small batch lo-fi wolf tattooed try-hard, banh mi readymade deep v meditation post-ironic seitan umami. Yr PBR aesthetic beard.
+---
+*I have been advised [by a friend](http://audaciousfox.com/style-guide/) that the best way to bring consistency to my writing is by following a style guide. This guide is almost a direct rip-off of Kyle's guide.*
+---
 
-# Main Heading
+### Premise
+Language evolves each day, and weaving in and around these changes is difficult to do. This document will serve as The Newsprint's unique style guide and will evolve over time.
 
-This is a main heading. 
+### Basic Rules
+- [Title capitalization.](http://titlecapitalization.com)
+- [Comma use.](https://owl.english.purdue.edu/owl/owlprint/607/)
+	- Oxford comma: *This, that, and the other thing.*
+- Possessive plural: Attach a single apostrophe: *The Olympus' lens is sharp.*
+- Colons: Capitalize the first letter of a complete sentence after a colon.
+- "Of" and "That": Eliminate when possible.
+	- *"A couple of weeks ago"* becomes *"A couple weeks ago"*.
+    - *"The monthly budget that I created"* becomes *"The monthly budget I created"*.
 
-## Section level heading
-
-This is a section level heading.
-
-### Sub-section level heading
-
-This is a sub-section level heading.
-
-- This is what a bulleted list looks like.
-    - This is a sub-bullet point. Pretty fancy eh?
-
-1. Number one
-2. Number two
-3. Number three
-
-> This is a blockquote. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit pellentesque urna. Morbi porttitor nec tortor eu molestie. Mauris vel posuere nunc, quis ullamcorper lorem. Nam ut turpis commodo, commodo ligula sed, ultrices turpis. In sollicitudin aliquet lacinia. 
+### Reference
+- Amortization, instead of *depreciation*
+- Audacious Fox
+- Colors Edition
+- Colour
+- Honour
+- Learnt, instead of *learned*
+- Neighbour
+- Overtime (noun)
+- Over time (as time passes)
+- Rip-off
+- *The New York Times*
+- Tools & Toys
