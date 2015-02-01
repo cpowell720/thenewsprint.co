@@ -34,6 +34,8 @@ This document will serve as The Newsprint's unique style guide and will evolve o
 - Neighbour
 - Overtime (noun)
 - Over time (as time passes)
+- Past (noun, adjective)
+- Passed (verb; past participle)
 - Rip-off
 - *The New York Times*
 - Tools & Toys
