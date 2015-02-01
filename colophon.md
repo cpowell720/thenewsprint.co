@@ -17,6 +17,8 @@ The Newsprint is managed on the [Jekyll platform](http://jekyllrb.com) and is ho
 
 The Newsprint's custom design was created by Josiah Wiebe of [Collectif](http://collectif.co).
 
+This is The Newsprint's evolving [Manual of Style.](http://thenewsprint.co/styleguide/)
+
 **Contact**
 
 Email: desk@thenewsprint.co
