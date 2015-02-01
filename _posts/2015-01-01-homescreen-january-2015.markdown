@@ -53,7 +53,7 @@ Why only three apps in the dock? Stretching my thumb across the screen (say, usi
 
 Next up, iPad.
 
-*![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad%20Homescreen%20-%20January.png)*
+![](http://thenewsprint.s3.amazonaws.com/media/2015/01/iPad%20Homescreen%20-%20January.png)
 
 * [1Password](https://itunes.apple.com/ca/app/1password-password-manager/id568903335?mt=8&uo=4&at=1l3v5At)
 * [Fantastical 2 for iPad](https://itunes.apple.com/ca/app/fantastical-2-for-ipad-calendar/id830708155?mt=8&uo=4&at=1l3v5At)
