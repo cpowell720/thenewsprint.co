@@ -6,7 +6,9 @@ published: true
 ---
 
 ---
+
 *I have been advised [by a friend](http://audaciousfox.com/style-guide/) that the best way to bring consistency to my writing is by following a style guide. This guide is almost a direct rip-off of Kyle's guide.*
+
 ---
 
 ### Premise
@@ -15,12 +17,12 @@ Language evolves each day, and weaving in and around these changes is difficult 
 ### Basic Rules
 - [Title capitalization.](http://titlecapitalization.com)
 - [Comma use.](https://owl.english.purdue.edu/owl/owlprint/607/)
-	- Oxford comma: *This, that, and the other thing.*
+- Oxford comma: *This, that, and the other thing.*
 - Possessive plural: Attach a single apostrophe: *The Olympus' lens is sharp.*
 - Colons: Capitalize the first letter of a complete sentence after a colon.
 - "Of" and "That": Eliminate when possible.
-	- *"A couple of weeks ago"* becomes *"A couple weeks ago"*.
-    - *"The monthly budget that I created"* becomes *"The monthly budget I created"*.
+- *"A couple of weeks ago"* becomes *"A couple weeks ago"*.
+- *"The monthly budget that I created"* becomes *"The monthly budget I created"*.
 
 ### Reference
 - Amortization, instead of *depreciation*
