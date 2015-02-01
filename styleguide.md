@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Newsprint Styleguide
+title: "The Newsprint's Manual of Style"
 permalink: /styleguide/
 published: true
 ---
