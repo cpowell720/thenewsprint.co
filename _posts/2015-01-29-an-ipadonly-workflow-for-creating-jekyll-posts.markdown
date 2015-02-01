@@ -2,7 +2,6 @@
 layout: post
 title: "An iPad-Only Workflow for Creating Jekyll Posts"
 date: "2015-01-29 10:00"
-categories: featured
 published: true
 ---
 
