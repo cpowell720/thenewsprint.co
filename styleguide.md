@@ -22,7 +22,7 @@ This document will serve as The Newsprint's unique style guide and will evolve o
 - Colons: Capitalize the first letter of a complete sentence after a colon.
 - *"A couple of weeks ago"* becomes *"A couple weeks ago"*.
 - *"The monthly budget that I created"* becomes *"The monthly budget I created"*.
-- Em dash: Spaces before and after the use of an em dash: *You are the friend — the only friend — to help me.
+- Em dash: Spaces before and after the use of an em dash: *You are the friend — the only friend — to help me.*
 
 ### Reference
 - Amortization, instead of *depreciation*
