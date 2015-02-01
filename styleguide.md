@@ -11,10 +11,10 @@ published: true
 
 ---
 
-### Premise
+## Premise
 Language evolves each day, and weaving in and around these changes is difficult to do. This document will serve as The Newsprint's unique style guide and will evolve over time.
 
-### Basic Rules
+## Basic Rules
 - [Title capitalization.](http://titlecapitalization.com)
 - [Comma use.](https://owl.english.purdue.edu/owl/owlprint/607/)
 - Oxford comma: *This, that, and the other thing.*
@@ -24,7 +24,7 @@ Language evolves each day, and weaving in and around these changes is difficult 
 - *"A couple of weeks ago"* becomes *"A couple weeks ago"*.
 - *"The monthly budget that I created"* becomes *"The monthly budget I created"*.
 
-### Reference
+## Reference
 - Amortization, instead of *depreciation*
 - Audacious Fox
 - Colors Edition
