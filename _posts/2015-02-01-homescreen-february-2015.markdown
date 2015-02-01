@@ -84,7 +84,7 @@ As an addition to my schpeel about Outlook above, I think Outlook is best on the
 
 Foremost, I am in love with the “Files” tab. I deal with hundreds of email attachments every week and this is the most painless way I have found to deal with the multitude of attachments. 
 
-I have absolutely no use for the built-in calendar in Outlook, as it appears to be a blatant rip off of Fantastical 2. 
+I have absolutely no use for the built-in calendar in Outlook, as it appears to be a blatant rip off of Fantastical 2. I've been testing a new calendar app that may have both Fantastical 2 and Outlook beat, so we'll see where that goes in the next little while. 
 
 Lastly, [Ben Brooks](http://brooksreview.net) has mentioned a few times that the deal breaker for Outlook in his books is the fact that Outlook routes your mail through their own servers to handle email scheduling and other features. Ben is entirely correct in pointing out this security flaw and some people may want to keep this in mind. I, however, have had Mailbox running on every device I own in the background because I really like Mailbox's auto-swiping features. As a result, since my email is already routed through Mailbox’s servers, I would be a hypocrite to denounce Outlook’s process. I’ve already jumped off the security cliff, so I may as well make the best of the situation and use the best email app I can find.
 
@@ -92,4 +92,4 @@ All in all, that’s it for another month. I’m hoping this is the month that w
 
 ---
 
-[^1]: Having said that, I have eclipsed level 26 in [SimCity BuildIt](https://itunes.apple.com/ca/app/simcity-buildit/id913292932?mt=8&uo=4&at=1l3v5At) and my population has soared to over 220,000. If you're curious, the key to making money is to create the biggest population possible. And in order to create the biggest population, you need to spend the time earning Golden Keys to create education, gambling, transportation, and landmark services for your population. There you go — free, game-winning advice for one of the best games on the App Store. 
+[^1]: Having said that, I have eclipsed level 26 in [SimCity BuildIt](https://itunes.apple.com/ca/app/simcity-buildit/id913292932?mt=8&uo=4&at=1l3v5At) and my population has soared to over 220,000. If you're curious, the key to making money is to create the biggest population possible. And in order to create the biggest population, you need to spend the time earning Golden Keys to create education, gambling, transportation, and landmark services for your population. There you go — free, game-winning advice for one of the best games on the App Store.
