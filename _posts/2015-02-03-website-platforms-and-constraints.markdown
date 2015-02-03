@@ -7,11 +7,11 @@ published: true
 ---
 
 
-Ben Brooks has [penned a great argument](https://brooksreview.net/2015/01/why-wordpress-should-be-your-only-choice/) for using Wordpress as a website CMS. Drawing on his experience, Ben rightly argues that Wordpress is the best, easiest, and (potentially) most powerful way to create and maintain a beautiful website.
+Ben Brooks has penned a great argument for using Wordpress as a website CMS. Drawing on his experience, Ben rightly argues that Wordpress is the best, easiest, and (potentially) most powerful way to create and maintain a beautiful website.
  
 > There are more reasons to stay with WordPress than there are to move. There is simply no compelling reason to move. Don’t get wrapped up in what CMS is trendy, figure out which one is going to grow with you. Likely that will be WordPress and not the others.
  
-I read his post with a smile on my face, as I have a gut feeling Ben’s thoughts were partially fueled by a conversation [Conor McClure](http://conormcclure.net) and I had on Twitter. Both Conor and I run [Jekyll blogs](http://jekyllrb.com/), and we have both been experimenting with different ways to post content to our sites.
+I [read his post](https://brooksreview.net/2015/01/why-wordpress-should-be-your-only-choice/) with a smile on my face, as I have a gut feeling Ben’s thoughts were partially fueled by a conversation [Conor McClure](http://conormcclure.net) and I had on Twitter. Both Conor and I run [Jekyll blogs](http://jekyllrb.com/), and we have both been experimenting with different ways to post content to our sites.
  
 Ben is right – tinkering with a website is the bane of content creation. Most people should use a simple, widely-used, widely-developed CMS to run their blog. Wordpress has improved greatly over the years and breaking it has become increasingly difficult as well.
  
