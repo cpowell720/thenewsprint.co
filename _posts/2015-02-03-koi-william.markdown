@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Koi William 
-date: 2015-02-03 10:00
+title: Koi William
+date: "2015-02-03 10:00"
+published: true
 ---
 
 Two weekends ago, my extended family welcomed a brand new member to the mix. I had a chance to meet my new nephew and I snapped a few photos while he took a nap.
@@ -10,7 +11,7 @@ Two weekends ago, my extended family welcomed a brand new member to the mix. I h
 
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Koi-William-Fehr-7-2.jpg)*
 
-Koi (pronounced *koy*) is a very different name. I’m still getting used to it myself, but it’s growing on the family as a whole. 
+Koi (pronounced *koy*) is a very unique name. I’m still getting used to it myself, but the rest of the family has taken to the name instantly.
 
 ![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Koi-William-Fehr-4.jpg)
 
@@ -25,4 +26,3 @@ I’m not sure if this tradition is as meaningful to other people, but I actuall
 Welcome to the family buddy.
 
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Koi-William-Fehr-1.jpg)*
-
