@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Website Platforms and Constraints
-date: 2015-02-03 14:00
+date: "2015-02-03 14:00"
 categories: sundayedition
+published: true
 ---
- 
+
+
 Ben Brooks has [penned a great argument](https://brooksreview.net/2015/01/why-wordpress-should-be-your-only-choice/) for using Wordpress as a website CMS. Drawing on his experience, Ben rightly argues that Wordpress is the best, easiest, and (potentially) most powerful way to create and maintain a beautiful website.
  
 > There are more reasons to stay with WordPress than there are to move. There is simply no compelling reason to move. Don’t get wrapped up in what CMS is trendy, figure out which one is going to grow with you. Likely that will be WordPress and not the others.
@@ -29,4 +31,4 @@ However, I advise to not write off a CMS’ ability to hinder creativity by givi
 
 ---
 
-[^1]: Granted, Squarespace is *not* Wordpress. But the simplicity of using both is fairly close, and is a far cry from running a Jekyll blog. For now, this will serve as my comparison subject. Maybe I'm off, but it'll do. 
+[^1]: Granted, Squarespace is *not* Wordpress. But the simplicity of using both is fairly close, and is a far cry from running a Jekyll blog. For now, this will serve as my comparison subject. Maybe I'm off, but it'll do.
