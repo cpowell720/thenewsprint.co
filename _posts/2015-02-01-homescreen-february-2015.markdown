@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Homescreen: February 2015"
-date: 2015-02-01 11:30
+date: "2015-02-01 11:30"
+published: true
 ---
 
 Anybody else feel like January was a long month? Maybe it’s the winter blues, but I feel like it’s been forever since I showcased these homescreens.
@@ -86,7 +87,7 @@ Foremost, I am in love with the “Files” tab. I deal with hundreds of email a
 
 I have absolutely no use for the built-in calendar in Outlook, as it appears to be a blatant rip off of Fantastical 2. I've been testing a new calendar app that may have both Fantastical 2 and Outlook beat, so we'll see where that goes in the next little while. 
 
-Lastly, [Ben Brooks](http://brooksreview.net) has mentioned a few times that the deal breaker for Outlook in his books is the fact that Outlook routes your mail through their own servers to handle email scheduling and other features. Ben is entirely correct in pointing out this security flaw and some people may want to keep this in mind. I, however, have had Mailbox running on every device I own in the background because I really like Mailbox's auto-swiping features. As a result, since my email is already routed through Mailbox’s servers, I would be a hypocrite to denounce Outlook’s process. I’ve already jumped off the security cliff, so I may as well make the best of the situation and use the best email app I can find.
+Lastly, [Ben Brooks](http://brooksreview.net) has mentioned a few times that the deal breaker for Outlook in his book is the fact that Outlook routes your mail through their own servers to handle email scheduling and other features. Ben is entirely correct in pointing out this security flaw and some people may want to keep this in mind. I, however, have had Mailbox running on every device I own in the background because I really like Mailbox's auto-swiping features. As a result, since my email is already routed through Mailbox’s servers, I would be a hypocrite to denounce Outlook’s process. I’ve already jumped off the security cliff, so I may as well make the best of the situation and use the best email app I can find.
 
 All in all, that’s it for another month. I’m hoping this is the month that we will see Tweetbot 3 for the iPad. I won’t hold my breath, but it seems like a great time for a new Twitter client. 
 
