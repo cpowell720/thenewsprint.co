@@ -5,7 +5,7 @@ date: "2014-03-01 21:39:12"
 published: true
 ---
 
-<h2 data-preserve-html-node="true">Background</h2>
+<h3 data-preserve-html-node="true">Background</h3>
 
 <p data-preserve-html-node="true">Journals are intensely personal. The contents of any journal reflect its creator thoroughly and uniquely. </p>
 
@@ -21,7 +21,7 @@ published: true
 
 <p data-preserve-html-node="true">The following is a method essentially devised by two individuals who have found a difficulty in their journaling.</p>
 
-<h2 data-preserve-html-node="true">The Hybrid Journal</h2>
+<h3 data-preserve-html-node="true">The Hybrid Journal</h3>
 
 <p data-preserve-html-node="true">Joe and I came up with a journal that incorporates the benefits of both a digital journal and a paper journal. The “Hybrid Journal” — for lack of a better name — utilizes two mediums and three platforms to satisfy as many of our own personal journaling requirements as possible. Using this three step process, we are able to:</p>
 
@@ -35,7 +35,7 @@ published: true
 
 <p data-preserve-html-node="true">The Hybrid Journal will be best viewed on a laptop or an iPad, but the majority of entries will be entered on a mobile device. Logging our daily lives is easiest with an iPhone and carrying around a small memo book for writing, drawing and creating works best for archiving our less refined activities.</p>
 
-<h2 data-preserve-html-node="true">Day One and The Archive</h2>
+<h3 data-preserve-html-node="true">Day One and The Archive</h3>
 <p data-preserve-html-node="true">One of Day One’s greatest assets as a journal is its ability to search through its archives. Entries can be tagged and starred for easy access to important dates and important information. Entries are automatically location stamped, creating a mapped archive of your travels. And entries can include photos, which adds a visual aspect to a journal.</p>
 
 <p data-preserve-html-node="true">Indexing and archiving physical journals for future reference is the great bane of paper journaling. Sure, you can keep a journal with neat writing and organize those journals in a pleasant organization scheme, but going back to those journals and finding a specific piece of information has always been difficult. </p>
@@ -44,7 +44,7 @@ published: true
 
 <p data-preserve-html-node="true">Day One’s ability to quickly search all your entries is what makes digital journaling so delightful — it’s what makes computers so useful. Day One is the first of the three major tools we use in our Hybrid Journal and we have chosen to play to Day One’s strengths rather than its weaknesses. The same can be said about Launch Center Pro.</p>
 
-<h2 data-preserve-html-node="true">Launch Center Pro and The Daily Log</h2>
+<h3 data-preserve-html-node="true">Launch Center Pro and The Daily Log</h3>
 <p data-preserve-html-node="true">Like Day One, we have decided to play to Launch Center Pro’s strengths. <a data-preserve-html-node="true" href="http://contrast.co/launch-center-pro/">Launch Center Pro</a> can quickly execute fairly lengthy processes all with the tap of a few buttons. It’s also quick to launch, putting those automated tasks at our fingertips faster than any other app out there.</p>
 
 <p data-preserve-html-node="true">Knowing this, we decided to create simple logging actions inside of Launch Center Pro that can be quickly inputed into Day One’s archives. Joe already summarized a list of these logging actions in <a data-preserve-html-node="true" href="http://jwie.be/launch-center-pro-daily-journaling">a recent post</a> and you can check out his future plans for the actions. </p>
@@ -72,7 +72,7 @@ published: true
 
 <p data-preserve-html-node="true">Oh, and with the recent release of Launch Center Pro for iPad, logging your life is no longer platform-dependent. Sweet!</p>
 
-<h2 data-preserve-html-node="true">A Physical Journal and You</h2>
+<h3 data-preserve-html-node="true">A Physical Journal and You</h3>
 
 <p data-preserve-html-node="true">I think many people view their iPhone as an opportunity to eliminate many of the tedious paper tasks that consume large amounts of their time. The iPhone is one of the greatest tools ever created because of its ability to be anything you want it to be. However, despite its incredibly broad appeal, an iPhone is simply not great for drawing, charting or graphing thoughts and ideas. And further, the intimateness of a pen scratching ink onto paper will forever be emboldened in our hearts.</p>
 
@@ -86,7 +86,7 @@ published: true
 
 <p data-preserve-html-node="true">The last important piece of a physical journal is the actual book you decide to use. Bullet Journal creator Ryder Carroll recommends a <a data-preserve-html-node="true" href="http://www.moleskine.com/en/collections/model/product/plain-notebook-large">large Moleskine Squared Notebook</a> for maintaining written records. Joe and I, on the other hand, believe in portability and small memo books. I personally don’t have pockets that are large enough to carry a large notebook, so I need a memo book that can fit in my back pocket for easy access. My combination right now is a <a data-preserve-html-node="true" href="http://fieldnotesbrand.com">Field Notes memo book</a> with a <a data-preserve-html-node="true" href="http://hellbrandleather.bigcartel.com/product/chromexcel-field-notes-cover">Hellbrand Leatherworks Field Notes Leather Cover</a>.<a data-preserve-html-node="true" href="#fn:4" id="fnref:4" title="see footnote" class="footnote">[4]</a> I use a cover to lengthen the lifetime of my memo books — in the end, I want these physical books to last my lifetime and not end up ripped and torn in the recycling bin.</p>
 
-<h2 data-preserve-html-node="true">Linking the Old to the New</h2>
+<h3 data-preserve-html-node="true">Linking the Old to the New</h3>
 
 <p data-preserve-html-node="true">The very last thing Joe and I want is to create multiple <em data-preserve-html-node="true">journals</em> instead of one, over-arching <em data-preserve-html-node="true">journal</em>. Like our body, our journal is a sum of its parts. Each piece, be it Day One or a Field Notes book, needs to work together to create <strong data-preserve-html-node="true">the ultimate journal</strong>. </p>
 
@@ -108,7 +108,7 @@ published: true
 
 <p data-preserve-html-node="true">All in all, creating connections and references between our digital and paper journals allows for a (more) seamless experience than if separate types of journals were maintained. In the end, I envision the ability to print out my Day One in a nicely formatted PDF and throw that into my archive of Field Notes memo books. If you want to get to know me, I would recommend highjacking those boxes and scouring through the relatively unexciting meanderings of my daily life. </p>
 
-<h2 data-preserve-html-node="true">Wrap Up</h2>
+<h3 data-preserve-html-node="true">Wrap Up</h3>
 
 <p data-preserve-html-node="true">You might wonder <em data-preserve-html-node="true">why</em> Joe and I have decided to go to great lengths to create such an intricate journal. And although it’s hard to pinpoint exactly why, I think it has more to do with <em data-preserve-html-node="true">fear</em> than it has to do with curiosity.</p>
 
