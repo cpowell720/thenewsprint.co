@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Hybrid Journal
-date: '2014-03-01 21:39:12'
+date: "2014-03-01 21:39:12"
+published: true
 ---
 
 <h2 data-preserve-html-node="true">Background</h2>
@@ -34,7 +35,8 @@ date: '2014-03-01 21:39:12'
 
 <p data-preserve-html-node="true">The Hybrid Journal will be best viewed on a laptop or an iPad, but the majority of entries will be entered on a mobile device. Logging our daily lives is easiest with an iPhone and carrying around a small memo book for writing, drawing and creating works best for archiving our less refined activities.</p>
 
-<h2 data-preserve-html-node="true">Day One and The Archive</h2><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/03/photo%204.png" /><p data-preserve-html-node="true">One of Day One’s greatest assets as a journal is its ability to search through its archives. Entries can be tagged and starred for easy access to important dates and important information. Entries are automatically location stamped, creating a mapped archive of your travels. And entries can include photos, which adds a visual aspect to a journal.</p>
+<h2 data-preserve-html-node="true">Day One and The Archive</h2>
+<p data-preserve-html-node="true">One of Day One’s greatest assets as a journal is its ability to search through its archives. Entries can be tagged and starred for easy access to important dates and important information. Entries are automatically location stamped, creating a mapped archive of your travels. And entries can include photos, which adds a visual aspect to a journal.</p>
 
 <p data-preserve-html-node="true">Indexing and archiving physical journals for future reference is the great bane of paper journaling. Sure, you can keep a journal with neat writing and organize those journals in a pleasant organization scheme, but going back to those journals and finding a specific piece of information has always been difficult. </p>
 
@@ -42,7 +44,8 @@ date: '2014-03-01 21:39:12'
 
 <p data-preserve-html-node="true">Day One’s ability to quickly search all your entries is what makes digital journaling so delightful — it’s what makes computers so useful. Day One is the first of the three major tools we use in our Hybrid Journal and we have chosen to play to Day One’s strengths rather than its weaknesses. The same can be said about Launch Center Pro.</p>
 
-<h2 data-preserve-html-node="true">Launch Center Pro and The Daily Log</h2><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/03/photo%202.png" /><img src="http://localhost:8888/wp.thenewsprint.co/wp-content/uploads/2014/03/photo%203.png" /><p data-preserve-html-node="true">Like Day One, we have decided to play to Launch Center Pro’s strengths. <a data-preserve-html-node="true" href="http://contrast.co/launch-center-pro/">Launch Center Pro</a> can quickly execute fairly lengthy processes all with the tap of a few buttons. It’s also quick to launch, putting those automated tasks at our fingertips faster than any other app out there.</p>
+<h2 data-preserve-html-node="true">Launch Center Pro and The Daily Log</h2>
+<p data-preserve-html-node="true">Like Day One, we have decided to play to Launch Center Pro’s strengths. <a data-preserve-html-node="true" href="http://contrast.co/launch-center-pro/">Launch Center Pro</a> can quickly execute fairly lengthy processes all with the tap of a few buttons. It’s also quick to launch, putting those automated tasks at our fingertips faster than any other app out there.</p>
 
 <p data-preserve-html-node="true">Knowing this, we decided to create simple logging actions inside of Launch Center Pro that can be quickly inputed into Day One’s archives. Joe already summarized a list of these logging actions in <a data-preserve-html-node="true" href="http://jwie.be/launch-center-pro-daily-journaling">a recent post</a> and you can check out his future plans for the actions. </p>
 
