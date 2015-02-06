@@ -25,9 +25,7 @@ This document will serve as The Newsprint's unique style guide and will evolve o
 - Em dash: Spaces before and after the use of an em dash: *You are the friend — the only friend — to help me.*
 
 ### Reference
-- Amortization, instead of *depreciation*
-	- Amortization if *ASPE* are knowingly used
-    - Depreciation if *IFRS* are knowingly used
+- Amortization
 - Audacious Fox
 - Colors Edition
 - Colour
