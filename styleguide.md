@@ -26,9 +26,12 @@ This document will serve as The Newsprint's unique style guide and will evolve o
 
 ### Reference
 - Amortization, instead of *depreciation*
+	- Amortization if *ASPE* are knowingly used
+    - Depreciation if *IFRS* are knowingly used
 - Audacious Fox
 - Colors Edition
 - Colour
+- Full-frame
 - Honour
 - Learnt, instead of *learned*
 - Neighbour
