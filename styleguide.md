@@ -34,6 +34,7 @@ This document will serve as The Newsprint's unique style guide and will evolve o
 - Full-frame
 - Honour
 - Learnt, instead of *learned*
+- Micro 4/3
 - Neighbour
 - Overtime (noun)
 - Over time (as time passes)
