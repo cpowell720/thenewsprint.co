@@ -2,7 +2,6 @@
 layout: post
 title: Rachel and Carl
 date: "2015-02-06 10:00"
-categories: featured
 published: true
 ---
 
@@ -45,4 +44,4 @@ Congratulations Rachel and Carl. I’m truly looking forward to the end of Septe
 
 [^1]: Yes, if you’ve done the math in your head, you’ll rightly determine my sister is still a very young lady. Regardless, these two people were meant for each other since day one and I’m very excited for them to get started together.
 
-[^2]: Actually, in *our* heads, as Jaclyn came along and was masterful at creating scenes. I can take very little credit for the different types of photos you see here.
+[^2]: Actually, in *our* heads, as Jaclyn came along and was masterful at creating scenes. I can take very little credit for the different types of photos you see here
