@@ -11,4 +11,4 @@ This was a fun review to shoot as I tried out a new setup for the first time. Yo
 
 As far as the BookBook itself goes — I love it. The case on its own would be far too big to handle on a daily basis, but being able to slide the rubber case out of the leather shell saves the bacon. And eliminating extra everyday carry items is always a bonus.
 
-As always, head over to Tools & Toys to check out the review.
+As always, head over to Tools & Toys to check out the review
