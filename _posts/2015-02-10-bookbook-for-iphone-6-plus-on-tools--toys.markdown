@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The BookBook for Iphone 6 Plus on Tools & Toys"
+title: "The BookBook for iPhone 6 Plus on Tools & Toys"
 date: "2015-02-10 10:05"
 published: true
 ---
