@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Bookbook for Iphone 6 Plus on Tools & Toys
-date: 2015-02-10 10:05
+title: "The BookBook for Iphone 6 Plus on Tools & Toys"
+date: "2015-02-10 10:05"
+published: true
 ---
 
 Tools & Toys published my [review of the Twelve South BookBook for iPhone 6 Plus](http://toolsandtoys.net/reviews/bookbook-case-iphone-6-plus/) today. 
