@@ -131,11 +131,13 @@ I’ve hinted greatly at the quality of the Panasonic Lumix 20mm in comparison t
 
 The Lumix lens offers a metal body, a fast aperture, and beautiful image quality all in the the tiniest of packages. You may not even notice the lens is mounted to your camera. 
 
-And putting specifications aside doesn’t really change the story of this lens. The 20mm will teach specific aspects of photography that most zoom and kit lenses are incapable of teaching. It has taught me patience, recognition, composition, and simplicity in photography. I’m not an expert, but I’m sure these qualities are only good qualities.
-
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Lumix-20mm-Review-1.jpg)*
 
+And putting specifications aside doesn’t really change the story of this lens. The 20mm will teach specific aspects of photography that most zoom and kit lenses are incapable of teaching. It has taught me patience, recognition, composition, and simplicity in photography. I’m not an expert, but I’m sure these qualities are only good qualities.
+
 Will the 20mm pancake be in my collection forever? Probably not. I view this lens like a ninth grade teacher: The subject is capable of teaching you fundamental skills, but may peak in its lesson-giving at some point in time. However, upon return after years away, that teacher can still remind you of the basic skills and drive home something new entirely. 
+
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Panasonic-Lumix-20mm-1.jpg)*
 
 That’s the Lumix 20mm lens in a nutshell. It’s the most important lens every Micro 4/3 owner should buy and it’s the best prime lens you can purchase at the start of your budding photography career. It may not always be your go-to lens, but it is a magnificent starting point for an incredibly great price.
 
