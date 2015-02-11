@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Panasonic Lumix 20mm f/1.7 Pancake Lens"
-date: 2015-02-11 09:24
+title: Panasonic Lumix 20mm f/1.7 Pancake Lens
+date: "2015-02-11 09:24"
 categories: featured
+published: true
 ---
 
 The [Panasonic Lumix 20mm f/1.7 pancake lens](http://www.amazon.com/gp/product/B00DJS830Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DJS830Y&linkCode=as2&tag=thenews02-20&linkId=JG3HAATQA3D76J6B) is the best lens to buy for any new Micro 4/3 user. There, I said it.
@@ -47,8 +48,8 @@ Some may look at this as a negative, but I feel the optimization of the lens at 
 
 The f/1.7 aperture is speedy and allows light to pour through the glass. Shooting photos in a dimly lit basement is possible thanks to faster shutter speeds enabled by the Lumix 20mm lens. Thanks to this large aperture, and the overall size and weight of the pancake lens, keeping this lens on your camera body for shots of kids in the basement is actually feasible. 
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Lumix-20mm-Review-8.jpg)
-![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Panasonic-Lumix-11.jpg)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/01/Lumix-20mm-Review-8.jpg)*
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Panasonic-Lumix-11.jpg)*
 
 Lastly, the lens is equipped with seven aperture blades. This helps create a smoother background when isolating a subject in a photo. Seven aperture blades has become a very common trait these days and the 20mm lens doesn’t lag behind in any fashion.
 
