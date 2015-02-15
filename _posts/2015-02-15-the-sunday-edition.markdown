@@ -37,6 +37,6 @@ So, Happy Louis Riel day from my home to yours. If you aren’t lucky enough to 
 
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Self-Portrait-Smaller-2.jpg)*
 
-I was playing around with the Olympus iOS app and used the live view to snap this photo. It was a neat experiment.
+I was playing around with the [Olympus iOS app](https://itunes.apple.com/ca/app/olympus-image-share/id561896860?mt=8&uo=4&at=1l3v5At) — which has been updated for the iPhone 6 and 6 Plus! — and used the live view to snap this photo. It was a neat experiment.
 
 Happy Sunday.
