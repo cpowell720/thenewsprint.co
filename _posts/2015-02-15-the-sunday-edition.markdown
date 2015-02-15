@@ -1,11 +1,12 @@
 ---
 layout: post
 title: The Sunday Edition
-date: 2015-02-15 09:30
+date: "2015-02-15 09:30"
 categories: sundayedition
+published: true
 ---
 
-Most provinces in Canada are enjoying the February long weekend this weekend. In Manitoba, we celebrate the heroic (or traitorous, depending on how you look at the historical situation) Louis Riel. Other provinces celebrate Family Day.
+Most provinces in Canada are enjoying the February long weekend this weekend. In Manitoba, we celebrate the heroic (or traitorous, depending on how you look at the historical situation) [Louis Riel](http://en.wikipedia.org/wiki/Louis_Riel). Other provinces celebrate Family Day.
 
 A mid-winter long weekend like this is great and allows for some much needed R&R catchup. In my case, R&R will probably turn into homework. But I can’t complain.
 
