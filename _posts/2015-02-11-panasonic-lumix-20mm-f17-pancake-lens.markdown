@@ -2,7 +2,6 @@
 layout: post
 title: Panasonic Lumix 20mm f/1.7 Pancake Lens
 date: "2015-02-11 09:24"
-categories: featured
 published: true
 ---
 
