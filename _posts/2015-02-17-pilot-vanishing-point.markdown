@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Pilot Vanishing Point
-date: 2015-02-17 10:05
+date: "2015-02-17 10:05"
 categories: featured
+published: true
 ---
 
 The [Pilot Vanishing Point](http://www.penchalet.com/fine_pens/fountain_pens/pilot_vanishing_point_fountain_pen.html) is great enough to be a blog-ending pen.
@@ -39,17 +40,17 @@ I found the refill process to be extremely easy and substantially tidier than my
 
 The long nib unit can be pulled out and quickly exchanged for a nib unit with a different size or colour. Pilot sells matte black nib units if you care for colour coordination. At [$140 (on sale!)](http://www.penchalet.com/fine_pens/fountain_pens/pilot_vanishing_point_fountain_pen.html), the Vanishing Point isn’t a cheap pen. Having the ability to swap out different nib units will not only save you a couple bucks, it’ll keep the Vanishing Point feeling fresh and new without having to buy an entirely new pen.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-7.jpg)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-7.jpg)*
 
 The Vanishing Point’s execution of a proper knock is of the utmost importance: If you casually bump the knock while out and about, the nib unit could extend outwards and leave ink pouring into your clothes or bag. Not only does the Vanishing Point’s knock have to combat casual bumps, it has to be long enough to ensure the nib unit is *meant* to be extended.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-3.jpg)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-3.jpg)*
 
 And without a doubt, the Vanishing Point’s knock is impeccable. It’s a bit longer than many other retractable ball points I’ve tried, so fully extracting the nib unit is actually a practice in habit-forming. After years of using retractable ball points and poor quality knocks, I had to retrain my muscle memory to more fully depress the knock to extract the nib. Overall, it’s a painless process, but I found myself always *thinking* about extracting the nib unit when I pulled the pen out to write.
 
 As far as design goes, the knock’s matte black finish is right at home with the rest of the Vanishing Point’s gun metal design and I appreciate the minimalism attached to the knock. There aren’t any superfluous additions to the knock and this allows for a streamlined pen from top to bottom.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-6.jpg)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-6.jpg)*
 
 Finally, the section and nib. The Vanishing Point’s one glaring design decision is the placement of the clip at the *writing* end of the pen. This design actually puts the clip right where you grip the pen instead of at the end by the knock. 
 
@@ -59,13 +60,13 @@ It makes perfect sense to put the clip at the writing end of the pen though. If 
 
 Gripping the Vanishing Point will most likely not be affected by the placement of the clip unless you have a non-normal pen grip. I’ve found the placement of the clip to be perfect for resting the tips of my fingers while writing. In fact, the Vanishing Point is the most comfortable pen I’ve ever used *because* of the placement of the clip. I have a very average pen grip though, so your mileage may vary.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-9.jpg)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-9.jpg)*
 
 Writing is, as you would expect, top notch. The nib is made of 18 karat gold and is ultra smooth. I’ve used this pen exclusively in my [Hobonichi Techo](http://thenewsprint.co/2015/01/19/hobonichi-techo/) over the past few weeks and I can’t say I’ve had even one hiccup along the way. I never understood how a pen could be smoother than the TWSBI 580AL until I set the Vanishing Point to Tomoe River paper. The combination of Tomoe River and 18 karat gold is a writer’s dream come true.
 
 I ordered a fine nib as I half-expected the Vanishing Point to become my daily driver going forward. My extra-fine Lamy Safari can be too dry and too fine at times and I have yet to be convinced about the benefits of a medium nib. The Vanishing Point’s fine nib is *very* fine and borders the Lamy Safari’s extra-fine nib. The Vanishing Point is also a fairly dry writer, so drying time is substantially less than what I was seeing with the TWSBI 580AL.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-8.jpg)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-8.jpg)*
 
 The Vanishing Point’s nib is slightly hooded like the nib on the [Lamy 2000](http://www.penchalet.com/fine_pens/fountain_pens/lamy_2000_fountain_pen.html). There aren’t any design etchings like TWSBI, Kaweco, or Franklin Christoph nibs on the top-side of the Vanishing Point’s nib unit. In general, the Vanishing Point’s nib unit is pretty and elegant, but it’s not jaw-dropping like many other etched nibs out there.
 
@@ -84,8 +85,8 @@ Not that the Vanishing Point doesn’t deserve more literature, but it’s so ha
 
 From the rockstar gun metal finish, to the 18 karat gold nib, to the placement of the clip, and to the funky trap-door mechanism, the Pilot Vanishing Point has all the avenues covered. I use it in my Hobonichi, in my Field Notes, in my working notebooks at the office, and in my home for casual writing. From top to bottom and start to finish, this Vanishing Point is truly one of a kind.
 
-![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-11.jpg)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/02/Pilot-Vanishing-Point-11.jpg)*
 
 Is the Vanishing Point blog-ending for The Newsprint? Perhaps not. But, if I was writing solely about pens, it would seriously put into question many of my future purchases. I find it hard to believe a pen can write, feel, and look better than the Vanishing Point for less money than what you can pick it up for right now over at Pen Chalet. 
 
-Want a fast way to end your pen collecting habit? Follow my and [Doug Lane’s advice](http://www.modernstationer.com/blog/2014/6/24/pilot-vanishing-point-review) and [pick up a Vanishing Point right away](http://www.penchalet.com/fine_pens/fountain_pens/pilot_vanishing_point_fountain_pen.html). 
+Want a fast way to end your pen collecting habit? Follow my and [Doug Lane’s advice](http://www.modernstationer.com/blog/2014/6/24/pilot-vanishing-point-review) and [pick up a Vanishing Point right away](http://www.penchalet.com/fine_pens/fountain_pens/pilot_vanishing_point_fountain_pen.html).
