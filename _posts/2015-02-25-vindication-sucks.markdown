@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Vindication Sucks
-date: 2015-02-25 20:53
+title: "Vindication Isn't Always What It's Cracked Up To Be"
+date: "2015-02-25 20:53"
 categories: sundayedition
+published: true
 ---
 
 I began my financial career about three years ago at the local credit union. I learnt so much during my time there and, although I left with hard feelings, I look fondly at that time period of my life. The lessons learnt came one after another, but I never expected for one of those lessons to only have an impact three years later.
