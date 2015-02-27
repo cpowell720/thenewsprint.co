@@ -2,7 +2,6 @@
 layout: post
 title: Pilot Vanishing Point
 date: "2015-02-17 10:05"
-categories: featured
 published: true
 ---
 
@@ -89,4 +88,4 @@ From the rockstar gun metal finish, to the 18 karat gold nib, to the placement o
 
 Is the Vanishing Point blog-ending for The Newsprint? Perhaps not. But, if I was writing solely about pens, it would seriously put into question many of my future purchases. I find it hard to believe a pen can write, feel, and look better than the Vanishing Point for less money than what you can pick it up for right now over at Pen Chalet. 
 
-Want a fast way to end your pen collecting habit? Follow my and [Doug Lane’s advice](http://www.modernstationer.com/blog/2014/6/24/pilot-vanishing-point-review) and [pick up a Vanishing Point right away](http://www.penchalet.com/fine_pens/fountain_pens/pilot_vanishing_point_fountain_pen.html).
+Want a fast way to end your pen collecting habit? Follow my and [Doug Lane’s advice](http://www.modernstationer.com/blog/2014/6/24/pilot-vanishing-point-review) and [pick up a Vanishing Point right away](http://www.penchalet.com/fine_pens/fountain_pens/pilot_vanishing_point_fountain_pen.html)
