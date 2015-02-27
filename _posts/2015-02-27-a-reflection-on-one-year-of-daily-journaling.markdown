@@ -1,8 +1,9 @@
 ---
 layout: post
 title: A Reflection on One Year of Daily Journaling
-date: 2015-02-27 9:30
+date: "2015-02-27 9:30"
 categories: featured
+published: true
 ---
 
 I’ve been journaling quite extensively for a year. I wanted to share my workflow and how journaling has affected my life. In short, journaling has made a more complete and rounded *me*, but it has taken an immense amount of focus and determination to complete. Undoubtedly, it has been effort well spent. But much effort *has been* spent.
@@ -10,6 +11,7 @@ I’ve been journaling quite extensively for a year. I wanted to share my workfl
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/02/One-Year-Journal-1.jpg)*
 
 ## Introduction
+
 ### Diaries, Journals
 
 I arrived at the discussion table for a meeting the other night and I casually threw my Field Notes memo book and pen on the table in front of me. The meeting proceeded and, as any journaler or notetaker does, I began scratching notes and thoughts into my Field Notes. Anything of importance was swiftly applied to paper for safekeeping. 
@@ -43,6 +45,7 @@ Whether it be a diary or a journal, your life can be profoundly altered by the s
 And if you can’t choose which to keep, try both. Then try *keeping both*. See what you think. 
 
 ## Components
+
 ### Diary
 
 When devising my diary plan a year ago, I came up with what I called the [Hybrid Journal](http://thenewsprint.co/2014/03/01/the-hybrid-journal/).[^1] Thoughts go through our minds at any and all times of the day — when drinking the first cup of freshly brewed coffee, or when laying your newborn into his or her crib. What good is a diary that can’t be easily carried in these situations? I can’t fathom carrying a full-size Moleskine around with me wherever I go.
