@@ -1,8 +1,9 @@
 ---
 layout: post
 title: The Brooks Review’s Status Report
-date: 2015-03-03 11:00
-link: https://status.brooksreview.net
+date: "2015-03-03 11:00"
+link: "https://status.brooksreview.net"
+published: true
 ---
 
 The best statistic in Ben's report: his Page-View-to-Subscriber ratio. 
@@ -13,4 +14,6 @@ The closer that ratio is to one (1), the better.
 
 To follow in the same transparent footprints, we can calculate The Newsprint’s ratio. To my knowledge, The Newsprint's RSS subscribership sits around 750. With average monthly page views around 22,000, The Newsprint has a Page-View-to-Subscriber Ratio of 29.333.
 
-Either his ratio is extremely impressive, or The Newsprint has a *very* long way to go. I'm willing to bet that it's a lot of both. 
+Either his ratio is extremely impressive, or The Newsprint has a *very* long way to go. I'm willing to bet that it's a lot of both.
+
+**UPDATE:** Perhaps a ratio of 1:1 shouldn't be the goal, as that provides no room for new audience members to join. However, there can't be any doubt that 6:1 is far better than 29:1.
