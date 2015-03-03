@@ -2,6 +2,7 @@
 layout: post
 title: A Quick Winter Walk
 date: 2015-03-03 11:51
+categories: sundayedition
 ---
 
 Jaclyn and I headed outdoors this past weekend to do some lens testing and to take advantage of the relatively warm weather. Instead of writing a pile of words about my first impression of the [Olympus 12-40mm f/2.8 PRO](http://www.amazon.com/gp/product/B00EY3YGBS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EY3YGBS&linkCode=as2&tag=thenews02-20&linkId=NV4MLKCUVCZAGQJU), I’ll let the few photos do the talking.
@@ -23,4 +24,4 @@ I quickly went to purchase a polarizer for the 62mm front element and I’m real
 
 I’ve got much more to come regarding the [Olympus 12-40mm f/2.8 Pro](http://www.amazon.com/gp/product/B00EY3YGBS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EY3YGBS&linkCode=as2&tag=thenews02-20&linkId=NV4MLKCUVCZAGQJU). For now, I’ll say I’m flat out impressed. It’s sharp, super fast, and focuses incredibly quick. The only setback is its size, especially in comparison to the [Panasonic Lumix 20mm](http://www.amazon.com/gp/product/B00DJS830Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DJS830Y&linkCode=as2&tag=thenews02-20&linkId=JG3HAATQA3D76J6B) before it. 
 
-I can’t wait to give this lens a full review.
+I can’t wait to give this lens a full review
