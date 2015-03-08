@@ -18,6 +18,6 @@ It was a bit of a slow week on The Newsprint, but it doesn’t look like the res
 * Japan — ([On the Roofs](http://ontheroofs.com/japan/))
 * The Escalating Scale of Drunkenness, Explained — ([Esquire](http://www.esquire.com/food-drink/drinks/a5884/one-more-drink-0609/)) via [Analog Senses](http://www.analogsenses.com/2015/03/05/the-escalating-scale-of-drunkenness/)
 * Life After Cancer: How the iPhone Helped Me Achieve a Healthier Lifestyle — ([MacStories](http://www.macstories.net/stories/life-after-cancer-how-the-iphone-helped-me-achieve-a-healthier-lifestyle/))
-* Portland | MM Travel Guide 2015 — ([Minimally Minimal](http://www.minimallyminimal.com/blog/portland-mm-travel-guide-15))
+* Portland - MM Travel Guide 2015 — ([Minimally Minimal](http://www.minimallyminimal.com/blog/portland-mm-travel-guide-15))
 
 Happy Sunday.
