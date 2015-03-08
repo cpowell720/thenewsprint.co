@@ -2,7 +2,6 @@
 layout: post
 title: A Reflection on One Year of Daily Journaling
 date: "2015-02-27 9:30"
-categories: featured
 published: true
 ---
 
@@ -166,4 +165,4 @@ If you haven’t started a personal journal, it's time to try it out.
 
 [^1]: Not to be confused with James Gowans’ [Hybrid Journal](http://www.jamesgowans.com/hybrid/). James wrote up his journal workflow a few months after me, but we have differing meanings of “hybrid”. James’ definition is a combination of Patrick Rhone’s [Dash/Plus](http://patrickrhone.com/dashplus/) workflow and Ryder Carroll’s [Bullet Journal](http://bulletjournal.com) workflow. My definition, as will be outlined, means something different yet.
 
-[^2]: I wasn’t able to use fountain pens in all of them, specifically Expedition. But using a ballpoint in Expedition was inspiration enough. That Yupo paper is crazy.
+[^2]: I wasn’t able to use fountain pens in all of them, specifically Expedition. But using a ballpoint in Expedition was inspiration enough. That Yupo paper is crazy
