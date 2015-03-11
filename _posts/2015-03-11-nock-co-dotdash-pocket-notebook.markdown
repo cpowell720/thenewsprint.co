@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Nock Co. DotDash Pocket Notebook
-date: 2015-03-11 09:29
+date: "2015-03-11 09:29"
 categories: featured
+published: true
 ---
 
 This may very well be the most *unique* review I’ve ever written. It's not every day hockey and memo books are discussed in the same review. 
@@ -75,7 +76,7 @@ Unfortunately, I use a Sharpie when on the ice due to colder temperatures, so sh
 
 Despite the DotDash’s flexible ability to contour nicely to my pocket, I’d love for a leather case to protect my notebook and to hide the bright yellow cover. I think the Nock Co. yellow brings so much character to the table, but it brings *too much* character to the ice as a hockey referee. If someone took advantage of my million dollar idea and created a nice leather cover to protect my new DotDash notebooks, I’d be ready and prepared for anything the game of hockey could throw my way.
 
-Overall though, this notebook is a pure winner. Whatever your use case, I'm sure the top-bound DotDash notebook will fill a unique roll in your workflow. And better yet, you'd be supporting some fantastic fellows by picking up a pack or two of these books. 
+Overall though, this notebook is a pure winner. Whatever your use case, I'm sure the [top-bound DotDash notebook](http://nockco.com/shop/dotdash-pocket-notebook) will fill a unique roll in your workflow. And better yet, you'd be supporting some fantastic fellows by picking up a pack or two of these books. 
 
 ---
 
@@ -83,4 +84,4 @@ Overall though, this notebook is a pure winner. Whatever your use case, I'm sure
 
 [^2]: The numbers and penalties shown in the photos are merely for example and do not reflect any situations I actually encountered.
 
-[^3]: The very first time I needed to pull out my riot pad, I scribbled down a number and the corresponding penalties beside the number. However, when I got to the penalty bench to report the penalty, I couldn't read the number. I guessed which player took the penalty, and I guessed wrong. The wrong player was suspended after that game. What a way to learn my lesson when it comes to in-game scribbling and legibility. 
+[^3]: The very first time I needed to pull out my riot pad, I scribbled down a number and the corresponding penalties beside the number. However, when I got to the penalty bench to report the penalty, I couldn't read the number. I guessed which player took the penalty, and I guessed wrong. The wrong player was suspended after that game. What a way to learn my lesson when it comes to in-game scribbling and legibility.
