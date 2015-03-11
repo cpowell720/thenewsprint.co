@@ -27,6 +27,7 @@ This document will serve as The Newsprint's unique style guide and will evolve o
 ### Reference
 - Amortization
 - Audacious Fox
+- Bleed-through
 - Colors Edition
 - Colour
 - Full-frame
@@ -39,5 +40,6 @@ This document will serve as The Newsprint's unique style guide and will evolve o
 - Past (noun, adjective)
 - Passed (verb; past participle)
 - Rip-off
+- Show-through
 - *The New York Times*
 - Tools & Toys
