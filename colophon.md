@@ -9,7 +9,7 @@ The Newsprint is written and produced by Josh Ginter.
 
 ![](http://thenewsprint.s3.amazonaws.com/media/Permanent%20Photos/Self-Portrait-Smaller-1.jpg)
 
-**Tools**
+##Tools
 
 The Newsprint is written primarily on an iPad Air 2.
 
@@ -21,7 +21,7 @@ The Newsprint's custom design was created by Josiah Wiebe of [Collectif](http://
 
 This is The Newsprint's evolving [Manual of Style.](http://thenewsprint.co/styleguide/)
 
-**Contact**
+##Contact
 
 Email: desk@thenewsprint.co
 
@@ -33,6 +33,6 @@ Feel free to send an email any time. I'll get back to you as soon as possible.
 
 I love reviewing and photographing new products. If you have a product you would like reviewed, get in touch.
 
-**Affiliate Link Policy**
+##Affiliate Link Policy
 
 Many of the links used here on The Newsprint are affiliate links. By shopping through these links, The Newsprint receives a small kickback. Thanks for your support of The Newsprint.
