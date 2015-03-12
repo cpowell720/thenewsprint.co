@@ -7,7 +7,7 @@ published: true
 
 The Newsprint is written and produced by Josh Ginter.
 
-*![](http://thenewsprint.s3.amazonaws.com/media/Permanent%20Photos/Self-Portrait-Smaller-1.jpg)*
+![](http://thenewsprint.s3.amazonaws.com/media/Permanent%20Photos/Self-Portrait-Smaller-1.jpg)
 
 **Tools**
 
