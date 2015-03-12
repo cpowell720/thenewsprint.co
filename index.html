@@ -16,7 +16,7 @@ layout: home
 
     <article class="post-preview">
       <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt | strip_html }}
+      <p>{{ post.excerpt | strip_html }}</p>
     </article>
   </section>
   {% endunless %}
@@ -32,7 +32,7 @@ layout: home
     {% endif %}
       <article class="post-preview">
         <h2 class="post-title"><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="permalink"><a href="{{ post.url | prepend: site.url }}">&#9679;</a></span>{% endif %}</h2>
-        {% if post.link %}{{ post.content }}{% else %}{{ post.excerpt | strip_html }}{% endif %}
+        {% if post.link %}{{ post.content }}{% else %}<p>{{ post.excerpt | strip_html }}</p>{% endif %}
       </article>
     </section>
     {% endunless %}
