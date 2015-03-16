@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “"The Apple Watch is finally a legitimate excuse for your friend to call you a snob again."”
+title: “The Apple Watch is finally a legitimate excuse for your friend to call you a snob again.”
 date: 2015-03-16 11:49
 link: http://www.digitaltrends.com/wearables/apple-watch-snobs/
 ---
