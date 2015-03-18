@@ -2,7 +2,6 @@
 layout: post
 title: Nock Co. DotDash Pocket Notebook
 date: "2015-03-11 09:29"
-categories: featured
 published: true
 ---
 
