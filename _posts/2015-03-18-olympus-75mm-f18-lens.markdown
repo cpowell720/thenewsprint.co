@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Olympus 75mm f/1.8 Lens"
-date: 2015-03-18 09:22
+title: Olympus 75mm f/1.8 Lens
+date: "2015-03-18 09:22"
 categories: featured
+published: true
 ---
 
 My wife’s sister lives about eight hours away and we get to see her sister’s family three or four times a year. Ever since they had kids, those three or four times a year have become a valuable chance to catch up with and get to know our nieces and nephews. Time has inevitably set in however — their kids are growing faster than we could ever imagine.
@@ -35,7 +36,7 @@ The [Olympus 75mm f/1.8](http://www.amazon.com/gp/product/B00CI3TQSO/ref=as_li_q
 
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/03/Olympus-75mm-1.jpg)*
 
-*![](http://thenewsprint.s3.amazonaws.com/media/2015/03/Olympus-75mm-38.jpg)
+*![](http://thenewsprint.s3.amazonaws.com/media/2015/03/Olympus-75mm-38.jpg)*
 
 Fast forward almost three years and not a whole lot has changed. Olympus has begun to release higher end lenses as part of the M. Zuiko Pro line that compete slightly with the 75mm and other manufacturers have released a few lenses in the same focal length range as well. Even still, the 75mm provides some of the best optics in the Micro 4/3 system and remains one of the highest quality lenses money can buy at this point in time.
 
