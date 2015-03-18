@@ -122,7 +122,7 @@ The lens mount is made of metal, meaning the mount between camera and lens is as
 
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/03/Olympus-75mm-14.jpg)*
 
-The 56mm front element is protected by a 58mm lens cap. Normally, I would stay away from talking about a lens cap, but this lens cap actually disappoints me. It is unmounted by pushing in the notches on the sides of the lens cap. Overall, this wouldn’t be a big deal. However, once a lens hood is attached,[^1] the lens cap becomes extremely difficult to dismount. Olympus’ Pro lenses have a mechanism on the front of their lens caps which aids in quickly removing the lens cap with the lens hood mounted. It’s little details like this that push lenses into ultra-high quality territory, and the 75mm drops the ball on this one.
+The 58mm front element is protected by a 58mm lens cap. Normally, I would stay away from talking about a lens cap, but this lens cap actually disappoints me. It is unmounted by pushing in the notches on the sides of the lens cap. Overall, this wouldn’t be a big deal. However, once a lens hood is attached,[^1] the lens cap becomes extremely difficult to dismount. Olympus’ Pro lenses have a mechanism on the front of their lens caps which aids in quickly removing the lens cap with the lens hood mounted. It’s little details like this that push lenses into ultra-high quality territory, and the 75mm drops the ball on this one.
 
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/03/Olympus-75mm-3.jpg)*
 
