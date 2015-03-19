@@ -1,10 +1,11 @@
 ---
 layout: post
 title: NeuBible
-date: 2015-03-19 14:25
-link: https://itunes.apple.com/ca/app/neubible/id961857426?mt=8&uo=4&at=1l3v5At&ct=
+date: "2015-03-19 14:25"
+link: "https://itunes.apple.com/ca/app/neubible/id961857426?mt=8&uo=4&at=1l3v5At&ct="
+published: true
 ---
 
-I came across this beautifully designed app when it stumbled through my Twitter timeline. I've long been looking for a simple, beautiful app to read The Bible. This looks to be it. 
+I came across this beautifully designed app when it stumbled through my Twitter timeline this morning. I've long been looking for a simple, beautiful Bible app. This looks to be it. 
 
 (Via [Chris Bowler](http://chrisbowler.com))
