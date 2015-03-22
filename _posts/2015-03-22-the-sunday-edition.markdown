@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Sunday Edition
@@ -30,4 +29,4 @@ Trust me, you don't want to miss these links.
 * Single Column Legacy ESV (Part 1): Interview with Crossway — ([Bible Design Blog](http://www.bibledesignblog.com/2012/01/single-column-legacy-esv-part-1-interview-with-crossway.html)) via [Scotty Loveless](http://www.scottyloveless.com/)
 * Tipping: polite gift or demeaning hand-out? — ([Aeon](http://aeon.co/magazine/culture/tipping-polite-gift-or-demeaning-hand-out/))
 
-Happy Sunday. 
+Happy Sunday.
