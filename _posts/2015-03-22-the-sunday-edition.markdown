@@ -6,7 +6,7 @@ date: 2015-03-22 10:59
 categories: sundayedition
 ---
 
-Ladies and gentlemen: There's some incredible work in the list this week and I recommend an hour to an hour and a half this afternoon/evening to absorb it all.
+There's some incredible work in the list this week and I recommend an hour to an hour and a half this afternoon/evening to absorb it all.
 
 Trust me, you don't want to miss these links. 
 
