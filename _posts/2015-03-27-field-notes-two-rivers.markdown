@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Field Notes: Two Rivers"
-date: 2015-03-27 09:15
+date: "2015-03-27 09:15"
 categories: featured
+published: true
 ---
 
 My COLORS subscription had to be renewed a few weeks ago. I reflected on the prior year of Field Notes shipments and the old editions I got my hands on in that time, and I pondered whether a new subscription was worth it. They’re just memo books after all.
@@ -83,7 +84,7 @@ Those 3/8” corners and the Field Notes Brand design are one in the same.
 
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/03/FN-Two-Rivers-12.jpg)*
 
-So imagine my glee when I pulled out this mule.[^1] There’s no doubt about it: this corner was botched, bruised, and battered in the cutting process. Not only is it not a 3/8” radius, there are even frayed fibres of paper freely hanging from the cover’s edge. This corner has made this Two Rivers book my *second* favourite individual book. 
+So imagine my glee when I pulled out this mule.[^1] There’s no doubt about it: the yellow book's corner was botched, bruised, and battered in the cutting process. Not only is it not a 3/8” radius, there are even frayed fibres of paper freely hanging from the cover’s edge. This corner has made this Two Rivers book my *second* favourite individual book. 
 
 These mistakes are so *human*, so natural. They are representative of a process completed not by a machine, but by a human being. With their own bare hands. With their own eyes and their own measurement tools. Lasers, CNC machines, and quality control were all cast aside for this beautiful corner to make it into my hands. 
 
