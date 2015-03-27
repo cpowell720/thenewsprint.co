@@ -2,7 +2,6 @@
 layout: post
 title: Olympus 75mm f/1.8 Lens
 date: "2015-03-18 09:22"
-categories: featured
 published: true
 ---
 
@@ -243,4 +242,4 @@ There is nothing more fascinating than the unique, individual stories of *people
 
 [^1]: Which, oddly, isn’t included in the box at the point of purchase. The 75mm lens hood is fairly large in size and is also quite expensive. A lens at this price should include a lens hood and a carrying bag in my opinion, especially when you consider the 12-40mm f/2.8 Pro is basically the same price and includes a high end carrying case and a top notch lens hood. 
 
-[^2]: Boy. Is it just me or is it blatantly obvious the above photo was shot with an iPhone 6 Plus? I mean, for a smartphone camera, wow. But I’m starting to think I need a second camera body for reviews like this.
+[^2]: Boy. Is it just me or is it blatantly obvious the above photo was shot with an iPhone 6 Plus? I mean, for a smartphone camera, wow. But I’m starting to think I need a second camera body for reviews like this
