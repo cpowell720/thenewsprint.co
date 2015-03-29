@@ -2,7 +2,7 @@
 layout: post
 title: The Sunday Edition
 date: 2015-03-29 12:00
-categories: featured
+categories: sundayedition
 ---
 
 GitHub Pages has been under a large scale DDOS attack over the last few days and it has begun to affect The Newsprint. If you are lucky enough to get this page to load, I hope you enjoy these awesome reads from the past week. 
