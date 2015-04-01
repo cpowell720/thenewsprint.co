@@ -43,6 +43,12 @@ Before we go there, here's my iPhone with exactly zero changes.
 * [Microsoft Outlook](https://itunes.apple.com/ca/app/microsoft-outlook/id951937596?mt=8&uo=4&at=1l3v5At)
 * [Tweetbot 3](https://itunes.apple.com/ca/app/tweetbot-3-for-twitter-iphone/id722294701?mt=8&uo=4&at=1l3v5At)
 
+---
+
+Here's the [wallpaper](http://thenewsprint.s3.amazonaws.com/media/2015/04/April%Homescreen%Wallpaper.png)
+
+---
+
 As it turns out, I slightly lied: there are two very small changes. Both Overcast and Instapaper graduated from their beta statuses in March. Other than that, it’s the status quo.
 
 Secondly, iPad:
