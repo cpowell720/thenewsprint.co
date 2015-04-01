@@ -2,7 +2,6 @@
 layout: post
 title: "Field Notes: Two Rivers"
 date: "2015-03-27 09:15"
-categories: featured
 published: true
 ---
 
