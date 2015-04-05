@@ -12,7 +12,7 @@ There’s a lot to consume in this Sunday Edition. If you don’t find time to g
 However, if you find a lull during your family gathering, I’ve got you covered.
 
 * Slap Shots — ([The Players’ Tribune](http://www.theplayerstribune.com/david-klutho-hockey-photos/))
-* The Ruralist — ([J.D. Bentley](http://jdbentley.com/journal/ruralist)
+* The Ruralist — ([J.D. Bentley](http://jdbentley.com/journal/ruralist))
 * The Urbanist ([Sanspoint](http://www.sanspoint.com/archives/2015/03/29/the-urbanist/))
 * Nock Co. Fodderstack XL Review — ([Write Analog](http://writeanalog.com/nock-co-fodderstack-xl-review/))
 * iPhone Killer: The Secret History of the Apple Watch — ([Wired](http://www.wired.com/2015/04/the-apple-watch/))
