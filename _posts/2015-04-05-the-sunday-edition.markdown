@@ -26,8 +26,8 @@ However, if you find a lull during your family gathering, I’ve got you covered
 * Defending Darwin — ([Slate](http://www.slate.com/articles/health_and_science/science/2015/03/teaching_human_evolution_at_the_university_of_kentucky_there_are_some_students.html))
 * Hobbiton Movie Set is a Real Life Version of Middle-Earth You Can Visit — ([My Modern Met](http://www.mymodernmet.com/profiles/blogs/hobbiton-tours-matamata-attraction))
 * Sprung — ([Fifty Foot Shadows](http://fiftyfootshadows.net/2015/03/31/sprung/))
-* Introvert — ([Iain Simpson](http://iain-simpson.org/)) via [Pete Denison](http://petedenison.net/2015/04/04/no-need-to-ask-ill-tell-you/))
+* Introvert — ([Iain Simpson](http://iain-simpson.org/)) via [Pete Denison](http://petedenison.net/2015/04/04/no-need-to-ask-ill-tell-you/)
 * So, There Were Tunnels to Celebrity Homes Below the Playboy Mansion — ([Playboy](http://www.playboy.com/articles/tunnels-to-celebrity-homes-playboy-mansion)) via [Analog Senses](http://www.analogsenses.com/2015/03/31/the-secret-tunnels-below-the-playboy-mansion-that-led-to-the-homes-of-some-hollywood-celebrities/)
 * By Barn Images — ([Unsplash](https://unsplash.com/photos/hBYzBU1xP6s))
 
-Happy Easter Sunday. 
+Happy Easter Sunday.
