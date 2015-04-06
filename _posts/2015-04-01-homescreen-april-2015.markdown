@@ -2,7 +2,6 @@
 layout: post
 title: "Homescreen: April 2015"
 date: 2015-04-01 09:14
-categories: featured
 ---
 
 The difficulty in posting a set of homescreens every month is in keeping it fresh and new. I’ve really struggled recently to find apps that uproot my favourites. I always come back to Tweetbot, Fantastical, Omnifocus, and Reeder no matter how hard I try. 
@@ -142,4 +141,4 @@ Day One was the first app I ever bought off the Mac App Store. It has sat in my 
 
 Lastly (for now), I use Adobe Lightroom to edit photos. I’ve had a bit of a hiccup so far with the new iMac though, as the hard drive I keep my Lightroom library on has started to test my patience. I dearly hope I haven’t lost all my images from the past few months. I’ll dedicate the next few days to retrieving everything I can.
 
-At this point, I’ll cut myself off. I’m utterly infatuated with this new Retina iMac and I’m really looking forward to seeing how it plays out in daily life. Photographing it as at the top of my to-do list, but that’s mostly so I can drool over the clarity of the images on the giant 27” screen. This is a neat tool and I hope it improves the quality of my work across the board
+At this point, I’ll cut myself off. I’m utterly infatuated with this new Retina iMac and I’m really looking forward to seeing how it plays out in daily life. Photographing it as at the top of my to-do list, but that’s mostly so I can drool over the clarity of the images on the giant 27” screen. This is a neat tool and I hope it improves the quality of my work across the boar
