@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20MP Sony Sensor May End up in Future Olympus Cameras
+title: 20MP Sony Sensor May End Up in Future Olympus Cameras
 date: 2015-04-11 18:00
 link: http://www.sony.net/Products/SC-HP/IS/sensor2/products/index.html
 ---
