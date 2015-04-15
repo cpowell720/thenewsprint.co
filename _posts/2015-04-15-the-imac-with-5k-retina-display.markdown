@@ -24,7 +24,7 @@ It's hard to look at Apple’s current desktop lineup and not feel let down by o
 
 The past few weeks have been a transition. I've had a notebook to carry for four years, so the thought of heading to the office without my personal notebook was strange. Nerve-racking actually. 
 
-Gone are the benefits of heading to the coffee shop to write or study. Gone is the ability to plug an HDMI chord into the MacBook Pro and watch *Suits* on the TV. Gone is full-throttle photo editing while backpacking in Europe.
+Gone are the benefits of heading to the coffee shop to write or study. Gone is the ability to plug an HDMI cord into the MacBook Pro and watch *Suits* on the TV. Gone is full-throttle photo editing while backpacking in Europe.
 
 But it's worked so far nonetheless. In the place of those compromises come some benefits I haven't had in many years.[^1] Any time I find myself wishing for a notebook, I sit at my desk, stare into the Retina iMac’s jaw-dropping display, and instantly remind myself that I’m on the greener side of the fence. 
 
