@@ -1,8 +1,9 @@
 ---
 layout: post
 title: The iMac with 5K Retina Display
-date: 2015-04-15 09:01
+date: "2015-04-15 09:01"
 categories: featured
+published: true
 ---
 
 Two weeks ago, I was convinced the new MacBook was the best computer out there. It is thin — ultra thin. It's light and super compact. It rocks a beautiful 12" screen. When Tim introduced the new MacBook for the first time, I had visions of traveling the world with nothing but a MacBook, a camera, and my wife.
@@ -34,8 +35,6 @@ Purchasing one of these gargantuan iMacs results in a fairly big hit on the wall
 *![](http://thenewsprint.s3.amazonaws.com/media/2015/04/Retina-iMac-Review-6.jpg)*
 
 So to cut costs, my wife and I sold our laptops and purchased a refurbished unit off Apple’s Refurbished Store. I’ve had good luck with refurbished Apple products — one of the laptops we just sold was a three year old refurbished 13” MacBook Pro which was running smoother than our two year old 13” Retina MacBook Pro. Apple’s refurbished goods go through an extensive amount of testing before being sent out to the market, so you can be sure you’re still getting a great product if you go the refurbished route.
-
-*![](http://thenewsprint.s3.amazonaws.com/media/2015/04/Retina-iMac-Review-5.jpg)*
 
 This Retina iMac is mostly no different. Out of the box, the entire machine is physically perfect, with no blemishes or scars. It even had that new Apple smell we all so heavily love.
 
