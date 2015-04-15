@@ -2,7 +2,6 @@
 layout: post
 title: Work
 date: 2015-04-11 13:45
-categories: featured
 ---
 
 It’s been awful quiet around here lately. Really quiet. More quiet than it’s ever been before. 
